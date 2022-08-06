@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.28</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>E:\xlights\Sequences\Christmas\Baby it's cold outside\Baby, It's Cold Outside _ Glee [HD FULL STUDIO].mp3</mediaFile>
+    <sequenceDuration>168.066</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="50ms" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Bars" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="Roofline" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="arches" visible="1"/>
+    <Element collapsed="0" type="model" name="balls" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
+    <Element collapsed="0" type="model" name="closet" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage and right top peak" visible="1"/>
+    <Element collapsed="0" type="model" name="Pepper Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="dining left" visible="1"/>
+    <Element collapsed="0" type="model" name="dining center" visible="1"/>
+    <Element collapsed="0" type="model" name="dining right" visible="1"/>
+    <Element collapsed="0" type="model" name="office roof" visible="1"/>
+    <Element collapsed="0" type="model" name="top peak" visible="1"/>
+    <Element collapsed="0" type="model" name="lower right peak" visible="1"/>
+    <Element collapsed="0" type="model" name="office right" visible="1"/>
+    <Element collapsed="0" type="model" name="office left" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="50ms" fixed="50">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Bars">
+      <EffectLayer>
+        <Effect label="1" startTime="2050" endTime="4200"></Effect>
+        <Effect label="2" startTime="4200" endTime="6400"></Effect>
+        <Effect label="3" startTime="6400" endTime="8600"></Effect>
+        <Effect label="4" startTime="8600" endTime="10500"></Effect>
+        <Effect label="5" startTime="10500" endTime="12400"></Effect>
+        <Effect label="6" startTime="12400" endTime="14200"></Effect>
+        <Effect label="7" startTime="14200" endTime="16350"></Effect>
+        <Effect label="8" startTime="16350" endTime="18750"></Effect>
+        <Effect label="9" startTime="18750" endTime="21100"></Effect>
+        <Effect label="10" startTime="21100" endTime="23250"></Effect>
+        <Effect label="11" startTime="23250" endTime="25350"></Effect>
+        <Effect label="12" startTime="25350" endTime="27500"></Effect>
+        <Effect label="13" startTime="27500" endTime="29650"></Effect>
+        <Effect label="14" startTime="29650" endTime="31800"></Effect>
+        <Effect label="15" startTime="31800" endTime="34000"></Effect>
+        <Effect label="16" startTime="34000" endTime="36250"></Effect>
+        <Effect label="17" startTime="36250" endTime="38350"></Effect>
+        <Effect label="18" startTime="38350" endTime="40450"></Effect>
+        <Effect label="19" startTime="40450" endTime="42600"></Effect>
+        <Effect label="20" startTime="42600" endTime="44750"></Effect>
+        <Effect label="21" startTime="44750" endTime="46950"></Effect>
+        <Effect label="22" startTime="46950" endTime="49100"></Effect>
+        <Effect label="23" startTime="49100" endTime="51250"></Effect>
+        <Effect label="24" startTime="51250" endTime="53350"></Effect>
+        <Effect label="25" startTime="53350" endTime="55400"></Effect>
+        <Effect label="26" startTime="55400" endTime="57700"></Effect>
+        <Effect label="27" startTime="57700" endTime="60000"></Effect>
+        <Effect label="28" startTime="60000" endTime="62450"></Effect>
+        <Effect label="29" startTime="62450" endTime="64950"></Effect>
+        <Effect label="30" startTime="64950" endTime="67400"></Effect>
+        <Effect label="31" startTime="67400" endTime="69650"></Effect>
+        <Effect label="32" startTime="69650" endTime="71800"></Effect>
+        <Effect label="33" startTime="71800" endTime="73950"></Effect>
+        <Effect label="34" startTime="73950" endTime="76100"></Effect>
+        <Effect label="35" startTime="76100" endTime="78250"></Effect>
+        <Effect label="36" startTime="78250" endTime="80450"></Effect>
+        <Effect label="37" startTime="80450" endTime="82600"></Effect>
+        <Effect label="38" startTime="82600" endTime="84750"></Effect>
+        <Effect label="39" startTime="84750" endTime="86900"></Effect>
+        <Effect label="40" startTime="86900" endTime="89100"></Effect>
+        <Effect label="41" startTime="89100" endTime="91250"></Effect>
+        <Effect label="42" startTime="91250" endTime="93400"></Effect>
+        <Effect label="43" startTime="93400" endTime="95550"></Effect>
+        <Effect label="44" startTime="95550" endTime="97750"></Effect>
+        <Effect label="45" startTime="97750" endTime="99900"></Effect>
+        <Effect label="46" startTime="99900" endTime="102050"></Effect>
+        <Effect label="47" startTime="102050" endTime="104200"></Effect>
+        <Effect label="48" startTime="104200" endTime="106450"></Effect>
+        <Effect label="49" startTime="106450" endTime="108850"></Effect>
+        <Effect label="50" startTime="108850" endTime="111300"></Effect>
+        <Effect label="51" startTime="111300" endTime="113450"></Effect>
+        <Effect label="52" startTime="113450" endTime="115550"></Effect>
+        <Effect label="53" startTime="115550" endTime="118050"></Effect>
+        <Effect label="54" startTime="118050" endTime="120500"></Effect>
+        <Effect label="55" startTime="120500" endTime="122700"></Effect>
+        <Effect label="56" startTime="122700" endTime="124800"></Effect>
+        <Effect label="57" startTime="124800" endTime="126850"></Effect>
+        <Effect label="58" startTime="126850" endTime="128800"></Effect>
+        <Effect label="59" startTime="128800" endTime="130750"></Effect>
+        <Effect label="60" startTime="130750" endTime="132850"></Effect>
+        <Effect label="61" startTime="132850" endTime="135050"></Effect>
+        <Effect label="62" startTime="135050" endTime="137200"></Effect>
+        <Effect label="63" startTime="137200" endTime="139350"></Effect>
+        <Effect label="64" startTime="139350" endTime="141500"></Effect>
+        <Effect label="65" startTime="141500" endTime="143650"></Effect>
+        <Effect label="66" startTime="143650" endTime="145900"></Effect>
+        <Effect label="67" startTime="145900" endTime="148050"></Effect>
+        <Effect label="68" startTime="148050" endTime="150200"></Effect>
+        <Effect label="69" startTime="150200" endTime="152350"></Effect>
+        <Effect label="70" startTime="152350" endTime="154400"></Effect>
+        <Effect label="71" startTime="154400" endTime="156500"></Effect>
+        <Effect label="72" startTime="156500" endTime="158600"></Effect>
+        <Effect label="73" startTime="158600" endTime="160650"></Effect>
+        <Effect label="74" startTime="160650" endTime="162550"></Effect>
+        <Effect label="75" startTime="162550" endTime="164400"></Effect>
+        <Effect label="76" startTime="164400" endTime="166250"></Effect>
+        <Effect label="77" startTime="166250" endTime="166250"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roofline">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="balls">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="closet">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage and right top peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pepper Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Frame">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pole Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="dining left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="dining center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="dining right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="top peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="lower right peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office left">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

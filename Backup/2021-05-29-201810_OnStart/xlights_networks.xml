@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="DESKTOP-J1UAV2N" GlobalFPPProxy="">
+  <Controller Id="1" Name="k8-pb-1 (garage)" Description="" Type="Ethernet" Vendor="KulpLights" Model="K8-PB" Variant="No Expansion" AutoSize="1" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.214" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.214" BaudRate="1" NetworkType="DDP" MaxChannels="4629"/>
+  </Controller>
+  <Controller Id="28" Name="k8-pb-2  (front  door)" Description="" Type="Ethernet" Vendor="KulpLights" Model="K8-PB" Variant="No Expansion" AutoSize="1" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.215" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.215" BaudRate="28" NetworkType="DDP" MaxChannels="5343"/>
+  </Controller>
+  <Controller Id="29" Name="k8-pb-3  (tree)" Description="" Type="Ethernet" Vendor="KulpLights" Model="K8-PB" Variant="No Expansion" AutoSize="1" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.216" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.216" BaudRate="29" NetworkType="DDP" MaxChannels="2928"/>
+  </Controller>
+  <Controller Id="3" Name="k4-pb-1 (closet)" Description="" Type="Ethernet" Vendor="KulpLights" Model="K4-PB" Variant="" AutoSize="1" DefaultBrightnessUnderFullControl="100" ActiveState="Active" AutoLayout="1" AutoUpload="0" SuppressDuplicates="0" IP="192.168.1.217" Protocol="DDP" FPPProxy="" Priority="100" Version="1" Expanded="FALSE">
+    <network ChannelsPerPacket="1440" KeepChannelNumbers="1" ComPort="192.168.1.217" BaudRate="3" NetworkType="DDP" MaxChannels="2703"/>
+  </Controller>
+</Networks>

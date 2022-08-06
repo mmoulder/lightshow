@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,136,,,,,129,,,,122,,,,115,,,,108,,;,,,,,,,,,,,,,,,,,,,,,,;,,137,138,135,,,130,131,128,,123,124,121,,116,117,114,,109,110,107,;,,140,139,134,,,133,132,127,,126,125,120,,119,118,113,,112,111,106,;,38,45,46,49,,50,59,60,63,64,73,74,77,78,87,88,91,,92,101,102,105;,,44,47,48,,,58,61,62,,72,75,76,,86,89,90,,,100,103,104;37,40,39,,,51,54,55,,65,68,69,,79,82,83,,,93,96,97,,;36,41,42,43,,52,53,56,57,66,67,70,71,80,81,84,85,,94,95,98,99,;,35,34,29,,28,27,22,,21,20,15,,14,13,8,,7,6,1,,,;,32,33,30,,25,26,23,,18,19,16,,11,12,9,,4,5,2,,,;,,,,,,,,,,,,,,,,,,,,,,;,,31,,,,24,,,,17,,,,10,,,,3,,,," parm1="23" parm2="12" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="140" PixelType="12mm bullet or square" PixelSpacing="" name="Boscoyo IcosaSphere Small-2" WorldPosX="-617.7658" WorldPosY="286.6719" WorldPosZ="220.6851" ScaleX="0.8948" ScaleY="1.7895" ScaleZ="3.9370" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Boscoyo IcosaSphere Small:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,136,,,,,129,,,,122,,,,115,,,,108,,;,,,,,,,,,,,,,,,,,,,,,,;,,137,138,135,,,130,131,128,,123,124,121,,116,117,114,,109,110,107,;,,140,139,134,,,133,132,127,,126,125,120,,119,118,113,,112,111,106,;,38,45,46,49,,50,59,60,63,64,73,74,77,78,87,88,91,,92,101,102,105;,,44,47,48,,,58,61,62,,72,75,76,,86,89,90,,,100,103,104;37,40,39,,,51,54,55,,65,68,69,,79,82,83,,,93,96,97,,;36,41,42,43,,52,53,56,57,66,67,70,71,80,81,84,85,,94,95,98,99,;,35,34,29,,28,27,22,,21,20,15,,14,13,8,,7,6,1,,,;,32,33,30,,25,26,23,,18,19,16,,11,12,9,,4,5,2,,,;,,,,,,,,,,,,,,,,,,,,,,;,,31,,,,24,,,,17,,,,10,,,,3,,,," parm1="23" parm2="12" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="140" PixelType="12mm bullet or square" PixelSpacing="" name="Boscoyo IcosaSphere Small-5" WorldPosX="-752.6606" WorldPosY="222.2439" WorldPosZ="157.2780" ScaleX="0.8948" ScaleY="1.7895" ScaleZ="3.9370" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Boscoyo IcosaSphere Small-4:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,136,,,,,129,,,,122,,,,115,,,,108,,;,,,,,,,,,,,,,,,,,,,,,,;,,137,138,135,,,130,131,128,,123,124,121,,116,117,114,,109,110,107,;,,140,139,134,,,133,132,127,,126,125,120,,119,118,113,,112,111,106,;,38,45,46,49,,50,59,60,63,64,73,74,77,78,87,88,91,,92,101,102,105;,,44,47,48,,,58,61,62,,72,75,76,,86,89,90,,,100,103,104;37,40,39,,,51,54,55,,65,68,69,,79,82,83,,,93,96,97,,;36,41,42,43,,52,53,56,57,66,67,70,71,80,81,84,85,,94,95,98,99,;,35,34,29,,28,27,22,,21,20,15,,14,13,8,,7,6,1,,,;,32,33,30,,25,26,23,,18,19,16,,11,12,9,,4,5,2,,,;,,,,,,,,,,,,,,,,,,,,,,;,,31,,,,24,,,,17,,,,10,,,,3,,,," parm1="23" parm2="12" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="140" PixelType="12mm bullet or square" PixelSpacing="" name="Boscoyo IcosaSphere Small-4" WorldPosX="-549.7616" WorldPosY="371.7294" WorldPosZ="218.7894" ScaleX="0.8948" ScaleY="1.7895" ScaleZ="3.9370" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Boscoyo IcosaSphere Small-3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,136,,,,,129,,,,122,,,,115,,,,108,,;,,,,,,,,,,,,,,,,,,,,,,;,,137,138,135,,,130,131,128,,123,124,121,,116,117,114,,109,110,107,;,,140,139,134,,,133,132,127,,126,125,120,,119,118,113,,112,111,106,;,38,45,46,49,,50,59,60,63,64,73,74,77,78,87,88,91,,92,101,102,105;,,44,47,48,,,58,61,62,,72,75,76,,86,89,90,,,100,103,104;37,40,39,,,51,54,55,,65,68,69,,79,82,83,,,93,96,97,,;36,41,42,43,,52,53,56,57,66,67,70,71,80,81,84,85,,94,95,98,99,;,35,34,29,,28,27,22,,21,20,15,,14,13,8,,7,6,1,,,;,32,33,30,,25,26,23,,18,19,16,,11,12,9,,4,5,2,,,;,,,,,,,,,,,,,,,,,,,,,,;,,31,,,,24,,,,17,,,,10,,,,3,,,," parm1="23" parm2="12" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="140" PixelType="12mm bullet or square" PixelSpacing="" name="Boscoyo IcosaSphere Small-3" WorldPosX="-535.6654" WorldPosY="260.5309" WorldPosZ="157.2780" ScaleX="0.8948" ScaleY="1.7895" ScaleZ="3.9370" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Boscoyo IcosaSphere Small-2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,136,,,,,129,,,,122,,,,115,,,,108,,;,,,,,,,,,,,,,,,,,,,,,,;,,137,138,135,,,130,131,128,,123,124,121,,116,117,114,,109,110,107,;,,140,139,134,,,133,132,127,,126,125,120,,119,118,113,,112,111,106,;,38,45,46,49,,50,59,60,63,64,73,74,77,78,87,88,91,,92,101,102,105;,,44,47,48,,,58,61,62,,72,75,76,,86,89,90,,,100,103,104;37,40,39,,,51,54,55,,65,68,69,,79,82,83,,,93,96,97,,;36,41,42,43,,52,53,56,57,66,67,70,71,80,81,84,85,,94,95,98,99,;,35,34,29,,28,27,22,,21,20,15,,14,13,8,,7,6,1,,,;,32,33,30,,25,26,23,,18,19,16,,11,12,9,,4,5,2,,,;,,,,,,,,,,,,,,,,,,,,,,;,,31,,,,24,,,,17,,,,10,,,,3,,,," parm1="23" parm2="12" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="140" PixelType="12mm bullet or square" PixelSpacing="" name="Boscoyo IcosaSphere Small" WorldPosX="-743.1888" WorldPosY="318.2375" WorldPosZ="273.7189" ScaleX="0.8948" ScaleY="1.7895" ScaleZ="3.9370" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;closet:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="closet" Active="1" parm2="275" WorldPosX="-358.9542" WorldPosY="356.9593" WorldPosZ="-187.4990" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="7" PointData="83.562500,0.000000,1.934021,17.616821,0.454254,1.678833,16.557648,-3.634155,8.163879,-73.136963,-4.088409,7.862686,-72.682678,-0.454285,1.567993,-121.637360,-0.454285,0.000000,-124.269104,-4.025726,-254.112732" cPointData="" Locked="1" versionNumber="5" StartChannel="&gt;Garage and right top peak:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Garage and right top peak" Active="1" parm2="457" WorldPosX="383.0988" WorldPosY="417.4630" WorldPosZ="23.4129" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="6" PointData="0.000000,0.000000,0.000000,12.392853,2.816467,0.000000,185.233246,-47.883270,0.000000,186.204437,-57.370941,0.000000,218.564362,-54.922821,0.000000,211.804657,-67.833801,-557.491394" cPointData="" Locked="1" versionNumber="5" StartChannel="&gt;Tree-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Tree-2" LayoutGroup="Default" TreeRotation="1.000000" DisplayAs="Tree 360" TreeBottomTopRatio="1.000000" parm1="1" TreeSpiralRotations="4.000000" parm2="276" WorldPosX="-664.8306" WorldPosY="229.4259" WorldPosZ="195.3349" ScaleX="0.1000" ScaleY="0.2392" ScaleZ="0.1000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Boscoyo ChromaFlake 24 3 prong:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,,,,,,,,29,,,28,,,,,,,,22,,,,21,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,27,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,30,,,,,,,,,,,,,,,19,,,,20,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,,,23,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,32,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,25,,24,,,,,,,,,,,,,,;,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,;,,,,,,,,,,,,,33,,,,,,,,17,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;37,,,35,,,39,,,34,,40,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,16,,10,,,15,,,11,,,13;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,41,,,,,,,,9,,,,,,,,,,,,,;,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,,;,,,,,,,,,,,,,,48,,1,,,8,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,42,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,47,,,,,,,,,,,7,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,44,,,,,,,,,,,,,,,,,,,,,6,,,,,,;,,,,,,,,,43,,,,,,,,,,,,,,3,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,45,,,,46,,,,,,,,,,4,,,5,,,,,,,,," parm1="34" parm2="32" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="48" PixelType="12mm square" PixelSpacing="" name="Boscoyo ChromaFlake 24 3 prong" WorldPosX="-6.7422" WorldPosY="405.8076" WorldPosZ="54.9385" ScaleX="0.9896" ScaleY="0.8676" ScaleZ="0.9896" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Door Frame:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Door Frame" parm2="256" WorldPosX="-47.3781" WorldPosY="220.3131" WorldPosZ="84.6441" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="8" PointData="0.000000,0.000000,0.000000,0.360134,133.601242,0.000000,-7.922428,132.160782,0.000000,-7.922428,143.684341,0.000000,86.066544,145.484909,0.000000,89.307556,131.080460,0.000000,79.944656,131.440567,0.000000,79.584549,-0.720184,0.000000" cPointData="" Locked="1" versionNumber="5" StartChannel="&gt;Tree:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Tree" parm1="16" DisplayAs="Tree 360" LayoutGroup="Default" parm2="31" WorldPosX="813.9835" WorldPosY="225.3495" WorldPosZ="276.7655" ScaleX="1.4266" ScaleY="1.1123" ScaleZ="1.4266" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Arches-9:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-9" parm2="69" WorldPosX="640.1342" WorldPosY="172.3593" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-8:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-8" parm2="69" WorldPosX="565.5560" WorldPosY="172.3593" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-7:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-7" parm2="69" WorldPosX="490.9797" WorldPosY="172.3594" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-6:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-6" parm2="69" WorldPosX="415.0476" WorldPosY="175.0713" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-5:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-5" parm2="69" WorldPosX="336.4032" WorldPosY="176.4272" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-4:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-4" parm2="69" WorldPosX="263.1833" WorldPosY="180.4950" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-3" parm2="69" WorldPosX="184.5387" WorldPosY="183.2069" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;Arches-2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="Arches-2" parm2="69" WorldPosX="106.0328" WorldPosY="182.1722" WorldPosZ="209.0186" X2="74.416382" Y2="-1.404083" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" Locked="1" versionNumber="5" StartChannel="&gt;office left:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" name="dining left" parm1="30" parm2="60" parm3="30" WorldPosX="285.2645" WorldPosY="293.5246" WorldPosZ="0.0000" ScaleX="1.1800" ScaleY="1.3463" ScaleZ="0.0322" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;dining center:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" name="dining center" parm1="30" parm2="60" parm3="30" WorldPosX="359.4841" WorldPosY="292.5840" WorldPosZ="0.0000" ScaleX="1.2275" ScaleY="1.3482" ScaleZ="0.0323" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;dining right:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" name="dining right" parm1="30" parm2="60" parm3="30" WorldPosX="433.9979" WorldPosY="295.2872" WorldPosZ="0.0000" ScaleX="1.2572" ScaleY="1.4048" ScaleZ="1.2572" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;office roof:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="office roof" Active="1" parm2="266" WorldPosX="-71.7942" WorldPosY="385.1328" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="3" PointData="-0.312927,-1.578339,0.000000,-195.351257,-5.263275,0.000000,-188.469025,-10.982635,-189.163284" cPointData="" Locked="1" versionNumber="5" StartChannel="&gt;top peak:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="top peak" Active="1" parm2="458" WorldPosX="81.2532" WorldPosY="408.5821" WorldPosZ="83.0237" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="9" PointData="-4.731277,40.398834,-240.863632,-6.568359,39.201782,0.000000,-28.425964,39.201782,0.000000,-28.832764,46.621643,0.000000,-89.050354,63.272552,0.000000,-148.893494,44.213318,0.000000,-149.087463,37.327332,0.000000,-170.618347,36.648438,0.000000,-171.933594,36.948212,-246.995148" cPointData="" Locked="1" versionNumber="5" StartChannel="&gt;lower right peak:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Poly Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="lower right peak" Active="1" parm2="214" WorldPosX="528.1697" WorldPosY="360.2487" WorldPosZ="55.3053" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="8" PointData="0.000000,0.000000,0.000000,-23.671143,0.000061,0.000000,-24.798340,6.763245,0.000000,-163.832153,48.296051,0.000000,-296.771667,3.731110,0.000000,-296.143616,-2.128510,0.000000,-322.904785,-3.689575,0.000000,-466.722778,-6.465973,0.000000" cPointData="" Locked="1" versionNumber="5" StartChannel="1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" name="office right" parm1="30" parm2="60" parm3="30" WorldPosX="-104.3929" WorldPosY="292.9678" WorldPosZ="0.0000" ScaleX="0.9763" ScaleY="1.3610" ScaleZ="0.0323" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;dining left:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Window Frame" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" Rotation="CW" LayoutGroup="Default" name="office left" parm2="60" parm3="30" parm1="30" WorldPosX="-195.2821" WorldPosY="292.3091" WorldPosZ="0.0000" ScaleX="0.9086" ScaleY="1.3723" ScaleZ="0.0322" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;office right:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Image" LayoutGroup="Default" name="top down" Transparency="70" Image="/run/media/bryce/New Volume/house_top.png" WorldPosX="194.3218" WorldPosY="168.2538" WorldPosZ="-592.9927" ScaleX="4.0000" ScaleY="4.0000" ScaleZ="4.0000" RotateX="90.00000000" RotateY="180.00000000" RotateZ="180.00000000" versionNumber="5"/>
+    <view_object DisplayAs="Image" LayoutGroup="Default" name="front" Transparency="80" Brightness="100" Image="/run/media/bryce/New Volume/house-front.jpg" WorldPosX="6.6056" WorldPosY="267.1534" WorldPosZ="-12.4509" ScaleX="0.3300" ScaleY="0.3200" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0006"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="Roofline" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="top peak,lower right peak,Garage and right top peak,office roof,closet"/>
+    <modelGroup selected="0" name="Windows" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="dining left,dining center,dining right,office left,office right"/>
+    <modelGroup selected="0" name="arches" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Arches-9,Arches-8,Arches-7,Arches-6,Arches-5,Arches-4,Arches-3,Arches-2"/>
+    <modelGroup selected="0" name="balls" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Boscoyo IcosaSphere Small,Boscoyo IcosaSphere Small-2,Boscoyo IcosaSphere Small-3,Boscoyo IcosaSphere Small-4,Boscoyo IcosaSphere Small-5"/>
+    <modelGroup selected="0" name="All" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Roofline,Windows,arches,balls,Boscoyo ChromaFlake 24 3 prong,Door Frame,Tree,Tree-2"/>
+  </modelGroups>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293500;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293500;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099196;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=232;besth=184;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=546;besth=1008;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=516;besth=326;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1116;besth=744;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=445;besth=488;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=376;besth=398;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=373;besth=567;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=281;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=38;floaty=38;floatw=422;floath=337|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=167;besth=74;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=349|dock_size(1,0,0)=116|dock_size(5,0,0)=169|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <Display2DBoundingBox value="0"/>
+    <scaleImage value="1"/>
+    <Display2DCenter0 value="1"/>
+    <backgroundBrightness value="25"/>
+    <backgroundImage value="/run/media/bryce/New Volume/house-front.jpg"/>
+    <previewWidth value="1289"/>
+    <previewHeight value="500"/>
+  </settings>
+  <colors>
+    <DisabledEffect Red="255" Green="255" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="0"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="0"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.30</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>I Want Candy</song>
+    <artist>Bow Wow Wow</artist>
+    <album>21 Totally 80s Hits</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>/media/bryce/XLIGHTS/Sequences/Halloween/I Want Candy/09 I Want Candy.m4a</mediaFile>
+    <sequenceDuration>163.676</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#961DFF,C_BUTTON_Palette2=#FF4600,C_BUTTON_Palette3=#51FF1F,C_BUTTON_Palette4=#00ECFF,C_BUTTON_Palette5=#FF0080,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#FFFFFF,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Roofline Pulse,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=31</Effect>
+    <Effect>E_CHOICE_VUMeter_Type=Level Pulse Color,E_SLIDER_VUMeter_Bars=96,E_SLIDER_VUMeter_Gain=-20,E_SLIDER_VUMeter_Sensitivity=22,E_TEXTCTRL_VUMeter_Gain=-20</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="21935" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="Roofline Pulse" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="timing" name="Drums" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="model" name="Roofline" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="arches" visible="1"/>
+    <Element collapsed="0" type="model" name="balls" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
+    <Element collapsed="0" type="model" name="closet" visible="1"/>
+    <Element collapsed="0" type="model" name="Garage and right top peak" visible="1"/>
+    <Element collapsed="0" type="model" name="Pepper Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-9" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="dining left" visible="1"/>
+    <Element collapsed="0" type="model" name="dining center" visible="1"/>
+    <Element collapsed="0" type="model" name="dining right" visible="1"/>
+    <Element collapsed="0" type="model" name="office roof" visible="1"/>
+    <Element collapsed="0" type="model" name="top peak" visible="1"/>
+    <Element collapsed="0" type="model" name="lower right peak" visible="1"/>
+    <Element collapsed="0" type="model" name="office right" visible="1"/>
+    <Element collapsed="0" type="model" name="office left" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="Roofline Pulse">
+      <EffectLayer>
+        <Effect label="" startTime="24325" endTime="24600"></Effect>
+        <Effect label="" startTime="24600" endTime="26550"></Effect>
+        <Effect label="" startTime="26550" endTime="26825"></Effect>
+        <Effect label="" startTime="26825" endTime="28700"></Effect>
+        <Effect label="" startTime="28700" endTime="28950"></Effect>
+        <Effect label="" startTime="28950" endTime="30775"></Effect>
+        <Effect label="" startTime="30775" endTime="31025"></Effect>
+        <Effect label="" startTime="31025" endTime="34000"></Effect>
+        <Effect label="" startTime="34000" endTime="35275"></Effect>
+        <Effect label="" startTime="35275" endTime="35600"></Effect>
+        <Effect label="" startTime="35600" endTime="38350"></Effect>
+        <Effect label="" startTime="38350" endTime="39625"></Effect>
+        <Effect label="" startTime="39625" endTime="39950"></Effect>
+        <Effect label="" startTime="39950" endTime="42775"></Effect>
+        <Effect label="" startTime="42775" endTime="44100"></Effect>
+        <Effect label="" startTime="44100" endTime="44425"></Effect>
+        <Effect label="" startTime="44425" endTime="47150"></Effect>
+        <Effect label="" startTime="47150" endTime="48500"></Effect>
+        <Effect label="" startTime="48500" endTime="48775"></Effect>
+        <Effect label="" startTime="48775" endTime="49300"></Effect>
+        <Effect label="" startTime="49300" endTime="50625"></Effect>
+        <Effect label="" startTime="50625" endTime="50875"></Effect>
+        <Effect label="" startTime="50875" endTime="51500"></Effect>
+        <Effect label="" startTime="51500" endTime="52850"></Effect>
+        <Effect label="" startTime="52850" endTime="53125"></Effect>
+        <Effect label="" startTime="53125" endTime="53750"></Effect>
+        <Effect label="" startTime="53750" endTime="55025"></Effect>
+        <Effect label="" startTime="55025" endTime="55225"></Effect>
+        <Effect label="" startTime="55225" endTime="55875"></Effect>
+        <Effect label="" startTime="55875" endTime="57225"></Effect>
+        <Effect label="" startTime="57225" endTime="57500"></Effect>
+        <Effect label="" startTime="57500" endTime="68675"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="timing" name="Drums">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="100"></Effect>
+        <Effect label="" startTime="100" endTime="625"></Effect>
+        <Effect label="" startTime="625" endTime="1100"></Effect>
+        <Effect label="" startTime="1100" endTime="1725"></Effect>
+        <Effect label="" startTime="1725" endTime="2050"></Effect>
+        <Effect label="" startTime="2050" endTime="2400"></Effect>
+        <Effect label="" startTime="2400" endTime="2750"></Effect>
+        <Effect label="" startTime="2750" endTime="3300"></Effect>
+        <Effect label="" startTime="3300" endTime="3725"></Effect>
+        <Effect label="" startTime="3725" endTime="4425"></Effect>
+        <Effect label="" startTime="4425" endTime="4675"></Effect>
+        <Effect label="" startTime="4675" endTime="4975"></Effect>
+        <Effect label="" startTime="4975" endTime="5300"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roofline">
+      <EffectLayer>
+        <Effect ref="0" name="VU Meter" startTime="0" endTime="71075" palette="0"/>
+      </EffectLayer>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer>
+        <Effect ref="1" name="VU Meter" selected="1" startTime="5300" endTime="13900" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="balls">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
+      <EffectLayer>
+        <Effect ref="0" name="VU Meter" id="1" startTime="0" endTime="87825" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="closet">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Garage and right top peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pepper Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Door Frame">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pole Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-9">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="dining left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="dining center">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="dining right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="top peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="lower right peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office right">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office left">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
