@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custommodel 
+name="Boscoyo IcosaSphere Small" parm1="23" parm2="12" Depth="1" StringType="RGB Nodes" Transparency="0" PixelSize="2" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" CustomModel=",,,136,,,,,129,,,,122,,,,115,,,,108,,;,,,,,,,,,,,,,,,,,,,,,,;,,137,138,135,,,130,131,128,,123,124,121,,116,117,114,,109,110,107,;,,140,139,134,,,133,132,127,,126,125,120,,119,118,113,,112,111,106,;,38,45,46,49,,50,59,60,63,64,73,74,77,78,87,88,91,,92,101,102,105;,,44,47,48,,,58,61,62,,72,75,76,,86,89,90,,,100,103,104;37,40,39,,,51,54,55,,65,68,69,,79,82,83,,,93,96,97,,;36,41,42,43,,52,53,56,57,66,67,70,71,80,81,84,85,,94,95,98,99,;,35,34,29,,28,27,22,,21,20,15,,14,13,8,,7,6,1,,,;,32,33,30,,25,26,23,,18,19,16,,11,12,9,,4,5,2,,,;,,,,,,,,,,,,,,,,,,,,,,;,,31,,,,24,,,,17,,,,10,,,,3,,,," SourceVersion="2023.11"  >
+<modelGroup selected="0" name="All" LayoutGroup="Default" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid" models=""/>
+
+<modelGroup selected="0" name="balls" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Boscoyo IcosaSphere Small,Boscoyo IcosaSphere Small-2,Boscoyo IcosaSphere Small-3,Boscoyo IcosaSphere Small-4,Boscoyo IcosaSphere Small-5"/>
+
+</custommodel>
