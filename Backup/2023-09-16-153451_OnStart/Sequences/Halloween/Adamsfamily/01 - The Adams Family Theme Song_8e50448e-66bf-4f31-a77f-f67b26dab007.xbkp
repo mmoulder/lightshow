@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
   <head>
-    <version>2023.14</version>
+    <version>2023.13</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -14,7 +14,7 @@
     <sequenceType>Media</sequenceType>
     <mediaFile>F:\xlights new\Sequences\Halloween\Adamsfamily\01 - The Adams Family Theme Song_8e50448e-66bf-4f31-a77f-f67b26dab007.mp3</mediaFile>
     <sequenceDuration>83.644</sequenceDuration>
-    <imageDir/>
+    <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
