@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2023.14</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Dead Man&amp;apos;s Party</song>
+    <artist>Oingo Boingo</artist>
+    <album>Dead Man&amp;apos;s Party</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>F:\git\lightshow\Sequences\Halloween\Dead Man's Party\Dead Mans Party.m4a</mediaFile>
+    <sequenceDuration>381.641</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes/>
+  <EffectDB/>
+  <DataLayers>
+    <DataLayer lor_params="396" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="arches" visible="1"/>
+    <Element collapsed="0" type="model" name="balls" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixs" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelights" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Guest" visible="1"/>
+    <Element collapsed="0" type="model" name="Office" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelight left" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelight right" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="balls">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrixs">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sidelights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pole Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Guest">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Office">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sidelight left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sidelight right">
+      <EffectLayer/>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
