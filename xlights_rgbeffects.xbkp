@@ -130,13 +130,13 @@
   <settings>
     <Display2DBoundingBox value="0"/>
     <backgroundBrightness value="23"/>
-    <backgroundImage value="F:\git\lightshow\pictures\new house.jpeg"/>
     <scaleImage value="0"/>
     <Display2DGrid value="0"/>
     <Display2DCenter0 value="0"/>
     <storedLayoutGroup value="Default"/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
+    <backgroundImage value="C:\Users\dylan\OneDrive\Documents\123\lightshow-mapleton\pictures\new house.jpeg"/>
   </settings>
   <colors>
     <DisabledEffect Red="255" Green="255" Blue="0"/>
