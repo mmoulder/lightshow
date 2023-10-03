@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.14</version>
+    <version>2023.15</version>
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
@@ -12,7 +12,7 @@
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>F:\git\lightshow\Sequences\Halloween\Thriller\Thriller.mp3</mediaFile>
+    <mediaFile>C:\Users\dylan\OneDrive\Documents\123\lightshow\Sequences\Halloween\Thriller\Thriller.mp3</mediaFile>
     <sequenceDuration>314.533</sequenceDuration>
     <imageDir/>
   </head>
@@ -251,16 +251,20 @@
         <Effect ref="0" name="Faces" id="10" startTime="274600" endTime="277450" palette="0"/>
         <Effect ref="0" name="Faces" id="11" startTime="278300" endTime="282050" palette="0"/>
         <Effect ref="0" name="Faces" id="12" startTime="282400" endTime="285550" palette="0"/>
-        <Effect ref="0" name="Faces" selected="1" id="13" startTime="285950" endTime="289000" palette="0"/>
+        <Effect ref="0" name="Faces" id="13" startTime="285950" endTime="289000" palette="0"/>
+        <Effect ref="0" name="Faces" id="14" startTime="289650" endTime="293000" palette="0"/>
+        <Effect ref="0" name="Faces" id="15" startTime="293450" endTime="298150" palette="0"/>
+        <Effect ref="0" name="Faces" id="16" startTime="299250" endTime="301800" palette="0"/>
+        <Effect ref="0" name="Faces" id="17" startTime="301800" endTime="307400" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="arches">
       <EffectLayer>
         <Effect ref="1" name="On" startTime="0" endTime="500" palette="1"/>
-        <Effect ref="2" name="Spirals" id="2" startTime="15800" endTime="17850" palette="2"/>
-        <Effect ref="3" name="Spirals" id="3" startTime="17850" endTime="19900" palette="2"/>
-        <Effect ref="4" name="Butterfly" id="4" startTime="19900" endTime="21900" palette="3"/>
-        <Effect ref="5" name="Pinwheel" id="5" startTime="21900" endTime="28000" palette="4"/>
+        <Effect ref="2" name="Spirals" id="1" startTime="15800" endTime="17850" palette="2"/>
+        <Effect ref="3" name="Spirals" id="2" startTime="17850" endTime="19900" palette="2"/>
+        <Effect ref="4" name="Butterfly" id="3" startTime="19900" endTime="21900" palette="3"/>
+        <Effect ref="5" name="Pinwheel" id="4" startTime="21900" endTime="28000" palette="4"/>
         <Effect ref="6" name="Galaxy" id="6" startTime="200800" endTime="202800" palette="5"/>
         <Effect ref="6" name="Galaxy" id="7" startTime="202850" endTime="204850" palette="5"/>
         <Effect ref="7" name="Curtain" id="8" startTime="218550" endTime="225000" palette="6"/>
