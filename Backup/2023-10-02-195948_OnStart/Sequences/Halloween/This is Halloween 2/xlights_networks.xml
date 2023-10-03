@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="CHEWHPENVY">
+  <network ComPort="192.168.2.15" BaudRate="1" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="2" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="3" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="4" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="5" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="6" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="7" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="8" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="9" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="10" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="11" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.15" BaudRate="12" NetworkType="E131" Enabled="No" Description="Mega Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.16" BaudRate="13" NetworkType="E131" Enabled="No" Description="C Tree Pixels" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.96" BaudRate="14" NetworkType="E131" Enabled="No" Description="Wireframe Snowman" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.96" BaudRate="15" NetworkType="E131" Enabled="No" Description="North Pole 1" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.96" BaudRate="16" NetworkType="E131" Enabled="No" Description="North Pole 2" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="17" NetworkType="E131" Enabled="No" Description="North Pole 3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="18" NetworkType="E131" Enabled="No" Description="North Pole 4" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="19" NetworkType="E131" Enabled="No" Description="North Pole 5 Port 5-8" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="20" NetworkType="E131" Enabled="No" Description="North Pole 6" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="21" NetworkType="E131" Enabled="No" Description="North Pole 7" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="22" NetworkType="E131" Enabled="No" Description="North Pole 8" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.251" BaudRate="23" NetworkType="E131" Description="BackPorch" Controller="ESPixelStick" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="24" NetworkType="E131" Enabled="No" Description="Side Windows Left 21-24" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="25" NetworkType="E131" Enabled="No" Description="Mike Windows Port 1" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10 " BaudRate="26" NetworkType="E131" Enabled="No" Description="Family Front Room Windows" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="27" NetworkType="E131" Enabled="No" Description="Pixel Trees Port 3" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="28" NetworkType="E131" Enabled="No" Description="Pixel Trees" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="29" NetworkType="E131" Enabled="No" Description="Pixel Trees Port 4" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="30" NetworkType="E131" Enabled="No" Description="Pixel Trees" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="31" NetworkType="E131" Enabled="No" Description="Pixel Trees" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="32" NetworkType="E131" Enabled="No" Description="Roof Box 1 Missy Ron" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="33" NetworkType="E131" Enabled="No" Description="Roof Box 1 Missy Ron Ridge" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="MULTICAST" BaudRate="34" NetworkType="E131" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="MULTICAST" BaudRate="35" NetworkType="E131" Description="Wreath Left" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.32" BaudRate="36" NetworkType="E131" Enabled="No" Description="DMX MH Floods 1 thru 5" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="37" NetworkType="E131" Description="Mickey Head L  R" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="38" NetworkType="E131" Description="Candy Cane Left" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="39" NetworkType="E131" Description="Candy Cane Right" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="40" NetworkType="E131" Description="Roof Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="41" NetworkType="E131" Description="Roof Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="42" NetworkType="E131" Description="Roof Tree  Star" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="43" NetworkType="E131" Enabled="No" Description="Open" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="44" NetworkType="E131" Enabled="No" Description="Roof Missy to Rons" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="45" NetworkType="E131" Description="LAs" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="46" NetworkType="E131" Description="LAs" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="47" NetworkType="E131" Enabled="No" Description="Icicles left" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="48" NetworkType="E131" Enabled="No" Description="Icicles left" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.16" BaudRate="49" NetworkType="E131" Enabled="No" Description=" Arches" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.16" BaudRate="50" NetworkType="E131" Enabled="No" Description=" Arches" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.16" BaudRate="51" NetworkType="E131" Enabled="No" Description="2811 Really Big Lights" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="52" NetworkType="E131" Enabled="No" Description="Verticals 1 2 3" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="53" NetworkType="E131" Enabled="No" Description="Family Room Side Window" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="54" NetworkType="E131" Enabled="No" Description="Icicles Right" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="55" NetworkType="E131" Enabled="No" Description="Icicles Right" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.96" BaudRate="56" NetworkType="E131" Enabled="No" Description="1 thru 4 RBLs" Controller="E6804 Firmware 5" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="57" NetworkType="E131" Enabled="No" Description="Pathway Lights Driveway" Controller="F16v3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="58" NetworkType="E131" Enabled="No" Description="Roof Box 2 Front Left" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="59" NetworkType="E131" Enabled="No" Description="Roof Box 2 Front Right" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="60" NetworkType="E131" Enabled="No" Description="Verticals 4 5 Diff Box" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="61" NetworkType="E131" Enabled="No" Description="Pathway Erma" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="62" NetworkType="E131" Enabled="No" Description="RBLs Right of Driveway" Controller="F16v3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="63" NetworkType="E131" Enabled="No" Description="GECE Santa" Controller="F16v3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.12" BaudRate="64" NetworkType="E131" Enabled="No" Description="GECE Snowman" Controller="F16v3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.27" BaudRate="65" NetworkType="E131" Enabled="No" Description="Chimney Matrix" Controller="PiHat" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.27" BaudRate="66" NetworkType="E131" Enabled="No" Description="Chimney Matrix" Controller="PiHat" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.27" BaudRate="67" NetworkType="E131" Enabled="No" Description="Chimney Matrix" Controller="PiHat" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.27" BaudRate="68" NetworkType="E131" Enabled="No" Description="Chimney Matrix" Controller="PiHat" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="69" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="70" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="71" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="72" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="73" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="MULTICAST" BaudRate="74" NetworkType="E131" Description="RenSS24RoofMini TreesDIYC Floods " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="MULTICAST" BaudRate="75" NetworkType="E131" Description="Rhododendrum" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.181" BaudRate="76" NetworkType="E131" Description="Door Bushes" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="77" NetworkType="E131" Enabled="No" Description="Pixel Grid 4" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="78" NetworkType="E131" Enabled="No" Description="Pixel Grid 1 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="79" NetworkType="E131" Enabled="No" Description="Pixel Grid 2 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="80" NetworkType="E131" Enabled="No" Description="Pixel Grid 3 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="81" NetworkType="E131" Enabled="No" Description="Talking Bulb 1 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="82" NetworkType="E131" Enabled="No" Description="Talking Bulb 2 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="83" NetworkType="E131" Enabled="No" Description="Talking Bulb 3 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="84" NetworkType="E131" Enabled="No" Description="Talking Bulb 4 " MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="MULTICAST" BaudRate="85" NetworkType="E131" Description="open" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="86" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="87" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="88" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.28" BaudRate="89" NetworkType="E131" Enabled="No" Description="Bushes 1 12" Controller="F40D-PB-40" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.252" BaudRate="90" NetworkType="E131" Description="Fence Left 1" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.249" BaudRate="91" NetworkType="E131" Description="Fence Left 2" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.159" BaudRate="92" NetworkType="E131" Description="Fence Left 3" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.158" BaudRate="93" NetworkType="E131" Description="Fence Right1" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.191" BaudRate="94" NetworkType="E131" Description="Fence Right 2" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="95" NetworkType="E131" Enabled="No" Description="Icicles left" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="96" NetworkType="E131" Enabled="No" Description="Icicles left" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.10" BaudRate="97" NetworkType="E131" Enabled="No" Description="Missy Window" Controller="F8-B-20" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="98" NetworkType="E131" Description="Charlie Brown Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.13" BaudRate="99" NetworkType="E131" Description="Charlie Brown Tree" MaxChannels="510" AutoStartChannels="false"/>
+  <network ComPort="192.168.2.183" BaudRate="100" NetworkType="E131" Description="Fence Right 3" MaxChannels="510" AutoStartChannels="false"/>
+</Networks>

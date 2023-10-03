@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2023.14</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>F:\git\lightshow\Sequences\Halloween\Happy Halloween\Free _Happy Halloween_ Sound Effect.mp3</mediaFile>
+    <sequenceDuration>8.126</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#961DFF,C_BUTTON_Palette2=#FF4600,C_BUTTON_Palette3=#51FF1F,C_BUTTON_Palette4=#00ECFF,C_BUTTON_Palette5=#FF0080,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#FFFFFF,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#961DFF,C_BUTTON_Palette2=#FF4600,C_BUTTON_Palette3=#51FF1F,C_BUTTON_Palette4=#00ECFF,C_BUTTON_Palette5=#FF0080,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#FFFFFF,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#961DFF,C_BUTTON_Palette2=#FF4600,C_BUTTON_Palette3=#51FF1F,C_BUTTON_Palette4=#00ECFF,C_BUTTON_Palette5=#FF0080,C_BUTTON_Palette6=#FFFFFF,C_BUTTON_Palette7=#FFFFFF,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette2=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=0,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_Height=100,E_SLIDER_Fire_HueShift=0,E_TEXTCTRL_Fire_GrowthCycles=20.0</Effect>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=0,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_Height=100,E_SLIDER_Fire_HueShift=0,E_TEXTCTRL_Fire_GrowthCycles=0.0</Effect>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=0,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_Height=93,E_SLIDER_Fire_HueShift=0,E_TEXTCTRL_Fire_GrowthCycles=0.0</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Open,E_CHOICE_Faces_FaceDefinition=HiRes Pumpkin Happy,E_CHOICE_Faces_TimingTrack=Voice</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Closed,E_CHOICE_Faces_FaceDefinition=HiRes Pumpkin Happy,E_CHOICE_Faces_TimingTrack=Voice</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="model" name="arches" visible="1"/>
+    <Element collapsed="0" type="model" name="balls" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixs" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelights" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 5" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 4" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes 1" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1" visible="1"/>
+    <Element collapsed="0" type="model" name="Guest" visible="1"/>
+    <Element collapsed="0" type="model" name="Office" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelight left" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelight right" visible="1"/>
+    <Element collapsed="0" type="timing" name="Voice" visible="1" views="" active="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="model" name="arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="balls">
+      <EffectLayer>
+        <Effect ref="0" name="Fire" startTime="0" endTime="8100" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Eyes">
+      <EffectLayer>
+        <Effect ref="0" name="Fire" startTime="0" endTime="8100" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrixs">
+      <EffectLayer>
+        <Effect ref="1" name="Fire" startTime="0" endTime="8100" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer>
+        <Effect ref="2" name="Fire" startTime="0" endTime="8100" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Sidelights">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
+      <EffectLayer>
+        <Effect ref="3" name="Faces" startTime="1400" endTime="3600" palette="2"/>
+        <Effect ref="4" name="Faces" id="1" startTime="3600" endTime="7300" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Eyes 5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Eyes 1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Pole Tree">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Guest">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Office">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sidelight left">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Sidelight right">
+      <EffectLayer/>
+    </Element>
+    <Element type="timing" name="Voice">
+      <EffectLayer>
+        <Effect label="Happy halloween" startTime="1400" endTime="3600"></Effect>
+        <Effect label="" startTime="3600" endTime="4050"></Effect>
+        <Effect label="ha ha ha ha ha ha a" startTime="4050" endTime="7300"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="Happy" startTime="1400" endTime="2500"></Effect>
+        <Effect label="halloween" startTime="2500" endTime="3600"></Effect>
+        <Effect label="ha" startTime="4050" endTime="4250"></Effect>
+        <Effect label="ha" startTime="4250" endTime="4450"></Effect>
+        <Effect label="ha" startTime="4450" endTime="4800"></Effect>
+        <Effect label="ha" startTime="4800" endTime="5000"></Effect>
+        <Effect label="ha" startTime="5000" endTime="5250"></Effect>
+        <Effect label="ha" startTime="5250" endTime="5500"></Effect>
+        <Effect label="a" startTime="5500" endTime="7300"></Effect>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect label="etc" startTime="1400" endTime="1450"></Effect>
+        <Effect label="AI" startTime="1450" endTime="1950"></Effect>
+        <Effect label="MBP" startTime="1950" endTime="2000"></Effect>
+        <Effect label="E" startTime="2000" endTime="2500"></Effect>
+        <Effect label="etc" startTime="2500" endTime="2550"></Effect>
+        <Effect label="AI" startTime="2550" endTime="2750"></Effect>
+        <Effect label="L" startTime="2750" endTime="2950"></Effect>
+        <Effect label="AI" startTime="2950" endTime="3150"></Effect>
+        <Effect label="WQ" startTime="3150" endTime="3350"></Effect>
+        <Effect label="E" startTime="3350" endTime="3550"></Effect>
+        <Effect label="etc" startTime="3550" endTime="3600"></Effect>
+        <Effect label="etc" startTime="4050" endTime="4100"></Effect>
+        <Effect label="AI" startTime="4100" endTime="4250"></Effect>
+        <Effect label="etc" startTime="4250" endTime="4300"></Effect>
+        <Effect label="AI" startTime="4300" endTime="4450"></Effect>
+        <Effect label="etc" startTime="4450" endTime="4500"></Effect>
+        <Effect label="AI" startTime="4500" endTime="4800"></Effect>
+        <Effect label="etc" startTime="4800" endTime="4850"></Effect>
+        <Effect label="AI" startTime="4850" endTime="5000"></Effect>
+        <Effect label="etc" startTime="5000" endTime="5050"></Effect>
+        <Effect label="AI" startTime="5050" endTime="5250"></Effect>
+        <Effect label="etc" startTime="5250" endTime="5300"></Effect>
+        <Effect label="AI" startTime="5300" endTime="5500"></Effect>
+        <Effect label="AI" startTime="5500" endTime="7300"></Effect>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
