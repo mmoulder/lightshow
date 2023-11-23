@@ -1,125 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
   <head>
-    <version>2023.20</version>
-    <author></author>
-    <author-email></author-email>
-    <author-website></author-website>
-    <song></song>
-    <artist></artist>
-    <album></album>
-    <MusicURL></MusicURL>
-    <comment></comment>
-    <sequenceTiming>25 ms</sequenceTiming>
+    <version>2021.38</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>50 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>F:\git\lightshow\Sequences\Christmas\music box remix\Dj Schwede - Music Box Dancer.mp3</mediaFile>
+    <mediaFile>D:\Sequences\Christmas\music box remix\Dj Schwede - Music Box Dancer.mp3</mediaFile>
     <sequenceDuration>193.399</sequenceDuration>
     <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette7=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette6=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette6=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#00FF04,C_BUTTON_Palette2=#FFFF00,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#00FF04,C_BUTTON_Palette2=#FFFF00,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#FFFF00,C_BUTTON_Palette8=#00FF04,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette8=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#00FFFF,C_BUTTON_Palette3=#000000,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#0000FF,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#FF0000,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette8=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette8=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette7=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
-    <Effect>B_SLIDER_Blur=3,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=77,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=15,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Dual Chase,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7.5,X_Effect_Locked=True</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=19,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=6,X_Effect_Locked=True</Effect>
-    <Effect>X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=60,E_TEXTCTRL_Filter=</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=6,E_TEXTCTRL_Filter=</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=87,E_TEXTCTRL_Filter=</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=60,E_TEXTCTRL_Filter=,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=piano 5,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=15,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Piano 4,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=15,E_TEXTCTRL_Filter=,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=piano 3,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=6,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Piano Low,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=14,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=6,E_TEXTCTRL_Filter=,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=MUSIC BOX DANCER,E_TEXTCTRL_Text_Speed=15,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=88.1,E_TEXTCTRL_Text_Speed=15,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Piano 2,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=8,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Bar,E_SLIDER_VUMeter_Bars=1,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,E_VALUECURVE_Meteors_Count=Active=TRUE|Id=ID_VALUECURVE_Meteors_Count|Type=Custom|Min=1.00|Max=100.00|RV=TRUE|Values=0.00:1.00;0.22:0.53;0.38:0.28;0.55:0.15;1.00:0.00|,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,E_VALUECURVE_Meteors_Count=Active=TRUE|Id=ID_VALUECURVE_Meteors_Count|Type=Exponential Up|Min=1.00|Max=100.00|P1=34.00|P2=50.50|RV=TRUE|,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=20,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Sweep,E_SLIDER_VUMeter_Bars=20,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=7,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Sweep,E_SLIDER_VUMeter_Bars=86,X_Effect_Locked=True</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Sweep,E_SLIDER_VUMeter_Bars=25,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=To Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=0.5,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Piano Low,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=14,E_TEXTCTRL_Filter=</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=15,E_TEXTCTRL_Filter=</Effect>
     <Effect></Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Piano 2,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7,E_TEXTCTRL_Filter=</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Piano Low,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=14,E_TEXTCTRL_Filter=,X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Piano 2,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7,E_TEXTCTRL_Filter=,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=48,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,B_SLIDER_Blur=13,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=48,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=17,E_SLIDER_Number_Chases=6,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=0.1</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=17,E_SLIDER_Number_Chases=6,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=0.1</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=100</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=15</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=48,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,B_CUSTOM_SubBuffer=0.00x0.00x100.20x100.08,E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=48,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=4.1</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=6</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=60</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=87</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
+    <Effect>B_SLIDER_Blur=3,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=77,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=15</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Dual Chase,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=44,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7.5</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=19</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=8</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=6</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Bar,E_SLIDER_VUMeter_Bars=1</Effect>
+    <Effect>E_CHECKBOX_VUMeter_LogarithmicX=0,E_CHECKBOX_VUMeter_SlowDownFalls=1,E_CHOICE_VUMeter_Shape=Circle,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=6,E_SLIDER_VUMeter_EndNote=84,E_SLIDER_VUMeter_Gain=0,E_SLIDER_VUMeter_Sensitivity=70,E_SLIDER_VUMeter_StartNote=36,E_SLIDER_VUMeter_XOffset=0,E_SLIDER_VUMeter_YOffset=0,E_TEXTCTRL_VUMeter_Gain=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=50</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=78</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump,E_SLIDER_VUMeter_Bars=15,E_SLIDER_VUMeter_Gain=0,E_TEXTCTRL_VUMeter_Gain=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=64</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=82</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=33</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,E_VALUECURVE_Meteors_Count=Active=TRUE|Id=ID_VALUECURVE_Meteors_Count|Type=Custom|Min=1.00|Max=100.00|RV=TRUE|Values=0.00:1.00;0.22:0.53;0.38:0.28;0.55:0.15;1.00:0.00|</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,E_VALUECURVE_Meteors_Count=Active=TRUE|Id=ID_VALUECURVE_Meteors_Count|Type=Exponential Up|Min=1.00|Max=100.00|P1=34.00|P2=50.50|RV=TRUE|</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=20</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Sweep,E_SLIDER_VUMeter_Bars=20</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=7</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Sweep,E_SLIDER_VUMeter_Bars=86</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Sweep,E_SLIDER_VUMeter_Bars=25</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=piano 5,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Piano 4,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=piano 3,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Piano 2,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=7</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Piano Low,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=14</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=1,E_CHOICE_Chase_Type1=To Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=100,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=0.5</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=MUSIC BOX DANCER,E_TEXTCTRL_Text_Speed=15</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=89.1,E_TEXTCTRL_Text_Speed=15</Effect>
   </EffectDB>
   <DataLayers>
-    <DataLayer lor_params="490" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="16" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="model" name="arches" visible="1"/>
-    <Element collapsed="0" type="model" name="balls" visible="1"/>
-    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
-    <Element collapsed="0" type="model" name="All" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrixs" visible="1"/>
-    <Element collapsed="0" type="model" name="House" visible="1"/>
-    <Element collapsed="0" type="model" name="Windows" visible="1"/>
-    <Element collapsed="0" type="model" name="Sidelights" visible="1"/>
-    <Element collapsed="0" type="model" name="All Vertical" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
-    <Element collapsed="0" type="model" name="Eyes 5" visible="1"/>
-    <Element collapsed="0" type="model" name="Eyes 4" visible="1"/>
-    <Element collapsed="0" type="model" name="Eyes 3" visible="1"/>
-    <Element collapsed="0" type="model" name="Eyes 2" visible="1"/>
-    <Element collapsed="0" type="model" name="Eyes 1" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
-    <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-1" visible="1"/>
-    <Element collapsed="0" type="model" name="Guest" visible="1"/>
-    <Element collapsed="0" type="model" name="Office" visible="1"/>
-    <Element collapsed="0" type="model" name="Sidelight left" visible="1"/>
-    <Element collapsed="0" type="model" name="Sidelight right" visible="1"/>
-    <Element collapsed="1" type="timing" name="Timings Minor" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Empty" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Flashes" visible="1" views="" active="0"/>
+    <Element collapsed="1" type="timing" name="Timings Minor" visible="1" views="Groups,All" active="1"/>
+    <Element collapsed="0" type="timing" name="Empty" visible="1" views="Groups,All" active="0"/>
+    <Element collapsed="0" type="timing" name="Flashes" visible="1" views="Groups,All" active="0"/>
     <Element collapsed="0" type="timing" name="Piano Low" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Piano 2" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="piano 3" visible="1" views="" active="0"/>
@@ -127,749 +98,44 @@
     <Element collapsed="0" type="timing" name="piano 5" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="piano fancy" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="hi-hat" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="1"/>
+    <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="1" type="model" name="Roofline" visible="1"/>
+    <Element collapsed="0" type="model" name="balls" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
+    <Element collapsed="0" type="model" name="Door Frame" visible="1"/>
+    <Element collapsed="0" type="model" name="Pepper Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="dining right" visible="0"/>
+    <Element collapsed="0" type="model" name="dining center" visible="0"/>
+    <Element collapsed="0" type="model" name="dining left" visible="0"/>
+    <Element collapsed="0" type="model" name="office right" visible="0"/>
+    <Element collapsed="0" type="model" name="office left" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="0"/>
+    <Element collapsed="0" type="model" name="Arches-9" visible="0"/>
+    <Element collapsed="0" type="model" name="Garage and right top peak" visible="0"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="0"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-2" visible="0"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="0"/>
+    <Element collapsed="0" type="model" name="closet" visible="0"/>
+    <Element collapsed="0" type="model" name="lower right peak" visible="0"/>
+    <Element collapsed="0" type="model" name="office roof" visible="0"/>
+    <Element collapsed="0" type="model" name="top peak" visible="0"/>
+    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
   </DisplayElements>
   <ElementEffects>
-    <Element type="model" name="arches">
-      <EffectLayer>
-        <Effect ref="0" name="SingleStrand" startTime="200" endTime="2100" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="1" startTime="2100" endTime="3400" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="2" startTime="3400" endTime="5100" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="3" startTime="5100" endTime="7250" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="4" startTime="7250" endTime="8850" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="5" startTime="8850" endTime="10500" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="6" startTime="10500" endTime="12200" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="7" startTime="12200" endTime="13900" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="8" startTime="13900" endTime="15650" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="9" startTime="15650" endTime="17350" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="10" startTime="17350" endTime="19050" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="11" startTime="19050" endTime="20750" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="12" startTime="20750" endTime="22500" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="13" startTime="22500" endTime="24200" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="14" startTime="24200" endTime="25900" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="15" startTime="25900" endTime="27700" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="16" startTime="27700" endTime="29350" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="17" startTime="29350" endTime="31050" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="18" startTime="31050" endTime="32750" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="19" startTime="32750" endTime="34450" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="20" startTime="62000" endTime="63600" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="21" startTime="63600" endTime="65300" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="22" startTime="65300" endTime="67050" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="23" startTime="67050" endTime="68800" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="24" startTime="68800" endTime="70400" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="25" startTime="70400" endTime="72200" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="26" startTime="72200" endTime="73900" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="27" startTime="73900" endTime="75600" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="28" startTime="75600" endTime="77350" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="29" startTime="77350" endTime="79050" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="30" startTime="79050" endTime="80750" palette="0"/>
-        <Effect ref="0" name="SingleStrand" id="31" startTime="80750" endTime="81850" palette="0"/>
-        <Effect ref="1" name="SingleStrand" id="32" startTime="82500" endTime="88900" palette="1"/>
-        <Effect ref="2" name="SingleStrand" id="33" startTime="88900" endTime="95350" palette="1"/>
-        <Effect ref="3" name="VU Meter" id="34" startTime="95350" endTime="102200" palette="2"/>
-        <Effect ref="3" name="VU Meter" id="35" startTime="102200" endTime="109050" palette="3"/>
-        <Effect ref="1" name="SingleStrand" id="36" startTime="143800" endTime="150900" palette="1"/>
-        <Effect ref="2" name="SingleStrand" id="37" startTime="150900" endTime="157950" palette="1"/>
-        <Effect ref="3" name="VU Meter" id="38" startTime="157950" endTime="164800" palette="2"/>
-        <Effect ref="3" name="VU Meter" id="39" startTime="164800" endTime="171650" palette="3"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="balls">
-      <EffectLayer>
-        <Effect ref="4" name="VU Meter" startTime="34500" endTime="41150" palette="4"/>
-        <Effect ref="4" name="VU Meter" id="1" startTime="41200" endTime="47800" palette="1"/>
-        <Effect ref="4" name="VU Meter" id="2" startTime="130500" endTime="137150" palette="4"/>
-        <Effect ref="4" name="VU Meter" id="3" startTime="137200" endTime="143800" palette="1"/>
-        <Effect ref="4" name="VU Meter" id="4" startTime="158450" endTime="165100" palette="4"/>
-        <Effect ref="4" name="VU Meter" id="5" startTime="165100" endTime="171700" palette="1"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Eyes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="All">
-      <EffectLayer>
-        <Effect ref="5" name="On" startTime="13500" endTime="13900" palette="5"/>
-        <Effect ref="5" name="On" id="1" startTime="33850" endTime="34050" palette="6"/>
-        <Effect ref="5" name="On" id="2" startTime="34050" endTime="34300" palette="0"/>
-        <Effect ref="5" name="On" id="3" startTime="34300" endTime="34500" palette="6"/>
-        <Effect ref="5" name="On" id="4" startTime="81800" endTime="82000" palette="6"/>
-        <Effect ref="5" name="On" id="5" startTime="82000" endTime="82250" palette="0"/>
-        <Effect ref="5" name="On" id="6" startTime="82250" endTime="82450" palette="6"/>
-        <Effect ref="5" name="On" id="7" startTime="129850" endTime="130050" palette="6"/>
-        <Effect ref="5" name="On" id="8" startTime="130050" endTime="130300" palette="0"/>
-        <Effect ref="5" name="On" id="9" startTime="130300" endTime="130500" palette="6"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Matrixs">
-      <EffectLayer>
-        <Effect ref="6" name="VU Meter" startTime="34500" endTime="41150" palette="7"/>
-        <Effect ref="6" name="VU Meter" id="1" startTime="41150" endTime="47800" palette="8"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="House">
-      <EffectLayer>
-        <Effect ref="7" name="VU Meter" startTime="82500" endTime="95350" palette="1"/>
-        <Effect ref="8" name="VU Meter" id="1" startTime="95350" endTime="102200" palette="7"/>
-        <Effect ref="8" name="VU Meter" id="2" startTime="102200" endTime="109050" palette="1"/>
-        <Effect ref="6" name="VU Meter" id="3" startTime="130500" endTime="137150" palette="7"/>
-        <Effect ref="6" name="VU Meter" id="4" startTime="137150" endTime="143800" palette="8"/>
-        <Effect ref="8" name="VU Meter" id="5" startTime="157950" endTime="164800" palette="7"/>
-        <Effect ref="8" name="VU Meter" id="6" startTime="164800" endTime="171650" palette="1"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Windows">
-      <EffectLayer>
-        <Effect ref="9" name="VU Meter" startTime="34500" endTime="41150" palette="7"/>
-        <Effect ref="9" name="VU Meter" id="1" startTime="41150" endTime="47800" palette="8"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Sidelights">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="All Vertical">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Matrix-3">
-      <EffectLayer>
-        <Effect ref="10" name="VU Meter" startTime="0" endTime="33650" palette="0"/>
-        <Effect ref="11" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="3"/>
-        <Effect ref="10" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="0"/>
-        <Effect ref="5" name="On" id="3" startTime="116750" endTime="116950" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="119350" endTime="119550" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="120350" endTime="120500" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="121700" endTime="121850" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="122350" endTime="122550" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="124100" endTime="124300" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="124700" endTime="124900" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="125350" endTime="125550" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="125950" endTime="126400" palette="9"/>
-        <Effect ref="5" name="On" id="12" startTime="126950" endTime="127050" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="127650" endTime="127900" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="128550" endTime="128750" palette="9"/>
-        <Effect ref="11" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="3"/>
-        <Effect ref="10" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Matrix-2">
-      <EffectLayer>
-        <Effect ref="12" name="VU Meter" startTime="0" endTime="33650" palette="0"/>
-        <Effect ref="11" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="2"/>
-        <Effect ref="12" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="0"/>
-        <Effect ref="5" name="On" id="3" startTime="116950" endTime="117150" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="118400" endTime="118500" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="118700" endTime="118900" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="119550" endTime="119900" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="120100" endTime="120250" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="121050" endTime="121150" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="122050" endTime="122150" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="124900" endTime="125050" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="126850" endTime="126950" palette="9"/>
-        <Effect ref="5" name="On" id="12" startTime="127250" endTime="127450" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="128300" endTime="128550" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="129150" endTime="129400" palette="9"/>
-        <Effect ref="13" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="2"/>
-        <Effect ref="12" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Matrix">
-      <EffectLayer>
-        <Effect ref="14" name="VU Meter" startTime="0" endTime="33650" palette="0"/>
-        <Effect ref="11" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="10"/>
-        <Effect ref="14" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="0"/>
-        <Effect ref="5" name="On" id="3" startTime="117400" endTime="117750" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="118000" endTime="118250" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="119900" endTime="120100" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="120850" endTime="121050" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="122550" endTime="122750" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="123400" endTime="123550" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="124300" endTime="124650" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="125100" endTime="125200" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="125550" endTime="125750" palette="9"/>
-        <Effect ref="5" name="On" id="12" startTime="126400" endTime="126850" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="129400" endTime="129650" palette="9"/>
-        <Effect ref="13" name="VU Meter" id="14" startTime="143850" endTime="157950" palette="10"/>
-        <Effect ref="14" name="VU Meter" id="15" startTime="171800" endTime="191750" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo IcosaSphere Small">
-      <EffectLayer>
-        <Effect ref="5" name="On" startTime="20600" endTime="20750" palette="9"/>
-        <Effect ref="5" name="On" id="1" startTime="21800" endTime="22050" palette="9"/>
-        <Effect ref="5" name="On" id="2" startTime="22550" endTime="22750" palette="9"/>
-        <Effect ref="5" name="On" id="3" startTime="23200" endTime="23400" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="24300" endTime="24400" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="24550" endTime="24700" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="25500" endTime="25750" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="26200" endTime="26400" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="27900" endTime="28150" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="29800" endTime="30000" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="31100" endTime="31300" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="31950" endTime="32150" palette="9"/>
-        <Effect ref="5" name="On" id="12" startTime="33000" endTime="33200" palette="9"/>
-        <Effect ref="15" name="VU Meter" id="13" startTime="47750" endTime="61850" palette="0"/>
-        <Effect ref="5" name="On" id="14" startTime="68400" endTime="68550" palette="9"/>
-        <Effect ref="5" name="On" id="15" startTime="69600" endTime="69850" palette="9"/>
-        <Effect ref="5" name="On" id="16" startTime="70350" endTime="70550" palette="9"/>
-        <Effect ref="5" name="On" id="17" startTime="71000" endTime="71200" palette="9"/>
-        <Effect ref="5" name="On" id="18" startTime="72100" endTime="72200" palette="9"/>
-        <Effect ref="5" name="On" id="19" startTime="72350" endTime="72500" palette="9"/>
-        <Effect ref="5" name="On" id="20" startTime="73300" endTime="73550" palette="9"/>
-        <Effect ref="5" name="On" id="21" startTime="74000" endTime="74200" palette="9"/>
-        <Effect ref="5" name="On" id="22" startTime="75700" endTime="75950" palette="9"/>
-        <Effect ref="5" name="On" id="23" startTime="77600" endTime="77800" palette="9"/>
-        <Effect ref="5" name="On" id="24" startTime="78900" endTime="79100" palette="9"/>
-        <Effect ref="5" name="On" id="25" startTime="79750" endTime="79950" palette="9"/>
-        <Effect ref="5" name="On" id="26" startTime="80800" endTime="81000" palette="9"/>
-        <Effect ref="5" name="On" id="27" startTime="82550" endTime="82600" palette="9"/>
-        <Effect ref="5" name="On" id="28" startTime="83800" endTime="83950" palette="9"/>
-        <Effect ref="5" name="On" id="29" startTime="84450" endTime="84650" palette="9"/>
-        <Effect ref="5" name="On" id="30" startTime="85100" endTime="85350" palette="9"/>
-        <Effect ref="5" name="On" id="31" startTime="86450" endTime="86600" palette="9"/>
-        <Effect ref="5" name="On" id="32" startTime="87450" endTime="87650" palette="9"/>
-        <Effect ref="5" name="On" id="33" startTime="89800" endTime="90050" palette="9"/>
-        <Effect ref="5" name="On" id="34" startTime="91100" endTime="91150" palette="9"/>
-        <Effect ref="5" name="On" id="35" startTime="91700" endTime="91900" palette="9"/>
-        <Effect ref="5" name="On" id="36" startTime="93000" endTime="93200" palette="9"/>
-        <Effect ref="5" name="On" id="37" startTime="93850" endTime="94050" palette="9"/>
-        <Effect ref="5" name="On" id="38" startTime="94900" endTime="95100" palette="9"/>
-        <Effect ref="16" name="VU Meter" id="39" startTime="109950" endTime="129900" palette="1"/>
-        <Effect ref="17" name="VU Meter" id="40" startTime="143800" endTime="157900" palette="0"/>
-        <Effect ref="5" name="On" id="41" startTime="178200" endTime="178350" palette="9"/>
-        <Effect ref="5" name="On" id="42" startTime="179400" endTime="179650" palette="9"/>
-        <Effect ref="5" name="On" id="43" startTime="180150" endTime="180350" palette="9"/>
-        <Effect ref="5" name="On" id="44" startTime="180800" endTime="181000" palette="9"/>
-        <Effect ref="5" name="On" id="45" startTime="181900" endTime="182000" palette="9"/>
-        <Effect ref="5" name="On" id="46" startTime="182150" endTime="182300" palette="9"/>
-        <Effect ref="5" name="On" id="47" startTime="183100" endTime="183350" palette="9"/>
-        <Effect ref="5" name="On" id="48" startTime="183800" endTime="184000" palette="9"/>
-        <Effect ref="5" name="On" id="49" startTime="185500" endTime="185750" palette="9"/>
-        <Effect ref="5" name="On" id="50" startTime="187400" endTime="187600" palette="9"/>
-        <Effect ref="5" name="On" id="51" startTime="188700" endTime="188900" palette="9"/>
-        <Effect ref="5" name="On" id="52" startTime="189550" endTime="189750" palette="9"/>
-        <Effect ref="5" name="On" id="53" startTime="190600" endTime="190800" palette="9"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
-      <EffectLayer/>
-      <SubModelEffectLayer name="TUNE TO">
-        <Effect ref="5" name="On" startTime="10450" endTime="191200" palette="0"/>
-      </SubModelEffectLayer>
-      <SubModelEffectLayer name="Matrix">
-        <Effect ref="18" name="Text" startTime="200" endTime="10400" palette="0"/>
-        <Effect ref="19" name="Text" selected="1" id="1" startTime="10400" endTime="191200" palette="0"/>
-      </SubModelEffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eyes 5">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eyes 4">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eyes 3">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eyes 2">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Eyes 1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Boscoyo IcosaSphere Small-2">
-      <EffectLayer>
-        <Effect ref="5" name="On" startTime="21200" endTime="21450" palette="9"/>
-        <Effect ref="5" name="On" id="1" startTime="22300" endTime="22450" palette="9"/>
-        <Effect ref="5" name="On" id="2" startTime="22950" endTime="23200" palette="9"/>
-        <Effect ref="5" name="On" id="3" startTime="24700" endTime="24900" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="25200" endTime="25500" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="25900" endTime="26100" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="27600" endTime="27750" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="29250" endTime="29400" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="31500" endTime="31700" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="32150" endTime="32350" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="32800" endTime="33000" palette="9"/>
-        <Effect ref="15" name="VU Meter" id="11" startTime="47750" endTime="61900" palette="0"/>
-        <Effect ref="5" name="On" id="12" startTime="69000" endTime="69250" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="70100" endTime="70250" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="70750" endTime="71000" palette="9"/>
-        <Effect ref="5" name="On" id="15" startTime="72500" endTime="72700" palette="9"/>
-        <Effect ref="5" name="On" id="16" startTime="73000" endTime="73300" palette="9"/>
-        <Effect ref="5" name="On" id="17" startTime="73700" endTime="73900" palette="9"/>
-        <Effect ref="5" name="On" id="18" startTime="75400" endTime="75550" palette="9"/>
-        <Effect ref="5" name="On" id="19" startTime="77050" endTime="77200" palette="9"/>
-        <Effect ref="5" name="On" id="20" startTime="79300" endTime="79500" palette="9"/>
-        <Effect ref="5" name="On" id="21" startTime="79950" endTime="80150" palette="9"/>
-        <Effect ref="5" name="On" id="22" startTime="80600" endTime="80800" palette="9"/>
-        <Effect ref="5" name="On" id="23" startTime="83100" endTime="83350" palette="9"/>
-        <Effect ref="5" name="On" id="24" startTime="84250" endTime="84350" palette="9"/>
-        <Effect ref="5" name="On" id="25" startTime="84850" endTime="84950" palette="9"/>
-        <Effect ref="5" name="On" id="26" startTime="86600" endTime="86800" palette="9"/>
-        <Effect ref="5" name="On" id="27" startTime="87250" endTime="87450" palette="9"/>
-        <Effect ref="5" name="On" id="28" startTime="87800" endTime="87900" palette="9"/>
-        <Effect ref="5" name="On" id="29" startTime="88100" endTime="88300" palette="9"/>
-        <Effect ref="5" name="On" id="30" startTime="89400" endTime="89600" palette="9"/>
-        <Effect ref="5" name="On" id="31" startTime="90600" endTime="90650" palette="9"/>
-        <Effect ref="5" name="On" id="32" startTime="93400" endTime="93600" palette="9"/>
-        <Effect ref="5" name="On" id="33" startTime="94050" endTime="94250" palette="9"/>
-        <Effect ref="5" name="On" id="34" startTime="94700" endTime="94900" palette="9"/>
-        <Effect ref="20" name="VU Meter" id="35" startTime="109950" endTime="129900" palette="0"/>
-        <Effect ref="15" name="VU Meter" id="36" startTime="143800" endTime="157950" palette="0"/>
-        <Effect ref="5" name="On" id="37" startTime="178800" endTime="179050" palette="9"/>
-        <Effect ref="5" name="On" id="38" startTime="179900" endTime="180050" palette="9"/>
-        <Effect ref="5" name="On" id="39" startTime="180550" endTime="180800" palette="9"/>
-        <Effect ref="5" name="On" id="40" startTime="182300" endTime="182500" palette="9"/>
-        <Effect ref="5" name="On" id="41" startTime="182800" endTime="183100" palette="9"/>
-        <Effect ref="5" name="On" id="42" startTime="183500" endTime="183700" palette="9"/>
-        <Effect ref="5" name="On" id="43" startTime="185200" endTime="185350" palette="9"/>
-        <Effect ref="5" name="On" id="44" startTime="186850" endTime="187000" palette="9"/>
-        <Effect ref="5" name="On" id="45" startTime="189100" endTime="189300" palette="9"/>
-        <Effect ref="5" name="On" id="46" startTime="189750" endTime="189950" palette="9"/>
-        <Effect ref="5" name="On" id="47" startTime="190400" endTime="190600" palette="9"/>
-        <Effect ref="5" name="On" id="48" startTime="190600" endTime="190850" palette="9"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo IcosaSphere Small-5">
-      <EffectLayer>
-        <Effect ref="5" name="On" startTime="20800" endTime="21000" palette="9"/>
-        <Effect ref="5" name="On" id="1" startTime="23400" endTime="23600" palette="9"/>
-        <Effect ref="5" name="On" id="2" startTime="24400" endTime="24550" palette="9"/>
-        <Effect ref="5" name="On" id="3" startTime="25750" endTime="25900" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="26400" endTime="26600" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="28150" endTime="28350" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="28750" endTime="28950" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="29400" endTime="29600" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="30000" endTime="30450" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="31000" endTime="31100" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="31700" endTime="31950" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="32600" endTime="32800" palette="9"/>
-        <Effect ref="15" name="VU Meter" id="12" startTime="47750" endTime="61950" palette="6"/>
-        <Effect ref="5" name="On" id="13" startTime="68600" endTime="68800" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="71200" endTime="71400" palette="9"/>
-        <Effect ref="5" name="On" id="15" startTime="72200" endTime="72350" palette="9"/>
-        <Effect ref="5" name="On" id="16" startTime="73550" endTime="73700" palette="9"/>
-        <Effect ref="5" name="On" id="17" startTime="74200" endTime="74400" palette="9"/>
-        <Effect ref="5" name="On" id="18" startTime="75950" endTime="76150" palette="9"/>
-        <Effect ref="5" name="On" id="19" startTime="76550" endTime="76750" palette="9"/>
-        <Effect ref="5" name="On" id="20" startTime="77200" endTime="77400" palette="9"/>
-        <Effect ref="5" name="On" id="21" startTime="77800" endTime="78250" palette="9"/>
-        <Effect ref="5" name="On" id="22" startTime="78800" endTime="78900" palette="9"/>
-        <Effect ref="5" name="On" id="23" startTime="79500" endTime="79750" palette="9"/>
-        <Effect ref="5" name="On" id="24" startTime="80400" endTime="80600" palette="9"/>
-        <Effect ref="5" name="On" id="25" startTime="82650" endTime="82900" palette="9"/>
-        <Effect ref="5" name="On" id="26" startTime="83700" endTime="83750" palette="9"/>
-        <Effect ref="5" name="On" id="27" startTime="84750" endTime="84850" palette="9"/>
-        <Effect ref="5" name="On" id="28" startTime="85400" endTime="85850" palette="9"/>
-        <Effect ref="5" name="On" id="29" startTime="86300" endTime="86450" palette="9"/>
-        <Effect ref="5" name="On" id="30" startTime="87100" endTime="87250" palette="9"/>
-        <Effect ref="5" name="On" id="31" startTime="87650" endTime="87800" palette="9"/>
-        <Effect ref="5" name="On" id="32" startTime="88300" endTime="88500" palette="9"/>
-        <Effect ref="5" name="On" id="33" startTime="89600" endTime="89800" palette="9"/>
-        <Effect ref="5" name="On" id="34" startTime="90650" endTime="90850" palette="9"/>
-        <Effect ref="5" name="On" id="35" startTime="91300" endTime="91500" palette="9"/>
-        <Effect ref="5" name="On" id="36" startTime="91900" endTime="92350" palette="9"/>
-        <Effect ref="5" name="On" id="37" startTime="92900" endTime="93000" palette="9"/>
-        <Effect ref="5" name="On" id="38" startTime="93600" endTime="93850" palette="9"/>
-        <Effect ref="5" name="On" id="39" startTime="94500" endTime="94700" palette="9"/>
-        <Effect ref="10" name="VU Meter" id="40" startTime="109950" endTime="129900" palette="0"/>
-        <Effect ref="15" name="VU Meter" id="41" startTime="143800" endTime="158000" palette="6"/>
-        <Effect ref="5" name="On" id="42" startTime="178400" endTime="178600" palette="9"/>
-        <Effect ref="5" name="On" id="43" startTime="181000" endTime="181200" palette="9"/>
-        <Effect ref="5" name="On" id="44" startTime="182000" endTime="182150" palette="9"/>
-        <Effect ref="5" name="On" id="45" startTime="183350" endTime="183500" palette="9"/>
-        <Effect ref="5" name="On" id="46" startTime="184000" endTime="184200" palette="9"/>
-        <Effect ref="5" name="On" id="47" startTime="185750" endTime="185950" palette="9"/>
-        <Effect ref="5" name="On" id="48" startTime="186350" endTime="186550" palette="9"/>
-        <Effect ref="5" name="On" id="49" startTime="187000" endTime="187200" palette="9"/>
-        <Effect ref="5" name="On" id="50" startTime="187600" endTime="188050" palette="9"/>
-        <Effect ref="5" name="On" id="51" startTime="188600" endTime="188700" palette="9"/>
-        <Effect ref="5" name="On" id="52" startTime="189300" endTime="189550" palette="9"/>
-        <Effect ref="5" name="On" id="53" startTime="190200" endTime="190400" palette="9"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo IcosaSphere Small-4">
-      <EffectLayer>
-        <Effect ref="5" name="On" startTime="21000" endTime="21200" palette="9"/>
-        <Effect ref="5" name="On" id="1" startTime="22450" endTime="22550" palette="9"/>
-        <Effect ref="5" name="On" id="2" startTime="22750" endTime="22950" palette="9"/>
-        <Effect ref="5" name="On" id="3" startTime="23600" endTime="23950" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="24150" endTime="24300" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="25100" endTime="25200" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="26100" endTime="26200" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="28950" endTime="29100" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="30900" endTime="31000" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="31300" endTime="31500" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="32350" endTime="32600" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="33200" endTime="33450" palette="9"/>
-        <Effect ref="15" name="VU Meter" id="12" startTime="47750" endTime="61900" palette="0"/>
-        <Effect ref="5" name="On" id="13" startTime="68800" endTime="69000" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="70250" endTime="70350" palette="9"/>
-        <Effect ref="5" name="On" id="15" startTime="70550" endTime="70750" palette="9"/>
-        <Effect ref="5" name="On" id="16" startTime="71400" endTime="71750" palette="9"/>
-        <Effect ref="5" name="On" id="17" startTime="71950" endTime="72100" palette="9"/>
-        <Effect ref="5" name="On" id="18" startTime="72900" endTime="73000" palette="9"/>
-        <Effect ref="5" name="On" id="19" startTime="73900" endTime="74000" palette="9"/>
-        <Effect ref="5" name="On" id="20" startTime="76750" endTime="76900" palette="9"/>
-        <Effect ref="5" name="On" id="21" startTime="78700" endTime="78800" palette="9"/>
-        <Effect ref="5" name="On" id="22" startTime="79100" endTime="79300" palette="9"/>
-        <Effect ref="5" name="On" id="23" startTime="80150" endTime="80400" palette="9"/>
-        <Effect ref="5" name="On" id="24" startTime="81000" endTime="81250" palette="9"/>
-        <Effect ref="5" name="On" id="25" startTime="82900" endTime="83100" palette="9"/>
-        <Effect ref="5" name="On" id="26" startTime="84350" endTime="84450" palette="9"/>
-        <Effect ref="5" name="On" id="27" startTime="84650" endTime="84750" palette="9"/>
-        <Effect ref="5" name="On" id="28" startTime="84950" endTime="85100" palette="9"/>
-        <Effect ref="5" name="On" id="29" startTime="85950" endTime="86100" palette="9"/>
-        <Effect ref="5" name="On" id="30" startTime="87000" endTime="87100" palette="9"/>
-        <Effect ref="5" name="On" id="31" startTime="87900" endTime="88100" palette="9"/>
-        <Effect ref="5" name="On" id="32" startTime="90850" endTime="91000" palette="9"/>
-        <Effect ref="5" name="On" id="33" startTime="92800" endTime="92900" palette="9"/>
-        <Effect ref="5" name="On" id="34" startTime="93200" endTime="93400" palette="9"/>
-        <Effect ref="5" name="On" id="35" startTime="94250" endTime="94500" palette="9"/>
-        <Effect ref="5" name="On" id="36" startTime="95100" endTime="95350" palette="9"/>
-        <Effect ref="12" name="VU Meter" id="37" startTime="109950" endTime="129900" palette="0"/>
-        <Effect ref="15" name="VU Meter" id="38" startTime="143800" endTime="157950" palette="0"/>
-        <Effect ref="5" name="On" id="39" startTime="178600" endTime="178800" palette="9"/>
-        <Effect ref="5" name="On" id="40" startTime="180050" endTime="180150" palette="9"/>
-        <Effect ref="5" name="On" id="41" startTime="180350" endTime="180550" palette="9"/>
-        <Effect ref="5" name="On" id="42" startTime="181200" endTime="181550" palette="9"/>
-        <Effect ref="5" name="On" id="43" startTime="181750" endTime="181900" palette="9"/>
-        <Effect ref="5" name="On" id="44" startTime="182700" endTime="182800" palette="9"/>
-        <Effect ref="5" name="On" id="45" startTime="183700" endTime="183800" palette="9"/>
-        <Effect ref="5" name="On" id="46" startTime="186550" endTime="186700" palette="9"/>
-        <Effect ref="5" name="On" id="47" startTime="188500" endTime="188600" palette="9"/>
-        <Effect ref="5" name="On" id="48" startTime="188900" endTime="189100" palette="9"/>
-        <Effect ref="5" name="On" id="49" startTime="189950" endTime="190200" palette="9"/>
-        <Effect ref="5" name="On" id="50" startTime="190800" endTime="191050" palette="9"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo IcosaSphere Small-3">
-      <EffectLayer>
-        <Effect ref="5" name="On" startTime="21450" endTime="21800" palette="9"/>
-        <Effect ref="5" name="On" id="1" startTime="22050" endTime="22300" palette="9"/>
-        <Effect ref="5" name="On" id="2" startTime="23950" endTime="24150" palette="9"/>
-        <Effect ref="5" name="On" id="3" startTime="24900" endTime="25100" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="26600" endTime="26800" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="27450" endTime="27600" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="28350" endTime="28700" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="29150" endTime="29250" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="29600" endTime="29800" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="30450" endTime="30900" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="33450" endTime="33700" palette="9"/>
-        <Effect ref="15" name="VU Meter" id="11" startTime="47750" endTime="61900" palette="6"/>
-        <Effect ref="5" name="On" id="12" startTime="69250" endTime="69600" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="69850" endTime="70100" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="71750" endTime="71950" palette="9"/>
-        <Effect ref="5" name="On" id="15" startTime="72700" endTime="72900" palette="9"/>
-        <Effect ref="5" name="On" id="16" startTime="74400" endTime="74600" palette="9"/>
-        <Effect ref="5" name="On" id="17" startTime="75250" endTime="75400" palette="9"/>
-        <Effect ref="5" name="On" id="18" startTime="76150" endTime="76500" palette="9"/>
-        <Effect ref="5" name="On" id="19" startTime="76950" endTime="77050" palette="9"/>
-        <Effect ref="5" name="On" id="20" startTime="77400" endTime="77600" palette="9"/>
-        <Effect ref="5" name="On" id="21" startTime="78250" endTime="78700" palette="9"/>
-        <Effect ref="5" name="On" id="22" startTime="81250" endTime="81500" palette="9"/>
-        <Effect ref="5" name="On" id="23" startTime="82600" endTime="82650" palette="9"/>
-        <Effect ref="5" name="On" id="24" startTime="83350" endTime="83700" palette="9"/>
-        <Effect ref="5" name="On" id="25" startTime="83950" endTime="84200" palette="9"/>
-        <Effect ref="5" name="On" id="26" startTime="85850" endTime="85950" palette="9"/>
-        <Effect ref="5" name="On" id="27" startTime="86100" endTime="86300" palette="9"/>
-        <Effect ref="5" name="On" id="28" startTime="86800" endTime="87000" palette="9"/>
-        <Effect ref="5" name="On" id="29" startTime="89300" endTime="89400" palette="9"/>
-        <Effect ref="5" name="On" id="30" startTime="90200" endTime="90550" palette="9"/>
-        <Effect ref="5" name="On" id="31" startTime="91000" endTime="91100" palette="9"/>
-        <Effect ref="5" name="On" id="32" startTime="91150" endTime="91300" palette="9"/>
-        <Effect ref="5" name="On" id="33" startTime="91500" endTime="91700" palette="9"/>
-        <Effect ref="5" name="On" id="34" startTime="92350" endTime="92800" palette="9"/>
-        <Effect ref="14" name="VU Meter" id="35" startTime="109950" endTime="129900" palette="0"/>
-        <Effect ref="15" name="VU Meter" id="36" startTime="143800" endTime="157950" palette="6"/>
-        <Effect ref="5" name="On" id="37" startTime="179050" endTime="179400" palette="9"/>
-        <Effect ref="5" name="On" id="38" startTime="179650" endTime="179900" palette="9"/>
-        <Effect ref="5" name="On" id="39" startTime="181550" endTime="181750" palette="9"/>
-        <Effect ref="5" name="On" id="40" startTime="182500" endTime="182700" palette="9"/>
-        <Effect ref="5" name="On" id="41" startTime="184200" endTime="184400" palette="9"/>
-        <Effect ref="5" name="On" id="42" startTime="185050" endTime="185200" palette="9"/>
-        <Effect ref="5" name="On" id="43" startTime="185950" endTime="186300" palette="9"/>
-        <Effect ref="5" name="On" id="44" startTime="186750" endTime="186850" palette="9"/>
-        <Effect ref="5" name="On" id="45" startTime="187200" endTime="187400" palette="9"/>
-        <Effect ref="5" name="On" id="46" startTime="188050" endTime="188500" palette="9"/>
-        <Effect ref="5" name="On" id="47" startTime="191050" endTime="191300" palette="9"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
-      <EffectLayer>
-        <Effect ref="21" name="VU Meter" startTime="0" endTime="7050" palette="0"/>
-        <Effect ref="4" name="VU Meter" id="1" startTime="34500" endTime="41150" palette="4"/>
-        <Effect ref="4" name="VU Meter" id="2" startTime="41150" endTime="47800" palette="1"/>
-        <Effect ref="15" name="VU Meter" id="3" startTime="47800" endTime="61900" palette="0"/>
-        <Effect ref="4" name="VU Meter" id="4" startTime="82500" endTime="95350" palette="1"/>
-        <Effect ref="22" name="VU Meter" id="5" startTime="95400" endTime="102250" palette="7"/>
-        <Effect ref="22" name="VU Meter" id="6" startTime="102250" endTime="109100" palette="1"/>
-        <Effect ref="4" name="VU Meter" id="7" startTime="130500" endTime="137150" palette="4"/>
-        <Effect ref="4" name="VU Meter" id="8" startTime="137150" endTime="143800" palette="1"/>
-        <Effect ref="15" name="VU Meter" id="9" startTime="143850" endTime="157950" palette="0"/>
-        <Effect ref="22" name="VU Meter" id="10" startTime="158000" endTime="164850" palette="7"/>
-        <Effect ref="22" name="VU Meter" id="11" startTime="164850" endTime="171700" palette="1"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Pole Tree">
-      <EffectLayer>
-        <Effect ref="23" name="Meteors" startTime="7000" endTime="10200" palette="0"/>
-        <Effect ref="23" name="Meteors" id="1" startTime="20550" endTime="23750" palette="0"/>
-        <Effect ref="24" name="Meteors" id="2" startTime="23750" endTime="33700" palette="0"/>
-        <Effect ref="25" name="VU Meter" id="3" startTime="34500" endTime="41200" palette="7"/>
-        <Effect ref="26" name="VU Meter" id="4" startTime="41200" endTime="47800" palette="1"/>
-        <Effect ref="27" name="VU Meter" id="5" startTime="47800" endTime="61900" palette="11"/>
-        <Effect ref="28" name="VU Meter" id="6" startTime="82500" endTime="95350" palette="1"/>
-        <Effect ref="22" name="VU Meter" id="7" startTime="95350" endTime="102200" palette="11"/>
-        <Effect ref="22" name="VU Meter" id="8" startTime="102200" endTime="109000" palette="11"/>
-        <Effect ref="25" name="VU Meter" id="9" startTime="130500" endTime="137200" palette="7"/>
-        <Effect ref="26" name="VU Meter" id="10" startTime="137200" endTime="143800" palette="1"/>
-        <Effect ref="29" name="VU Meter" id="11" startTime="143850" endTime="157950" palette="1"/>
-        <Effect ref="22" name="VU Meter" id="12" startTime="157950" endTime="164800" palette="11"/>
-        <Effect ref="22" name="VU Meter" id="13" startTime="164800" endTime="171600" palette="11"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-8">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="37050" endTime="37500" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="37900" endTime="38350" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="43900" endTime="44350" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="7" startTime="50350" endTime="50800" palette="0"/>
-        <Effect ref="5" name="On" id="8" startTime="50800" endTime="53800" palette="13"/>
-        <Effect ref="5" name="On" id="9" startTime="54600" endTime="55050" palette="0"/>
-        <Effect ref="5" name="On" id="10" startTime="55500" endTime="55900" palette="0"/>
-        <Effect ref="5" name="On" id="11" startTime="56350" endTime="56750" palette="0"/>
-        <Effect ref="5" name="On" id="12" startTime="57200" endTime="57600" palette="0"/>
-        <Effect ref="5" name="On" id="13" startTime="58050" endTime="58500" palette="0"/>
-        <Effect ref="5" name="On" id="14" startTime="58900" endTime="59350" palette="0"/>
-        <Effect ref="5" name="On" id="15" startTime="59800" endTime="60250" palette="0"/>
-        <Effect ref="5" name="On" id="16" startTime="60650" endTime="61050" palette="0"/>
-        <Effect ref="5" name="On" id="17" startTime="61500" endTime="61900" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-7">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="36650" endTime="37050" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="38350" endTime="38750" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="43500" endTime="43900" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="45200" endTime="45650" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="46050" endTime="46500" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46900" endTime="47350" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="49900" endTime="50350" palette="6"/>
-        <Effect ref="5" name="On" id="7" startTime="50350" endTime="53350" palette="6"/>
-        <Effect ref="5" name="On" id="8" startTime="54600" endTime="55050" palette="6"/>
-        <Effect ref="5" name="On" id="9" startTime="55500" endTime="55900" palette="6"/>
-        <Effect ref="5" name="On" id="10" startTime="56350" endTime="56750" palette="6"/>
-        <Effect ref="5" name="On" id="11" startTime="57200" endTime="57600" palette="6"/>
-        <Effect ref="5" name="On" id="12" startTime="58050" endTime="58500" palette="6"/>
-        <Effect ref="5" name="On" id="13" startTime="58900" endTime="59350" palette="6"/>
-        <Effect ref="5" name="On" id="14" startTime="59750" endTime="60200" palette="6"/>
-        <Effect ref="5" name="On" id="15" startTime="60650" endTime="61050" palette="6"/>
-        <Effect ref="5" name="On" id="16" startTime="61500" endTime="61900" palette="6"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-6">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="36200" endTime="36650" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="38750" endTime="39200" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="43050" endTime="43500" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="7" startTime="49500" endTime="49900" palette="0"/>
-        <Effect ref="5" name="On" id="8" startTime="49900" endTime="52900" palette="0"/>
-        <Effect ref="5" name="On" id="9" startTime="54600" endTime="55050" palette="0"/>
-        <Effect ref="5" name="On" id="10" startTime="55500" endTime="55900" palette="0"/>
-        <Effect ref="5" name="On" id="11" startTime="56350" endTime="56750" palette="0"/>
-        <Effect ref="5" name="On" id="12" startTime="57200" endTime="57600" palette="0"/>
-        <Effect ref="5" name="On" id="13" startTime="58050" endTime="58500" palette="0"/>
-        <Effect ref="5" name="On" id="14" startTime="58900" endTime="59350" palette="0"/>
-        <Effect ref="5" name="On" id="15" startTime="59750" endTime="60200" palette="0"/>
-        <Effect ref="5" name="On" id="16" startTime="60650" endTime="61050" palette="0"/>
-        <Effect ref="5" name="On" id="17" startTime="61500" endTime="61900" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-5">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="35750" endTime="36200" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="39200" endTime="39600" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="42600" endTime="43050" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="45200" endTime="45650" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="46050" endTime="46500" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46900" endTime="47350" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="49050" endTime="49500" palette="12"/>
-        <Effect ref="5" name="On" id="7" startTime="49500" endTime="52500" palette="14"/>
-        <Effect ref="5" name="On" id="8" startTime="54600" endTime="55050" palette="12"/>
-        <Effect ref="5" name="On" id="9" startTime="55500" endTime="55900" palette="12"/>
-        <Effect ref="5" name="On" id="10" startTime="56350" endTime="56750" palette="12"/>
-        <Effect ref="5" name="On" id="11" startTime="57200" endTime="57600" palette="12"/>
-        <Effect ref="5" name="On" id="12" startTime="58050" endTime="58500" palette="12"/>
-        <Effect ref="5" name="On" id="13" startTime="58900" endTime="59350" palette="12"/>
-        <Effect ref="5" name="On" id="14" startTime="59750" endTime="60200" palette="12"/>
-        <Effect ref="5" name="On" id="15" startTime="60650" endTime="61050" palette="12"/>
-        <Effect ref="5" name="On" id="16" startTime="61500" endTime="61900" palette="12"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-4">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="35350" endTime="35750" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="39600" endTime="40050" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="42200" endTime="42600" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="7" startTime="48600" endTime="49050" palette="6"/>
-        <Effect ref="5" name="On" id="8" startTime="49050" endTime="52050" palette="6"/>
-        <Effect ref="5" name="On" id="9" startTime="54600" endTime="55050" palette="6"/>
-        <Effect ref="5" name="On" id="10" startTime="55500" endTime="55900" palette="6"/>
-        <Effect ref="5" name="On" id="11" startTime="56350" endTime="56750" palette="6"/>
-        <Effect ref="5" name="On" id="12" startTime="57200" endTime="57600" palette="6"/>
-        <Effect ref="5" name="On" id="13" startTime="58050" endTime="58500" palette="6"/>
-        <Effect ref="5" name="On" id="14" startTime="58900" endTime="59350" palette="6"/>
-        <Effect ref="5" name="On" id="15" startTime="59750" endTime="60200" palette="6"/>
-        <Effect ref="5" name="On" id="16" startTime="60650" endTime="61050" palette="6"/>
-        <Effect ref="5" name="On" id="17" startTime="61500" endTime="61900" palette="6"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-3">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="34900" endTime="35350" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="40050" endTime="40500" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="41750" endTime="42200" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="45200" endTime="45650" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="46050" endTime="46500" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46900" endTime="47350" palette="0"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="48200" endTime="48600" palette="0"/>
-        <Effect ref="5" name="On" id="7" startTime="48600" endTime="51650" palette="13"/>
-        <Effect ref="5" name="On" id="8" startTime="54600" endTime="55050" palette="13"/>
-        <Effect ref="5" name="On" id="9" startTime="55500" endTime="55900" palette="13"/>
-        <Effect ref="5" name="On" id="10" startTime="56350" endTime="56750" palette="13"/>
-        <Effect ref="5" name="On" id="11" startTime="57200" endTime="57600" palette="13"/>
-        <Effect ref="5" name="On" id="12" startTime="58050" endTime="58500" palette="13"/>
-        <Effect ref="5" name="On" id="13" startTime="58900" endTime="59350" palette="13"/>
-        <Effect ref="5" name="On" id="14" startTime="59750" endTime="60200" palette="13"/>
-        <Effect ref="5" name="On" id="15" startTime="60650" endTime="61050" palette="13"/>
-        <Effect ref="5" name="On" id="16" startTime="61500" endTime="61900" palette="13"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-2">
-      <EffectLayer>
-        <Effect ref="30" name="SingleStrand" startTime="34500" endTime="34900" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="1" startTime="40500" endTime="40900" palette="12"/>
-        <Effect ref="30" name="SingleStrand" id="2" startTime="41350" endTime="41750" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="6"/>
-        <Effect ref="30" name="SingleStrand" id="7" startTime="47800" endTime="48200" palette="12"/>
-        <Effect ref="5" name="On" id="8" startTime="48200" endTime="51200" palette="12"/>
-        <Effect ref="5" name="On" id="9" startTime="54600" endTime="55050" palette="15"/>
-        <Effect ref="5" name="On" id="10" startTime="55500" endTime="55900" palette="15"/>
-        <Effect ref="5" name="On" id="11" startTime="56350" endTime="56750" palette="15"/>
-        <Effect ref="5" name="On" id="12" startTime="57200" endTime="57600" palette="15"/>
-        <Effect ref="5" name="On" id="13" startTime="58050" endTime="58500" palette="15"/>
-        <Effect ref="5" name="On" id="14" startTime="58900" endTime="59350" palette="15"/>
-        <Effect ref="5" name="On" id="15" startTime="59750" endTime="60200" palette="15"/>
-        <Effect ref="5" name="On" id="16" startTime="60650" endTime="61050" palette="15"/>
-        <Effect ref="5" name="On" id="17" startTime="61500" endTime="61900" palette="15"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-1">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Guest">
-      <EffectLayer>
-        <Effect ref="31" name="VU Meter" startTime="0" endTime="33750" palette="1"/>
-        <Effect ref="32" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="10"/>
-        <Effect ref="31" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="1"/>
-        <Effect ref="33" name="On" id="3" startTime="116550" endTime="116700" palette="9"/>
-        <Effect ref="33" name="On" id="4" startTime="117750" endTime="118000" palette="9"/>
-        <Effect ref="33" name="On" id="5" startTime="118500" endTime="118700" palette="9"/>
-        <Effect ref="33" name="On" id="6" startTime="119150" endTime="119350" palette="9"/>
-        <Effect ref="33" name="On" id="7" startTime="120250" endTime="120350" palette="9"/>
-        <Effect ref="33" name="On" id="8" startTime="120500" endTime="120650" palette="9"/>
-        <Effect ref="33" name="On" id="9" startTime="121450" endTime="121700" palette="9"/>
-        <Effect ref="33" name="On" id="10" startTime="122150" endTime="122350" palette="9"/>
-        <Effect ref="33" name="On" id="11" startTime="123850" endTime="124100" palette="9"/>
-        <Effect ref="33" name="On" id="12" startTime="125750" endTime="125950" palette="9"/>
-        <Effect ref="33" name="On" id="13" startTime="127050" endTime="127250" palette="9"/>
-        <Effect ref="33" name="On" id="14" startTime="127900" endTime="128100" palette="9"/>
-        <Effect ref="33" name="On" id="15" startTime="128950" endTime="129150" palette="9"/>
-        <Effect ref="32" name="VU Meter" id="16" startTime="143850" endTime="157950" palette="10"/>
-        <Effect ref="31" name="VU Meter" id="17" startTime="171800" endTime="191750" palette="1"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Office">
-      <EffectLayer>
-        <Effect ref="34" name="VU Meter" startTime="0" endTime="33700" palette="0"/>
-        <Effect ref="32" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="2"/>
-        <Effect ref="34" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="0"/>
-        <Effect ref="33" name="On" id="3" startTime="117150" endTime="117400" palette="9"/>
-        <Effect ref="33" name="On" id="4" startTime="118250" endTime="118400" palette="9"/>
-        <Effect ref="33" name="On" id="5" startTime="118900" endTime="119150" palette="9"/>
-        <Effect ref="33" name="On" id="6" startTime="120650" endTime="120850" palette="9"/>
-        <Effect ref="33" name="On" id="7" startTime="121150" endTime="121450" palette="9"/>
-        <Effect ref="33" name="On" id="8" startTime="121850" endTime="122050" palette="9"/>
-        <Effect ref="33" name="On" id="9" startTime="123550" endTime="123700" palette="9"/>
-        <Effect ref="33" name="On" id="10" startTime="125200" endTime="125350" palette="9"/>
-        <Effect ref="33" name="On" id="11" startTime="127450" endTime="127650" palette="9"/>
-        <Effect ref="33" name="On" id="12" startTime="128100" endTime="128300" palette="9"/>
-        <Effect ref="33" name="On" id="13" startTime="128750" endTime="128950" palette="9"/>
-        <Effect ref="33" name="On" id="14" startTime="128950" endTime="129200" palette="9"/>
-        <Effect ref="32" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="2"/>
-        <Effect ref="34" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Sidelight left">
-      <EffectLayer>
-        <Effect ref="35" name="VU Meter" startTime="0" endTime="33750" palette="1"/>
-        <Effect ref="13" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="10"/>
-        <Effect ref="35" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="1"/>
-        <Effect ref="5" name="On" id="3" startTime="116550" endTime="116700" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="117750" endTime="118000" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="118500" endTime="118700" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="119150" endTime="119350" palette="9"/>
-        <Effect ref="33" name="On" id="7" startTime="120250" endTime="120350" palette="9"/>
-        <Effect ref="33" name="On" id="8" startTime="120500" endTime="120650" palette="9"/>
-        <Effect ref="33" name="On" id="9" startTime="121450" endTime="121700" palette="9"/>
-        <Effect ref="33" name="On" id="10" startTime="122150" endTime="122350" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="123850" endTime="124100" palette="9"/>
-        <Effect ref="5" name="On" id="12" startTime="125750" endTime="125950" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="127050" endTime="127250" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="127900" endTime="128100" palette="9"/>
-        <Effect ref="5" name="On" id="15" startTime="128950" endTime="129150" palette="9"/>
-        <Effect ref="13" name="VU Meter" id="16" startTime="143850" endTime="157950" palette="10"/>
-        <Effect ref="35" name="VU Meter" id="17" startTime="171800" endTime="191750" palette="1"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Sidelight right">
-      <EffectLayer>
-        <Effect ref="36" name="VU Meter" startTime="0" endTime="33700" palette="0"/>
-        <Effect ref="13" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="2"/>
-        <Effect ref="36" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="0"/>
-        <Effect ref="5" name="On" id="3" startTime="117150" endTime="117400" palette="9"/>
-        <Effect ref="5" name="On" id="4" startTime="118250" endTime="118400" palette="9"/>
-        <Effect ref="5" name="On" id="5" startTime="118900" endTime="119150" palette="9"/>
-        <Effect ref="5" name="On" id="6" startTime="120650" endTime="120850" palette="9"/>
-        <Effect ref="5" name="On" id="7" startTime="121150" endTime="121450" palette="9"/>
-        <Effect ref="5" name="On" id="8" startTime="121850" endTime="122050" palette="9"/>
-        <Effect ref="5" name="On" id="9" startTime="123550" endTime="123700" palette="9"/>
-        <Effect ref="5" name="On" id="10" startTime="125200" endTime="125350" palette="9"/>
-        <Effect ref="5" name="On" id="11" startTime="127450" endTime="127650" palette="9"/>
-        <Effect ref="5" name="On" id="12" startTime="128100" endTime="128300" palette="9"/>
-        <Effect ref="5" name="On" id="13" startTime="128750" endTime="128950" palette="9"/>
-        <Effect ref="5" name="On" id="14" startTime="128950" endTime="129200" palette="9"/>
-        <Effect ref="13" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="2"/>
-        <Effect ref="36" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="0"/>
-      </EffectLayer>
-    </Element>
     <Element type="timing" name="Timings Minor">
       <EffectLayer>
         <Effect label="" startTime="200" endTime="7000"></Effect>
@@ -916,8 +182,11 @@
         <Effect label="" startTime="129800" endTime="130500"></Effect>
         <Effect label="" startTime="130500" endTime="143800"></Effect>
         <Effect label="" startTime="143800" endTime="171800"></Effect>
+        <Effect label="" startTime="143800" endTime="170100"></Effect>
+        <Effect label="" startTime="170100" endTime="171800"></Effect>
         <Effect label="" startTime="171800" endTime="178050"></Effect>
         <Effect label="" startTime="178050" endTime="191400"></Effect>
+        <Effect label="" startTime="180550" endTime="191600"></Effect>
       </EffectLayer>
       <EffectLayer/>
     </Element>
@@ -2095,7 +1364,811 @@
         <Effect label="4" startTime="191750" endTime="192150"></Effect>
         <Effect label="1" startTime="192150" endTime="192550"></Effect>
         <Effect label="2" startTime="192550" endTime="193000"></Effect>
+        <Effect label="3" startTime="193000" endTime="193000"></Effect>
       </EffectLayer>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="13500" endTime="13900" palette="0"/>
+        <Effect ref="0" name="On" id="1" startTime="33850" endTime="34050" palette="1"/>
+        <Effect ref="0" name="On" id="2" startTime="34050" endTime="34300" palette="2"/>
+        <Effect ref="0" name="On" id="3" startTime="34300" endTime="34500" palette="1"/>
+        <Effect ref="0" name="On" id="4" startTime="81800" endTime="82000" palette="1"/>
+        <Effect ref="0" name="On" id="5" startTime="82000" endTime="82250" palette="2"/>
+        <Effect ref="0" name="On" id="6" startTime="82250" endTime="82450" palette="1"/>
+        <Effect ref="0" name="On" id="7" startTime="129850" endTime="130050" palette="1"/>
+        <Effect ref="0" name="On" id="8" startTime="130050" endTime="130300" palette="2"/>
+        <Effect ref="0" name="On" id="9" startTime="130300" endTime="130500" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roofline">
+      <EffectLayer>
+        <Effect ref="1" name="SingleStrand" startTime="34600" endTime="41200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="1" startTime="41200" endTime="47800" palette="1"/>
+        <Effect ref="3" name="SingleStrand" id="2" startTime="47800" endTime="48200" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="3" startTime="48200" endTime="48600" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="4" startTime="48600" endTime="49050" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="5" startTime="49050" endTime="49500" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="6" startTime="49500" endTime="49900" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="7" startTime="49900" endTime="50350" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="8" startTime="50350" endTime="50750" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="9" startTime="50750" endTime="51200" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="10" startTime="51200" endTime="51650" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="11" startTime="51650" endTime="52050" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="12" startTime="52050" endTime="52500" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="13" startTime="52500" endTime="52900" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="14" startTime="52900" endTime="53350" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="15" startTime="53350" endTime="53750" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="16" startTime="53750" endTime="54200" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="17" startTime="54200" endTime="54600" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="18" startTime="54600" endTime="55050" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="19" startTime="55050" endTime="55500" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="20" startTime="55500" endTime="55900" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="21" startTime="55900" endTime="56350" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="22" startTime="56350" endTime="56750" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="23" startTime="56750" endTime="57200" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="24" startTime="57200" endTime="57600" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="25" startTime="57600" endTime="58050" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="26" startTime="58050" endTime="58500" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="27" startTime="58500" endTime="58900" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="28" startTime="58900" endTime="59350" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="29" startTime="59350" endTime="59750" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="30" startTime="59750" endTime="60650" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="31" startTime="60650" endTime="61950" palette="3"/>
+        <Effect ref="5" name="VU Meter" id="32" startTime="82450" endTime="95350" palette="4"/>
+        <Effect ref="6" name="VU Meter" id="33" startTime="95400" endTime="109950" palette="5"/>
+        <Effect ref="1" name="SingleStrand" id="34" startTime="130600" endTime="137200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="35" startTime="137200" endTime="143800" palette="1"/>
+        <Effect ref="3" name="SingleStrand" id="36" startTime="143850" endTime="144250" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="37" startTime="144250" endTime="144650" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="38" startTime="144650" endTime="145100" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="39" startTime="145100" endTime="145550" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="40" startTime="145550" endTime="145950" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="41" startTime="145950" endTime="146400" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="42" startTime="146400" endTime="146800" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="43" startTime="146800" endTime="147250" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="44" startTime="147250" endTime="147700" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="45" startTime="147700" endTime="148100" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="46" startTime="148100" endTime="148550" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="47" startTime="148550" endTime="148950" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="48" startTime="148950" endTime="149400" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="49" startTime="149400" endTime="149800" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="50" startTime="149800" endTime="150250" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="51" startTime="150250" endTime="150650" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="52" startTime="150650" endTime="151100" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="53" startTime="151100" endTime="151550" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="54" startTime="151550" endTime="151950" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="55" startTime="151950" endTime="152400" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="56" startTime="152400" endTime="152800" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="57" startTime="152800" endTime="153250" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="58" startTime="153250" endTime="153650" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="59" startTime="153650" endTime="154100" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="60" startTime="154100" endTime="154550" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="61" startTime="154550" endTime="154950" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="62" startTime="154950" endTime="155400" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="63" startTime="155400" endTime="155800" palette="3"/>
+        <Effect ref="3" name="SingleStrand" id="64" startTime="155800" endTime="156700" palette="3"/>
+        <Effect ref="4" name="SingleStrand" id="65" startTime="156700" endTime="158000" palette="3"/>
+        <Effect ref="6" name="VU Meter" id="66" startTime="158000" endTime="171800" palette="5"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="7" name="SingleStrand" startTime="34600" endTime="41200" palette="6"/>
+        <Effect ref="8" name="SingleStrand" id="1" startTime="41200" endTime="47750" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="balls">
+      <EffectLayer>
+        <Effect ref="9" name="VU Meter" startTime="34500" endTime="41150" palette="7"/>
+        <Effect ref="9" name="VU Meter" id="1" startTime="41200" endTime="47800" palette="8"/>
+        <Effect ref="9" name="VU Meter" id="2" startTime="130500" endTime="137150" palette="7"/>
+        <Effect ref="9" name="VU Meter" id="3" startTime="137200" endTime="143800" palette="8"/>
+        <Effect ref="9" name="VU Meter" id="4" startTime="158450" endTime="165100" palette="7"/>
+        <Effect ref="9" name="VU Meter" id="5" startTime="165100" endTime="171700" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer>
+        <Effect ref="10" name="VU Meter" startTime="34500" endTime="41150" palette="9"/>
+        <Effect ref="10" name="VU Meter" id="1" startTime="41150" endTime="47800" palette="4"/>
+        <Effect ref="9" name="VU Meter" id="2" startTime="82500" endTime="95350" palette="8"/>
+        <Effect ref="11" name="VU Meter" id="3" startTime="95350" endTime="102200" palette="9"/>
+        <Effect ref="11" name="VU Meter" id="4" startTime="102200" endTime="109050" palette="8"/>
+        <Effect ref="10" name="VU Meter" id="5" startTime="130500" endTime="137150" palette="9"/>
+        <Effect ref="10" name="VU Meter" id="6" startTime="137150" endTime="143800" palette="4"/>
+        <Effect ref="11" name="VU Meter" id="7" startTime="157950" endTime="164800" palette="9"/>
+        <Effect ref="11" name="VU Meter" id="8" startTime="164800" endTime="171650" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="arches">
+      <EffectLayer>
+        <Effect ref="12" name="SingleStrand" startTime="200" endTime="2100" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="1" startTime="2100" endTime="3400" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="2" startTime="3400" endTime="5100" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="3" startTime="5100" endTime="7250" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="4" startTime="7250" endTime="8850" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="5" startTime="8850" endTime="10500" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="6" startTime="10500" endTime="12200" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="7" startTime="12200" endTime="13900" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="8" startTime="13900" endTime="15650" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="9" startTime="15650" endTime="17350" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="10" startTime="17350" endTime="19050" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="11" startTime="19050" endTime="20750" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="12" startTime="20750" endTime="22500" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="13" startTime="22500" endTime="24200" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="14" startTime="24200" endTime="25900" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="15" startTime="25900" endTime="27700" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="16" startTime="27700" endTime="29350" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="17" startTime="29350" endTime="31050" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="18" startTime="31050" endTime="32750" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="19" startTime="32750" endTime="34450" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="20" startTime="62000" endTime="63600" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="21" startTime="63600" endTime="65300" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="22" startTime="65300" endTime="67050" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="23" startTime="67050" endTime="68800" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="24" startTime="68800" endTime="70400" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="25" startTime="70400" endTime="72200" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="26" startTime="72200" endTime="73900" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="27" startTime="73900" endTime="75600" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="28" startTime="75600" endTime="77350" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="29" startTime="77350" endTime="79050" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="30" startTime="79050" endTime="80750" palette="2"/>
+        <Effect ref="12" name="SingleStrand" id="31" startTime="80750" endTime="81850" palette="2"/>
+        <Effect ref="13" name="SingleStrand" id="32" startTime="82500" endTime="88900" palette="8"/>
+        <Effect ref="14" name="SingleStrand" id="33" startTime="88900" endTime="95350" palette="8"/>
+        <Effect ref="15" name="VU Meter" id="34" startTime="95350" endTime="102200" palette="10"/>
+        <Effect ref="15" name="VU Meter" id="35" startTime="102200" endTime="109050" palette="11"/>
+        <Effect ref="13" name="SingleStrand" id="36" startTime="143800" endTime="150900" palette="8"/>
+        <Effect ref="14" name="SingleStrand" id="37" startTime="150900" endTime="157950" palette="8"/>
+        <Effect ref="15" name="VU Meter" id="38" startTime="157950" endTime="164800" palette="10"/>
+        <Effect ref="15" name="VU Meter" id="39" startTime="164800" endTime="171650" palette="11"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Eyes">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
+      <EffectLayer>
+        <Effect ref="16" name="VU Meter" startTime="0" endTime="7050" palette="2"/>
+        <Effect ref="9" name="VU Meter" id="1" startTime="34500" endTime="41150" palette="7"/>
+        <Effect ref="9" name="VU Meter" id="2" startTime="41150" endTime="47800" palette="8"/>
+        <Effect ref="17" name="VU Meter" id="3" startTime="47800" endTime="61900" palette="2"/>
+        <Effect ref="9" name="VU Meter" id="4" startTime="82500" endTime="95350" palette="8"/>
+        <Effect ref="18" name="VU Meter" id="5" startTime="95400" endTime="102250" palette="9"/>
+        <Effect ref="18" name="VU Meter" id="6" startTime="102250" endTime="109100" palette="8"/>
+        <Effect ref="9" name="VU Meter" id="7" startTime="130500" endTime="137150" palette="7"/>
+        <Effect ref="9" name="VU Meter" id="8" startTime="137150" endTime="143800" palette="8"/>
+        <Effect ref="17" name="VU Meter" id="9" startTime="143850" endTime="157950" palette="2"/>
+        <Effect ref="18" name="VU Meter" id="10" startTime="158000" endTime="164850" palette="9"/>
+        <Effect ref="18" name="VU Meter" id="11" startTime="164850" endTime="171700" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Door Frame">
+      <EffectLayer>
+        <Effect ref="9" name="VU Meter" startTime="34500" endTime="41150" palette="12"/>
+        <Effect ref="9" name="VU Meter" id="1" startTime="41200" endTime="47800" palette="13"/>
+        <Effect ref="19" name="VU Meter" id="2" startTime="47800" endTime="61900" palette="6"/>
+        <Effect ref="9" name="VU Meter" id="3" startTime="82500" endTime="95350" palette="4"/>
+        <Effect ref="18" name="VU Meter" id="4" startTime="95400" endTime="102250" palette="8"/>
+        <Effect ref="18" name="VU Meter" id="5" startTime="102250" endTime="109100" palette="9"/>
+        <Effect ref="9" name="VU Meter" id="6" startTime="130500" endTime="137150" palette="12"/>
+        <Effect ref="9" name="VU Meter" id="7" startTime="137200" endTime="143800" palette="13"/>
+        <Effect ref="19" name="VU Meter" id="8" startTime="143850" endTime="157950" palette="6"/>
+        <Effect ref="18" name="VU Meter" id="9" startTime="158000" endTime="164850" palette="8"/>
+        <Effect ref="18" name="VU Meter" id="10" startTime="164850" endTime="171700" palette="9"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Pepper Tree">
+      <EffectLayer>
+        <Effect ref="20" name="VU Meter" startTime="34550" endTime="41200" palette="14"/>
+        <Effect ref="21" name="VU Meter" id="1" startTime="41200" endTime="47800" palette="13"/>
+        <Effect ref="22" name="VU Meter" id="2" startTime="47800" endTime="61900" palette="6"/>
+        <Effect ref="23" name="VU Meter" id="3" startTime="82500" endTime="95350" palette="8"/>
+        <Effect ref="24" name="VU Meter" id="4" startTime="95350" endTime="102200" palette="8"/>
+        <Effect ref="24" name="VU Meter" id="5" startTime="102200" endTime="109050" palette="9"/>
+        <Effect ref="20" name="VU Meter" id="6" startTime="130550" endTime="137200" palette="14"/>
+        <Effect ref="21" name="VU Meter" id="7" startTime="137200" endTime="143800" palette="13"/>
+        <Effect ref="25" name="VU Meter" id="8" startTime="143850" endTime="157950" palette="6"/>
+        <Effect ref="24" name="VU Meter" id="9" startTime="157950" endTime="164800" palette="8"/>
+        <Effect ref="24" name="VU Meter" id="10" startTime="164800" endTime="171650" palette="9"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Pole Tree">
+      <EffectLayer>
+        <Effect ref="26" name="Meteors" startTime="7000" endTime="10200" palette="2"/>
+        <Effect ref="26" name="Meteors" id="1" startTime="20550" endTime="23750" palette="2"/>
+        <Effect ref="27" name="Meteors" id="2" startTime="23750" endTime="33700" palette="2"/>
+        <Effect ref="28" name="VU Meter" id="3" startTime="34500" endTime="41200" palette="9"/>
+        <Effect ref="29" name="VU Meter" id="4" startTime="41200" endTime="47800" palette="8"/>
+        <Effect ref="30" name="VU Meter" id="5" startTime="47800" endTime="61900" palette="3"/>
+        <Effect ref="31" name="VU Meter" id="6" startTime="82500" endTime="95350" palette="8"/>
+        <Effect ref="18" name="VU Meter" id="7" startTime="95350" endTime="102200" palette="3"/>
+        <Effect ref="18" name="VU Meter" id="8" startTime="102200" endTime="109000" palette="3"/>
+        <Effect ref="28" name="VU Meter" id="9" startTime="130500" endTime="137200" palette="9"/>
+        <Effect ref="29" name="VU Meter" id="10" startTime="137200" endTime="143800" palette="8"/>
+        <Effect ref="32" name="VU Meter" id="11" startTime="143850" endTime="157950" palette="8"/>
+        <Effect ref="18" name="VU Meter" id="12" startTime="157950" endTime="164800" palette="3"/>
+        <Effect ref="18" name="VU Meter" id="13" startTime="164800" endTime="171600" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="dining right">
+      <EffectLayer>
+        <Effect ref="33" name="VU Meter" startTime="0" endTime="33650" palette="2"/>
+        <Effect ref="6" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="11"/>
+        <Effect ref="33" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="2"/>
+        <Effect ref="0" name="On" id="3" startTime="116750" endTime="116950" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="119350" endTime="119550" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="120350" endTime="120500" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="121700" endTime="121850" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="122350" endTime="122550" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="124100" endTime="124300" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="124700" endTime="124900" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="125350" endTime="125550" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="125950" endTime="126400" palette="15"/>
+        <Effect ref="0" name="On" id="12" startTime="126950" endTime="127050" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="127650" endTime="127900" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="128550" endTime="128750" palette="15"/>
+        <Effect ref="6" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="11"/>
+        <Effect ref="33" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="dining center">
+      <EffectLayer>
+        <Effect ref="34" name="VU Meter" startTime="0" endTime="33650" palette="2"/>
+        <Effect ref="6" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="10"/>
+        <Effect ref="34" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="2"/>
+        <Effect ref="0" name="On" id="3" startTime="116950" endTime="117150" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="118400" endTime="118500" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="118700" endTime="118900" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="119550" endTime="119900" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="120100" endTime="120250" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="121050" endTime="121150" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="122050" endTime="122150" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="124900" endTime="125050" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="126850" endTime="126950" palette="15"/>
+        <Effect ref="0" name="On" id="12" startTime="127250" endTime="127450" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="128300" endTime="128550" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="129150" endTime="129400" palette="15"/>
+        <Effect ref="6" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="10"/>
+        <Effect ref="34" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="dining left">
+      <EffectLayer>
+        <Effect ref="35" name="VU Meter" startTime="0" endTime="33650" palette="2"/>
+        <Effect ref="6" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="16"/>
+        <Effect ref="35" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="2"/>
+        <Effect ref="0" name="On" id="3" startTime="117400" endTime="117750" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="118000" endTime="118250" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="119900" endTime="120100" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="120850" endTime="121050" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="122550" endTime="122750" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="123400" endTime="123550" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="124300" endTime="124650" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="125100" endTime="125200" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="125550" endTime="125750" palette="15"/>
+        <Effect ref="0" name="On" id="12" startTime="126400" endTime="126850" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="129400" endTime="129650" palette="15"/>
+        <Effect ref="6" name="VU Meter" id="14" startTime="143850" endTime="157950" palette="16"/>
+        <Effect ref="35" name="VU Meter" id="15" startTime="171800" endTime="191750" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="office right">
+      <EffectLayer>
+        <Effect ref="36" name="VU Meter" startTime="0" endTime="33700" palette="2"/>
+        <Effect ref="6" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="10"/>
+        <Effect ref="36" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="2"/>
+        <Effect ref="0" name="On" id="3" startTime="117150" endTime="117400" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="118250" endTime="118400" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="118900" endTime="119150" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="120650" endTime="120850" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="121150" endTime="121450" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="121850" endTime="122050" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="123550" endTime="123700" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="125200" endTime="125350" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="127450" endTime="127650" palette="15"/>
+        <Effect ref="0" name="On" id="12" startTime="128100" endTime="128300" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="128750" endTime="128950" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="128950" endTime="129200" palette="15"/>
+        <Effect ref="6" name="VU Meter" id="15" startTime="143850" endTime="157950" palette="10"/>
+        <Effect ref="36" name="VU Meter" id="16" startTime="171800" endTime="191750" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="office left">
+      <EffectLayer>
+        <Effect ref="37" name="VU Meter" startTime="0" endTime="33750" palette="8"/>
+        <Effect ref="6" name="VU Meter" id="1" startTime="47800" endTime="61900" palette="16"/>
+        <Effect ref="37" name="VU Meter" id="2" startTime="61900" endTime="81850" palette="8"/>
+        <Effect ref="0" name="On" id="3" startTime="116550" endTime="116700" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="117750" endTime="118000" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="118500" endTime="118700" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="119150" endTime="119350" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="120250" endTime="120350" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="120500" endTime="120650" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="121450" endTime="121700" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="122150" endTime="122350" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="123850" endTime="124100" palette="15"/>
+        <Effect ref="0" name="On" id="12" startTime="125750" endTime="125950" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="127050" endTime="127250" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="127900" endTime="128100" palette="15"/>
+        <Effect ref="0" name="On" id="15" startTime="128950" endTime="129150" palette="15"/>
+        <Effect ref="6" name="VU Meter" id="16" startTime="143850" endTime="157950" palette="16"/>
+        <Effect ref="37" name="VU Meter" id="17" startTime="171800" endTime="191750" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="34500" endTime="34900" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="40500" endTime="40900" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="41350" endTime="41750" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="7" startTime="47800" endTime="48200" palette="6"/>
+        <Effect ref="0" name="On" id="8" startTime="48200" endTime="51200" palette="6"/>
+        <Effect ref="0" name="On" id="9" startTime="54600" endTime="55050" palette="17"/>
+        <Effect ref="0" name="On" id="10" startTime="55500" endTime="55900" palette="17"/>
+        <Effect ref="0" name="On" id="11" startTime="56350" endTime="56750" palette="17"/>
+        <Effect ref="0" name="On" id="12" startTime="57200" endTime="57600" palette="17"/>
+        <Effect ref="0" name="On" id="13" startTime="58050" endTime="58500" palette="17"/>
+        <Effect ref="0" name="On" id="14" startTime="58900" endTime="59350" palette="17"/>
+        <Effect ref="0" name="On" id="15" startTime="59750" endTime="60200" palette="17"/>
+        <Effect ref="0" name="On" id="16" startTime="60650" endTime="61050" palette="17"/>
+        <Effect ref="0" name="On" id="17" startTime="61500" endTime="61900" palette="17"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="34900" endTime="35350" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="40050" endTime="40500" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="41750" endTime="42200" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="45200" endTime="45650" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="46050" endTime="46500" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46900" endTime="47350" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="48200" endTime="48600" palette="2"/>
+        <Effect ref="0" name="On" id="7" startTime="48600" endTime="51650" palette="18"/>
+        <Effect ref="0" name="On" id="8" startTime="54600" endTime="55050" palette="18"/>
+        <Effect ref="0" name="On" id="9" startTime="55500" endTime="55900" palette="18"/>
+        <Effect ref="0" name="On" id="10" startTime="56350" endTime="56750" palette="18"/>
+        <Effect ref="0" name="On" id="11" startTime="57200" endTime="57600" palette="18"/>
+        <Effect ref="0" name="On" id="12" startTime="58050" endTime="58500" palette="18"/>
+        <Effect ref="0" name="On" id="13" startTime="58900" endTime="59350" palette="18"/>
+        <Effect ref="0" name="On" id="14" startTime="59750" endTime="60200" palette="18"/>
+        <Effect ref="0" name="On" id="15" startTime="60650" endTime="61050" palette="18"/>
+        <Effect ref="0" name="On" id="16" startTime="61500" endTime="61900" palette="18"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="35350" endTime="35750" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="39600" endTime="40050" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="42200" endTime="42600" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="7" startTime="48600" endTime="49050" palette="1"/>
+        <Effect ref="0" name="On" id="8" startTime="49050" endTime="52050" palette="1"/>
+        <Effect ref="0" name="On" id="9" startTime="54600" endTime="55050" palette="1"/>
+        <Effect ref="0" name="On" id="10" startTime="55500" endTime="55900" palette="1"/>
+        <Effect ref="0" name="On" id="11" startTime="56350" endTime="56750" palette="1"/>
+        <Effect ref="0" name="On" id="12" startTime="57200" endTime="57600" palette="1"/>
+        <Effect ref="0" name="On" id="13" startTime="58050" endTime="58500" palette="1"/>
+        <Effect ref="0" name="On" id="14" startTime="58900" endTime="59350" palette="1"/>
+        <Effect ref="0" name="On" id="15" startTime="59750" endTime="60200" palette="1"/>
+        <Effect ref="0" name="On" id="16" startTime="60650" endTime="61050" palette="1"/>
+        <Effect ref="0" name="On" id="17" startTime="61500" endTime="61900" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="35750" endTime="36200" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="39200" endTime="39600" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="42600" endTime="43050" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="45200" endTime="45650" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="46050" endTime="46500" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46900" endTime="47350" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="49050" endTime="49500" palette="6"/>
+        <Effect ref="0" name="On" id="7" startTime="49500" endTime="52500" palette="19"/>
+        <Effect ref="0" name="On" id="8" startTime="54600" endTime="55050" palette="6"/>
+        <Effect ref="0" name="On" id="9" startTime="55500" endTime="55900" palette="6"/>
+        <Effect ref="0" name="On" id="10" startTime="56350" endTime="56750" palette="6"/>
+        <Effect ref="0" name="On" id="11" startTime="57200" endTime="57600" palette="6"/>
+        <Effect ref="0" name="On" id="12" startTime="58050" endTime="58500" palette="6"/>
+        <Effect ref="0" name="On" id="13" startTime="58900" endTime="59350" palette="6"/>
+        <Effect ref="0" name="On" id="14" startTime="59750" endTime="60200" palette="6"/>
+        <Effect ref="0" name="On" id="15" startTime="60650" endTime="61050" palette="6"/>
+        <Effect ref="0" name="On" id="16" startTime="61500" endTime="61900" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="36200" endTime="36650" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="38750" endTime="39200" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="43050" endTime="43500" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="7" startTime="49500" endTime="49900" palette="2"/>
+        <Effect ref="0" name="On" id="8" startTime="49900" endTime="52900" palette="2"/>
+        <Effect ref="0" name="On" id="9" startTime="54600" endTime="55050" palette="2"/>
+        <Effect ref="0" name="On" id="10" startTime="55500" endTime="55900" palette="2"/>
+        <Effect ref="0" name="On" id="11" startTime="56350" endTime="56750" palette="2"/>
+        <Effect ref="0" name="On" id="12" startTime="57200" endTime="57600" palette="2"/>
+        <Effect ref="0" name="On" id="13" startTime="58050" endTime="58500" palette="2"/>
+        <Effect ref="0" name="On" id="14" startTime="58900" endTime="59350" palette="2"/>
+        <Effect ref="0" name="On" id="15" startTime="59750" endTime="60200" palette="2"/>
+        <Effect ref="0" name="On" id="16" startTime="60650" endTime="61050" palette="2"/>
+        <Effect ref="0" name="On" id="17" startTime="61500" endTime="61900" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="36650" endTime="37050" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="38350" endTime="38750" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="43500" endTime="43900" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="45200" endTime="45650" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="46050" endTime="46500" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46900" endTime="47350" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="49900" endTime="50350" palette="1"/>
+        <Effect ref="0" name="On" id="7" startTime="50350" endTime="53350" palette="1"/>
+        <Effect ref="0" name="On" id="8" startTime="54600" endTime="55050" palette="1"/>
+        <Effect ref="0" name="On" id="9" startTime="55500" endTime="55900" palette="1"/>
+        <Effect ref="0" name="On" id="10" startTime="56350" endTime="56750" palette="1"/>
+        <Effect ref="0" name="On" id="11" startTime="57200" endTime="57600" palette="1"/>
+        <Effect ref="0" name="On" id="12" startTime="58050" endTime="58500" palette="1"/>
+        <Effect ref="0" name="On" id="13" startTime="58900" endTime="59350" palette="1"/>
+        <Effect ref="0" name="On" id="14" startTime="59750" endTime="60200" palette="1"/>
+        <Effect ref="0" name="On" id="15" startTime="60650" endTime="61050" palette="1"/>
+        <Effect ref="0" name="On" id="16" startTime="61500" endTime="61900" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-8">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="37050" endTime="37500" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="37900" endTime="38350" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="43900" endTime="44350" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="44750" endTime="45200" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="45650" endTime="46050" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="46500" endTime="46900" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="6" startTime="47350" endTime="47800" palette="1"/>
+        <Effect ref="38" name="SingleStrand" id="7" startTime="50350" endTime="50800" palette="2"/>
+        <Effect ref="0" name="On" id="8" startTime="50800" endTime="53800" palette="18"/>
+        <Effect ref="0" name="On" id="9" startTime="54600" endTime="55050" palette="2"/>
+        <Effect ref="0" name="On" id="10" startTime="55500" endTime="55900" palette="2"/>
+        <Effect ref="0" name="On" id="11" startTime="56350" endTime="56750" palette="2"/>
+        <Effect ref="0" name="On" id="12" startTime="57200" endTime="57600" palette="2"/>
+        <Effect ref="0" name="On" id="13" startTime="58050" endTime="58500" palette="2"/>
+        <Effect ref="0" name="On" id="14" startTime="58900" endTime="59350" palette="2"/>
+        <Effect ref="0" name="On" id="15" startTime="59800" endTime="60250" palette="2"/>
+        <Effect ref="0" name="On" id="16" startTime="60650" endTime="61050" palette="2"/>
+        <Effect ref="0" name="On" id="17" startTime="61500" endTime="61900" palette="2"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-9">
+      <EffectLayer>
+        <Effect ref="38" name="SingleStrand" startTime="37500" endTime="37900" palette="6"/>
+        <Effect ref="38" name="SingleStrand" id="1" startTime="44350" endTime="44750" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="2" startTime="45200" endTime="45650" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="3" startTime="46050" endTime="46500" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="4" startTime="46900" endTime="47350" palette="2"/>
+        <Effect ref="38" name="SingleStrand" id="5" startTime="50800" endTime="51200" palette="6"/>
+        <Effect ref="0" name="On" id="6" startTime="51200" endTime="54250" palette="20"/>
+        <Effect ref="0" name="On" id="7" startTime="54600" endTime="55050" palette="6"/>
+        <Effect ref="0" name="On" id="8" startTime="55500" endTime="55900" palette="6"/>
+        <Effect ref="0" name="On" id="9" startTime="56350" endTime="56750" palette="6"/>
+        <Effect ref="0" name="On" id="10" startTime="57200" endTime="57600" palette="6"/>
+        <Effect ref="0" name="On" id="11" startTime="58050" endTime="58500" palette="6"/>
+        <Effect ref="0" name="On" id="12" startTime="58900" endTime="59350" palette="6"/>
+        <Effect ref="0" name="On" id="13" startTime="59800" endTime="60250" palette="6"/>
+        <Effect ref="0" name="On" id="14" startTime="60650" endTime="61050" palette="6"/>
+        <Effect ref="0" name="On" id="15" startTime="61500" endTime="61900" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Garage and right top peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="20600" endTime="20750" palette="15"/>
+        <Effect ref="0" name="On" id="1" startTime="21800" endTime="22050" palette="15"/>
+        <Effect ref="0" name="On" id="2" startTime="22550" endTime="22750" palette="15"/>
+        <Effect ref="0" name="On" id="3" startTime="23200" endTime="23400" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="24300" endTime="24400" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="24550" endTime="24700" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="25500" endTime="25750" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="26200" endTime="26400" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="27900" endTime="28150" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="29800" endTime="30000" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="31100" endTime="31300" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="31950" endTime="32150" palette="15"/>
+        <Effect ref="0" name="On" id="12" startTime="33000" endTime="33200" palette="15"/>
+        <Effect ref="17" name="VU Meter" id="13" startTime="47750" endTime="61850" palette="2"/>
+        <Effect ref="0" name="On" id="14" startTime="68400" endTime="68550" palette="15"/>
+        <Effect ref="0" name="On" id="15" startTime="69600" endTime="69850" palette="15"/>
+        <Effect ref="0" name="On" id="16" startTime="70350" endTime="70550" palette="15"/>
+        <Effect ref="0" name="On" id="17" startTime="71000" endTime="71200" palette="15"/>
+        <Effect ref="0" name="On" id="18" startTime="72100" endTime="72200" palette="15"/>
+        <Effect ref="0" name="On" id="19" startTime="72350" endTime="72500" palette="15"/>
+        <Effect ref="0" name="On" id="20" startTime="73300" endTime="73550" palette="15"/>
+        <Effect ref="0" name="On" id="21" startTime="74000" endTime="74200" palette="15"/>
+        <Effect ref="0" name="On" id="22" startTime="75700" endTime="75950" palette="15"/>
+        <Effect ref="0" name="On" id="23" startTime="77600" endTime="77800" palette="15"/>
+        <Effect ref="0" name="On" id="24" startTime="78900" endTime="79100" palette="15"/>
+        <Effect ref="0" name="On" id="25" startTime="79750" endTime="79950" palette="15"/>
+        <Effect ref="0" name="On" id="26" startTime="80800" endTime="81000" palette="15"/>
+        <Effect ref="0" name="On" id="27" startTime="82550" endTime="82600" palette="15"/>
+        <Effect ref="0" name="On" id="28" startTime="83800" endTime="83950" palette="15"/>
+        <Effect ref="0" name="On" id="29" startTime="84450" endTime="84650" palette="15"/>
+        <Effect ref="0" name="On" id="30" startTime="85100" endTime="85350" palette="15"/>
+        <Effect ref="0" name="On" id="31" startTime="86450" endTime="86600" palette="15"/>
+        <Effect ref="0" name="On" id="32" startTime="87450" endTime="87650" palette="15"/>
+        <Effect ref="0" name="On" id="33" startTime="89800" endTime="90050" palette="15"/>
+        <Effect ref="0" name="On" id="34" startTime="91100" endTime="91150" palette="15"/>
+        <Effect ref="0" name="On" id="35" startTime="91700" endTime="91900" palette="15"/>
+        <Effect ref="0" name="On" id="36" startTime="93000" endTime="93200" palette="15"/>
+        <Effect ref="0" name="On" id="37" startTime="93850" endTime="94050" palette="15"/>
+        <Effect ref="0" name="On" id="38" startTime="94900" endTime="95100" palette="15"/>
+        <Effect ref="37" name="VU Meter" id="39" startTime="109950" endTime="129900" palette="8"/>
+        <Effect ref="17" name="VU Meter" id="40" startTime="143800" endTime="157900" palette="2"/>
+        <Effect ref="0" name="On" id="41" startTime="178200" endTime="178350" palette="15"/>
+        <Effect ref="0" name="On" id="42" startTime="179400" endTime="179650" palette="15"/>
+        <Effect ref="0" name="On" id="43" startTime="180150" endTime="180350" palette="15"/>
+        <Effect ref="0" name="On" id="44" startTime="180800" endTime="181000" palette="15"/>
+        <Effect ref="0" name="On" id="45" startTime="181900" endTime="182000" palette="15"/>
+        <Effect ref="0" name="On" id="46" startTime="182150" endTime="182300" palette="15"/>
+        <Effect ref="0" name="On" id="47" startTime="183100" endTime="183350" palette="15"/>
+        <Effect ref="0" name="On" id="48" startTime="183800" endTime="184000" palette="15"/>
+        <Effect ref="0" name="On" id="49" startTime="185500" endTime="185750" palette="15"/>
+        <Effect ref="0" name="On" id="50" startTime="187400" endTime="187600" palette="15"/>
+        <Effect ref="0" name="On" id="51" startTime="188700" endTime="188900" palette="15"/>
+        <Effect ref="0" name="On" id="52" startTime="189550" endTime="189750" palette="15"/>
+        <Effect ref="0" name="On" id="53" startTime="190600" endTime="190800" palette="15"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-2">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="21200" endTime="21450" palette="15"/>
+        <Effect ref="0" name="On" id="1" startTime="22300" endTime="22450" palette="15"/>
+        <Effect ref="0" name="On" id="2" startTime="22950" endTime="23200" palette="15"/>
+        <Effect ref="0" name="On" id="3" startTime="24700" endTime="24900" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="25200" endTime="25500" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="25900" endTime="26100" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="27600" endTime="27750" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="29250" endTime="29400" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="31500" endTime="31700" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="32150" endTime="32350" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="32800" endTime="33000" palette="15"/>
+        <Effect ref="17" name="VU Meter" id="11" startTime="47750" endTime="61900" palette="2"/>
+        <Effect ref="0" name="On" id="12" startTime="69000" endTime="69250" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="70100" endTime="70250" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="70750" endTime="71000" palette="15"/>
+        <Effect ref="0" name="On" id="15" startTime="72500" endTime="72700" palette="15"/>
+        <Effect ref="0" name="On" id="16" startTime="73000" endTime="73300" palette="15"/>
+        <Effect ref="0" name="On" id="17" startTime="73700" endTime="73900" palette="15"/>
+        <Effect ref="0" name="On" id="18" startTime="75400" endTime="75550" palette="15"/>
+        <Effect ref="0" name="On" id="19" startTime="77050" endTime="77200" palette="15"/>
+        <Effect ref="0" name="On" id="20" startTime="79300" endTime="79500" palette="15"/>
+        <Effect ref="0" name="On" id="21" startTime="79950" endTime="80150" palette="15"/>
+        <Effect ref="0" name="On" id="22" startTime="80600" endTime="80800" palette="15"/>
+        <Effect ref="0" name="On" id="23" startTime="83100" endTime="83350" palette="15"/>
+        <Effect ref="0" name="On" id="24" startTime="84250" endTime="84350" palette="15"/>
+        <Effect ref="0" name="On" id="25" startTime="84850" endTime="84950" palette="15"/>
+        <Effect ref="0" name="On" id="26" startTime="86600" endTime="86800" palette="15"/>
+        <Effect ref="0" name="On" id="27" startTime="87250" endTime="87450" palette="15"/>
+        <Effect ref="0" name="On" id="28" startTime="87800" endTime="87900" palette="15"/>
+        <Effect ref="0" name="On" id="29" startTime="88100" endTime="88300" palette="15"/>
+        <Effect ref="0" name="On" id="30" startTime="89400" endTime="89600" palette="15"/>
+        <Effect ref="0" name="On" id="31" startTime="90600" endTime="90650" palette="15"/>
+        <Effect ref="0" name="On" id="32" startTime="93400" endTime="93600" palette="15"/>
+        <Effect ref="0" name="On" id="33" startTime="94050" endTime="94250" palette="15"/>
+        <Effect ref="0" name="On" id="34" startTime="94700" endTime="94900" palette="15"/>
+        <Effect ref="36" name="VU Meter" id="35" startTime="109950" endTime="129900" palette="2"/>
+        <Effect ref="17" name="VU Meter" id="36" startTime="143800" endTime="157950" palette="2"/>
+        <Effect ref="0" name="On" id="37" startTime="178800" endTime="179050" palette="15"/>
+        <Effect ref="0" name="On" id="38" startTime="179900" endTime="180050" palette="15"/>
+        <Effect ref="0" name="On" id="39" startTime="180550" endTime="180800" palette="15"/>
+        <Effect ref="0" name="On" id="40" startTime="182300" endTime="182500" palette="15"/>
+        <Effect ref="0" name="On" id="41" startTime="182800" endTime="183100" palette="15"/>
+        <Effect ref="0" name="On" id="42" startTime="183500" endTime="183700" palette="15"/>
+        <Effect ref="0" name="On" id="43" startTime="185200" endTime="185350" palette="15"/>
+        <Effect ref="0" name="On" id="44" startTime="186850" endTime="187000" palette="15"/>
+        <Effect ref="0" name="On" id="45" startTime="189100" endTime="189300" palette="15"/>
+        <Effect ref="0" name="On" id="46" startTime="189750" endTime="189950" palette="15"/>
+        <Effect ref="0" name="On" id="47" startTime="190400" endTime="190600" palette="15"/>
+        <Effect ref="0" name="On" id="48" startTime="190600" endTime="190850" palette="15"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-3">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="21450" endTime="21800" palette="15"/>
+        <Effect ref="0" name="On" id="1" startTime="22050" endTime="22300" palette="15"/>
+        <Effect ref="0" name="On" id="2" startTime="23950" endTime="24150" palette="15"/>
+        <Effect ref="0" name="On" id="3" startTime="24900" endTime="25100" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="26600" endTime="26800" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="27450" endTime="27600" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="28350" endTime="28700" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="29150" endTime="29250" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="29600" endTime="29800" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="30450" endTime="30900" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="33450" endTime="33700" palette="15"/>
+        <Effect ref="17" name="VU Meter" id="11" startTime="47750" endTime="61900" palette="1"/>
+        <Effect ref="0" name="On" id="12" startTime="69250" endTime="69600" palette="15"/>
+        <Effect ref="0" name="On" id="13" startTime="69850" endTime="70100" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="71750" endTime="71950" palette="15"/>
+        <Effect ref="0" name="On" id="15" startTime="72700" endTime="72900" palette="15"/>
+        <Effect ref="0" name="On" id="16" startTime="74400" endTime="74600" palette="15"/>
+        <Effect ref="0" name="On" id="17" startTime="75250" endTime="75400" palette="15"/>
+        <Effect ref="0" name="On" id="18" startTime="76150" endTime="76500" palette="15"/>
+        <Effect ref="0" name="On" id="19" startTime="76950" endTime="77050" palette="15"/>
+        <Effect ref="0" name="On" id="20" startTime="77400" endTime="77600" palette="15"/>
+        <Effect ref="0" name="On" id="21" startTime="78250" endTime="78700" palette="15"/>
+        <Effect ref="0" name="On" id="22" startTime="81250" endTime="81500" palette="15"/>
+        <Effect ref="0" name="On" id="23" startTime="82600" endTime="82650" palette="15"/>
+        <Effect ref="0" name="On" id="24" startTime="83350" endTime="83700" palette="15"/>
+        <Effect ref="0" name="On" id="25" startTime="83950" endTime="84200" palette="15"/>
+        <Effect ref="0" name="On" id="26" startTime="85850" endTime="85950" palette="15"/>
+        <Effect ref="0" name="On" id="27" startTime="86100" endTime="86300" palette="15"/>
+        <Effect ref="0" name="On" id="28" startTime="86800" endTime="87000" palette="15"/>
+        <Effect ref="0" name="On" id="29" startTime="89300" endTime="89400" palette="15"/>
+        <Effect ref="0" name="On" id="30" startTime="90200" endTime="90550" palette="15"/>
+        <Effect ref="0" name="On" id="31" startTime="91000" endTime="91100" palette="15"/>
+        <Effect ref="0" name="On" id="32" startTime="91150" endTime="91300" palette="15"/>
+        <Effect ref="0" name="On" id="33" startTime="91500" endTime="91700" palette="15"/>
+        <Effect ref="0" name="On" id="34" startTime="92350" endTime="92800" palette="15"/>
+        <Effect ref="35" name="VU Meter" id="35" startTime="109950" endTime="129900" palette="2"/>
+        <Effect ref="17" name="VU Meter" id="36" startTime="143800" endTime="157950" palette="1"/>
+        <Effect ref="0" name="On" id="37" startTime="179050" endTime="179400" palette="15"/>
+        <Effect ref="0" name="On" id="38" startTime="179650" endTime="179900" palette="15"/>
+        <Effect ref="0" name="On" id="39" startTime="181550" endTime="181750" palette="15"/>
+        <Effect ref="0" name="On" id="40" startTime="182500" endTime="182700" palette="15"/>
+        <Effect ref="0" name="On" id="41" startTime="184200" endTime="184400" palette="15"/>
+        <Effect ref="0" name="On" id="42" startTime="185050" endTime="185200" palette="15"/>
+        <Effect ref="0" name="On" id="43" startTime="185950" endTime="186300" palette="15"/>
+        <Effect ref="0" name="On" id="44" startTime="186750" endTime="186850" palette="15"/>
+        <Effect ref="0" name="On" id="45" startTime="187200" endTime="187400" palette="15"/>
+        <Effect ref="0" name="On" id="46" startTime="188050" endTime="188500" palette="15"/>
+        <Effect ref="0" name="On" id="47" startTime="191050" endTime="191300" palette="15"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-4">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="21000" endTime="21200" palette="15"/>
+        <Effect ref="0" name="On" id="1" startTime="22450" endTime="22550" palette="15"/>
+        <Effect ref="0" name="On" id="2" startTime="22750" endTime="22950" palette="15"/>
+        <Effect ref="0" name="On" id="3" startTime="23600" endTime="23950" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="24150" endTime="24300" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="25100" endTime="25200" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="26100" endTime="26200" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="28950" endTime="29100" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="30900" endTime="31000" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="31300" endTime="31500" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="32350" endTime="32600" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="33200" endTime="33450" palette="15"/>
+        <Effect ref="17" name="VU Meter" id="12" startTime="47750" endTime="61900" palette="2"/>
+        <Effect ref="0" name="On" id="13" startTime="68800" endTime="69000" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="70250" endTime="70350" palette="15"/>
+        <Effect ref="0" name="On" id="15" startTime="70550" endTime="70750" palette="15"/>
+        <Effect ref="0" name="On" id="16" startTime="71400" endTime="71750" palette="15"/>
+        <Effect ref="0" name="On" id="17" startTime="71950" endTime="72100" palette="15"/>
+        <Effect ref="0" name="On" id="18" startTime="72900" endTime="73000" palette="15"/>
+        <Effect ref="0" name="On" id="19" startTime="73900" endTime="74000" palette="15"/>
+        <Effect ref="0" name="On" id="20" startTime="76750" endTime="76900" palette="15"/>
+        <Effect ref="0" name="On" id="21" startTime="78700" endTime="78800" palette="15"/>
+        <Effect ref="0" name="On" id="22" startTime="79100" endTime="79300" palette="15"/>
+        <Effect ref="0" name="On" id="23" startTime="80150" endTime="80400" palette="15"/>
+        <Effect ref="0" name="On" id="24" startTime="81000" endTime="81250" palette="15"/>
+        <Effect ref="0" name="On" id="25" startTime="82900" endTime="83100" palette="15"/>
+        <Effect ref="0" name="On" id="26" startTime="84350" endTime="84450" palette="15"/>
+        <Effect ref="0" name="On" id="27" startTime="84650" endTime="84750" palette="15"/>
+        <Effect ref="0" name="On" id="28" startTime="84950" endTime="85100" palette="15"/>
+        <Effect ref="0" name="On" id="29" startTime="85950" endTime="86100" palette="15"/>
+        <Effect ref="0" name="On" id="30" startTime="87000" endTime="87100" palette="15"/>
+        <Effect ref="0" name="On" id="31" startTime="87900" endTime="88100" palette="15"/>
+        <Effect ref="0" name="On" id="32" startTime="90850" endTime="91000" palette="15"/>
+        <Effect ref="0" name="On" id="33" startTime="92800" endTime="92900" palette="15"/>
+        <Effect ref="0" name="On" id="34" startTime="93200" endTime="93400" palette="15"/>
+        <Effect ref="0" name="On" id="35" startTime="94250" endTime="94500" palette="15"/>
+        <Effect ref="0" name="On" id="36" startTime="95100" endTime="95350" palette="15"/>
+        <Effect ref="34" name="VU Meter" id="37" startTime="109950" endTime="129900" palette="2"/>
+        <Effect ref="17" name="VU Meter" id="38" startTime="143800" endTime="157950" palette="2"/>
+        <Effect ref="0" name="On" id="39" startTime="178600" endTime="178800" palette="15"/>
+        <Effect ref="0" name="On" id="40" startTime="180050" endTime="180150" palette="15"/>
+        <Effect ref="0" name="On" id="41" startTime="180350" endTime="180550" palette="15"/>
+        <Effect ref="0" name="On" id="42" startTime="181200" endTime="181550" palette="15"/>
+        <Effect ref="0" name="On" id="43" startTime="181750" endTime="181900" palette="15"/>
+        <Effect ref="0" name="On" id="44" startTime="182700" endTime="182800" palette="15"/>
+        <Effect ref="0" name="On" id="45" startTime="183700" endTime="183800" palette="15"/>
+        <Effect ref="0" name="On" id="46" startTime="186550" endTime="186700" palette="15"/>
+        <Effect ref="0" name="On" id="47" startTime="188500" endTime="188600" palette="15"/>
+        <Effect ref="0" name="On" id="48" startTime="188900" endTime="189100" palette="15"/>
+        <Effect ref="0" name="On" id="49" startTime="189950" endTime="190200" palette="15"/>
+        <Effect ref="0" name="On" id="50" startTime="190800" endTime="191050" palette="15"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small-5">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="20800" endTime="21000" palette="15"/>
+        <Effect ref="0" name="On" id="1" startTime="23400" endTime="23600" palette="15"/>
+        <Effect ref="0" name="On" id="2" startTime="24400" endTime="24550" palette="15"/>
+        <Effect ref="0" name="On" id="3" startTime="25750" endTime="25900" palette="15"/>
+        <Effect ref="0" name="On" id="4" startTime="26400" endTime="26600" palette="15"/>
+        <Effect ref="0" name="On" id="5" startTime="28150" endTime="28350" palette="15"/>
+        <Effect ref="0" name="On" id="6" startTime="28750" endTime="28950" palette="15"/>
+        <Effect ref="0" name="On" id="7" startTime="29400" endTime="29600" palette="15"/>
+        <Effect ref="0" name="On" id="8" startTime="30000" endTime="30450" palette="15"/>
+        <Effect ref="0" name="On" id="9" startTime="31000" endTime="31100" palette="15"/>
+        <Effect ref="0" name="On" id="10" startTime="31700" endTime="31950" palette="15"/>
+        <Effect ref="0" name="On" id="11" startTime="32600" endTime="32800" palette="15"/>
+        <Effect ref="17" name="VU Meter" id="12" startTime="47750" endTime="61950" palette="1"/>
+        <Effect ref="0" name="On" id="13" startTime="68600" endTime="68800" palette="15"/>
+        <Effect ref="0" name="On" id="14" startTime="71200" endTime="71400" palette="15"/>
+        <Effect ref="0" name="On" id="15" startTime="72200" endTime="72350" palette="15"/>
+        <Effect ref="0" name="On" id="16" startTime="73550" endTime="73700" palette="15"/>
+        <Effect ref="0" name="On" id="17" startTime="74200" endTime="74400" palette="15"/>
+        <Effect ref="0" name="On" id="18" startTime="75950" endTime="76150" palette="15"/>
+        <Effect ref="0" name="On" id="19" startTime="76550" endTime="76750" palette="15"/>
+        <Effect ref="0" name="On" id="20" startTime="77200" endTime="77400" palette="15"/>
+        <Effect ref="0" name="On" id="21" startTime="77800" endTime="78250" palette="15"/>
+        <Effect ref="0" name="On" id="22" startTime="78800" endTime="78900" palette="15"/>
+        <Effect ref="0" name="On" id="23" startTime="79500" endTime="79750" palette="15"/>
+        <Effect ref="0" name="On" id="24" startTime="80400" endTime="80600" palette="15"/>
+        <Effect ref="0" name="On" id="25" startTime="82650" endTime="82900" palette="15"/>
+        <Effect ref="0" name="On" id="26" startTime="83700" endTime="83750" palette="15"/>
+        <Effect ref="0" name="On" id="27" startTime="84750" endTime="84850" palette="15"/>
+        <Effect ref="0" name="On" id="28" startTime="85400" endTime="85850" palette="15"/>
+        <Effect ref="0" name="On" id="29" startTime="86300" endTime="86450" palette="15"/>
+        <Effect ref="0" name="On" id="30" startTime="87100" endTime="87250" palette="15"/>
+        <Effect ref="0" name="On" id="31" startTime="87650" endTime="87800" palette="15"/>
+        <Effect ref="0" name="On" id="32" startTime="88300" endTime="88500" palette="15"/>
+        <Effect ref="0" name="On" id="33" startTime="89600" endTime="89800" palette="15"/>
+        <Effect ref="0" name="On" id="34" startTime="90650" endTime="90850" palette="15"/>
+        <Effect ref="0" name="On" id="35" startTime="91300" endTime="91500" palette="15"/>
+        <Effect ref="0" name="On" id="36" startTime="91900" endTime="92350" palette="15"/>
+        <Effect ref="0" name="On" id="37" startTime="92900" endTime="93000" palette="15"/>
+        <Effect ref="0" name="On" id="38" startTime="93600" endTime="93850" palette="15"/>
+        <Effect ref="0" name="On" id="39" startTime="94500" endTime="94700" palette="15"/>
+        <Effect ref="33" name="VU Meter" id="40" startTime="109950" endTime="129900" palette="2"/>
+        <Effect ref="17" name="VU Meter" id="41" startTime="143800" endTime="158000" palette="1"/>
+        <Effect ref="0" name="On" id="42" startTime="178400" endTime="178600" palette="15"/>
+        <Effect ref="0" name="On" id="43" startTime="181000" endTime="181200" palette="15"/>
+        <Effect ref="0" name="On" id="44" startTime="182000" endTime="182150" palette="15"/>
+        <Effect ref="0" name="On" id="45" startTime="183350" endTime="183500" palette="15"/>
+        <Effect ref="0" name="On" id="46" startTime="184000" endTime="184200" palette="15"/>
+        <Effect ref="0" name="On" id="47" startTime="185750" endTime="185950" palette="15"/>
+        <Effect ref="0" name="On" id="48" startTime="186350" endTime="186550" palette="15"/>
+        <Effect ref="0" name="On" id="49" startTime="187000" endTime="187200" palette="15"/>
+        <Effect ref="0" name="On" id="50" startTime="187600" endTime="188050" palette="15"/>
+        <Effect ref="0" name="On" id="51" startTime="188600" endTime="188700" palette="15"/>
+        <Effect ref="0" name="On" id="52" startTime="189300" endTime="189550" palette="15"/>
+        <Effect ref="0" name="On" id="53" startTime="190200" endTime="190400" palette="15"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="closet">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="lower right peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="office roof">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="top peak">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
+      <EffectLayer/>
+      <SubModelEffectLayer name="TUNE TO">
+        <Effect ref="0" name="On" startTime="10450" endTime="191200" palette="2"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Matrix">
+        <Effect ref="39" name="Text" startTime="200" endTime="10400" palette="2"/>
+        <Effect ref="40" name="Text" id="1" startTime="10400" endTime="191200" palette="2"/>
+      </SubModelEffectLayer>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>

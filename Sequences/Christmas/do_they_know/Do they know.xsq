@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="false">
   <head>
-    <version>2021.38</version>
-    <author/>
-    <author-email/>
-    <author-website/>
-    <song>Band Aid - Do They Know It&amp;amp;apos;s Christmas 1984 HD</song>
-    <artist/>
-    <album/>
-    <MusicURL/>
-    <comment/>
+    <version>2023.20</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Band Aid - Do They Know It&amp;apos;s Christmas 1984 HD</song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Media</sequenceType>
-    <mediaFile>E:\xlights backup\Sequences\Christmas\do_they_know\Band Aid - Do They Know It's Christmas 1984 HD.mp4</mediaFile>
+    <mediaFile>F:\git\lightshow\Sequences\Christmas\do_they_know\Band Aid - Do They Know It's Christmas 1984 HD.mp4</mediaFile>
     <sequenceDuration>236.704</sequenceDuration>
     <imageDir/>
   </head>
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#8000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#344676,C_BUTTON_Palette5=#1076B6,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#89C8D1,C_BUTTON_Palette8=#25A9C2,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#344676,C_BUTTON_Palette5=#1076B6,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#89C8D1,C_BUTTON_Palette8=#25A9C2,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0080C0,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#0000FF,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0080C0,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF8080,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#0000FF,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette8=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#8000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#008000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF8040,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF8000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_SLIDER_SparkleFrequency=100</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#FFFFFF,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=Active=TRUE|Id=ID_BUTTON_Palette4|Values=x=0.000^c=#ff0000;x=1.000^c=#00ff00|,C_BUTTON_Palette5=Active=TRUE|Id=ID_BUTTON_Palette5|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ffffff|,C_BUTTON_Palette6=Active=TRUE|Id=ID_BUTTON_Palette6|Type=None|Values=x=0.000^c=#ff0000;x=0.500^c=#00ff00;x=1.000^c=#ff0000|,C_BUTTON_Palette7=Active=TRUE|Id=ID_BUTTON_Palette7|Values=x=0.000^c=#ff0000;x=0.330^c=#00ff00;x=0.670^c=#ffffff;x=1.000^c=#ff0000|,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#E60000,C_BUTTON_Palette3=#FF8000,C_BUTTON_Palette4=#FFA343,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FF00FF,C_BUTTON_Palette7=#FF0080,C_BUTTON_Palette8=#FE4164,C_CHECKBOX_Palette1=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#344676,C_BUTTON_Palette5=#1076B6,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#89C8D1,C_BUTTON_Palette8=#25A9C2,C_CHECKBOX_Palette3=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_SLIDER_SparkleFrequency=44</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette8=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF8040,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette5=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF00FF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#344676,C_BUTTON_Palette5=#1076B6,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#89C8D1,C_BUTTON_Palette8=#25A9C2,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FFFFFF,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#3ABBFF,C_BUTTON_Palette3=#FF664E,C_BUTTON_Palette4=#FF17C7,C_BUTTON_Palette5=#FFF406,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#8000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF8040,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#008000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#8000FF,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#D6549C,C_BUTTON_Palette3=#EBAA4E,C_BUTTON_Palette4=#FF0000,C_BUTTON_Palette5=#1076B6,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#89C8D1,C_BUTTON_Palette8=#25A9C2,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#00FF00,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFFFF,C_BUTTON_Palette5=#8000FF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#0000FF,C_BUTTON_Palette8=#8000FF,C_CHECKBOX_Palette4=1,C_SLIDER_SparkleFrequency=162</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#FF0000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#000000,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette8=1</ColorPalette>
@@ -62,106 +62,114 @@
     <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#80FF80,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#005B2E,C_BUTTON_Palette5=#004000,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_SLIDER_Brightness=82,C_SLIDER_Color_SaturationAdjust=-41,C_SLIDER_Color_ValueAdjust=25,C_SLIDER_SparkleFrequency=50</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_SLIDER_SparkleFrequency=37</ColorPalette>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#00FF00,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FFFFFF,C_CHECKBOX_Palette2=1</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#FF0000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#0000FF,C_BUTTON_Palette4=#FFFF00,C_BUTTON_Palette5=#FFFFFF,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF8040,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=6.6,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Lyrics,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=38,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,B_CHOICE_PerPreviewCamera=2D,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Regex=0,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Color,E_SLIDER_VUMeter_Sensitivity=70,E_TEXTCTRL_Filter=,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=14,E_SLIDER_Snowflakes_Type=9,T_TEXTCTRL_Fadein=0.5,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=6,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=6,T_TEXTCTRL_Fadeout=0.3,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=15,T_TEXTCTRL_Fadeout=6.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=750,E_SLIDER_Shockwave_End_Width=10,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=255,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=750,E_SLIDER_Shockwave_End_Width=10,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=255</Effect>
-    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0</Effect>
-    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_RIPPLE_POINTS=5,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0</Effect>
-    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=5,E_SLIDER_Snowflakes_Type=6</Effect>
-    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=9,E_SLIDER_Twinkle_Steps=30</Effect>
-    <Effect>B_CHECKBOX_OverlayBkg=1,B_CHOICE_BufferStyle=Per Preview,B_CUSTOM_SubBuffer=-0.26x0.00x100.00x102.42,B_SLIDER_Blur=15,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=10,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=232,E_SLIDER_Shockwave_End_Width=231,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=16,T_TEXTCTRL_Fadein=.2</Effect>
-    <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_On_Cycles=8,T_CHOICE_LayerMethod=2 is Mask</Effect>
-    <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_On_Cycles=0.0,T_CHOICE_LayerMethod=2 is Mask,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=0,E_SLIDER_Fan_Blade_Width=5,E_SLIDER_Fan_CenterX=62,E_SLIDER_Fan_CenterY=61,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_Num_Blades=16,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=450,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_End_Radius=Active=TRUE|Id=ID_VALUECURVE_Fan_End_Radius|Type=Ramp|Min=0.00|Max=500.00|P1=10.00|P2=500.00|RV=TRUE|,T_TEXTCTRL_Fadeout=0.3</Effect>
-    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1,T_TEXTCTRL_Fadein=0.5</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=0,E_SLIDER_Fan_Blade_Width=51,E_SLIDER_Fan_CenterY=51,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=500,E_SLIDER_Fan_Num_Blades=12,E_SLIDER_Fan_Num_Elements=4,E_SLIDER_Fan_Revolutions=450,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_CenterX=Active=TRUE|Id=ID_VALUECURVE_Fan_CenterX|Type=Decaying Sine|Min=0.00|Max=100.00|P1=16.00|P2=100.00|P3=8.00|P4=50.00|RV=TRUE|,T_CHOICE_LayerMethod=Layered,T_CHOICE_Out_Transition_Type=Star,T_TEXTCTRL_Fadeout=2,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=1,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=0,E_SLIDER_Fan_Blade_Width=5,E_SLIDER_Fan_CenterX=62,E_SLIDER_Fan_CenterY=61,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_Num_Blades=15,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=360,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_End_Radius=Active=TRUE|Id=ID_VALUECURVE_Fan_End_Radius|Type=Ramp|Min=0.00|Max=500.00|P1=10.00|P2=500.00|RV=TRUE|,T_TEXTCTRL_Fadeout=0.3</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Bars,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=42</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Bars,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=28,T_TEXTCTRL_Fadeout=0.3</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_RIPPLE_POINTS=5,E_SLIDER_Ripple_Rotation=0,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=5,E_SLIDER_Snowflakes_Type=6,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_VUMeter_TimingTrack=Bars,E_CHOICE_VUMeter_Type=Timing Event Pulse Color,E_SLIDER_VUMeter_Bars=42,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=21.8</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=10,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=3.00,T_TEXTCTRL_Fadeout=3.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=6.6</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Lyrics,E_CHOICE_VUMeter_Type=Timing Event Alternate Timed Sweep 2,E_SLIDER_VUMeter_Bars=38</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Bounce from Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Circle,E_SLIDER_Ripple_Thickness=3,E_TEXTCTRL_Ripple_Cycles=1.0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Right-Left,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Per Preview,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Color</Effect>
-    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=14,E_SLIDER_Snowflakes_Type=9,T_TEXTCTRL_Fadein=0.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=6</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=6,T_TEXTCTRL_Fadeout=0.3</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Jump 100,E_SLIDER_VUMeter_Bars=15,T_TEXTCTRL_Fadeout=6.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect></Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Do They Know It's Christmas Time,E_TEXTCTRL_Text_Speed=10</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=89.1,E_TEXTCTRL_Text_Speed=10</Effect>
-    <Effect>B_SLIDER_PivotPointX=100,B_SLIDER_PivotPointY=7,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,T_CHOICE_LayerMethod=2 is Mask</Effect>
-    <Effect>B_SLIDER_PivotPointX=100,B_SLIDER_PivotPointY=7,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,T_CHOICE_LayerMethod=2 is Mask,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
-    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0</Effect>
-    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=10,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=3.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>B_SLIDER_PivotPointX=100,B_SLIDER_PivotPointY=7,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=1.0,T_CHOICE_LayerMethod=2 is Mask,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=34.9</Effect>
-    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=48,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=72,E_SLIDER_Shockwave_End_Width=83,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=0,T_CHECKBOX_Canvas=1,T_TEXTCTRL_Fadeout=1</Effect>
-    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=18.7</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=18.7</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=11.5,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>B_SLIDER_Rotations=10,B_SLIDER_ZoomQuality=2,B_VALUECURVE_Rotation=Active=TRUE|Id=ID_VALUECURVE_Rotation|Type=Sine|Min=0.00|Max=100.00|P2=10.00|P3=50.00|P4=25.00|WRAP=TRUE|RV=TRUE|,E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=28,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=4.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=75,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=4,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=0,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=32,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=28,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=0,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0,T_SLIDER_EffectLayerMix=34,T_TEXTCTRL_Fadein=1.00</Effect>
-    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=2.1,T_TEXTCTRL_Fadein=1.00</Effect>
-    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=3.2,T_CHOICE_Out_Transition_Type=Wipe,T_TEXTCTRL_Fadeout=3.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0</Effect>
-    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=41,E_SLIDER_Snowflakes_Speed=5,E_SLIDER_Snowflakes_Type=2</Effect>
-    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Thickness=77,E_TEXTCTRL_Spirals_Movement=2.0,E_VALUECURVE_Spirals_Rotation=Active=TRUE|Id=ID_VALUECURVE_Spirals_Rotation|Type=Sine|Min=-300.00|Max=300.00|P1=25.00|P2=300.00|P3=10.00|RV=TRUE|,T_CHOICE_LayerMethod=Left-Right,T_TEXTCTRL_Fadein=0.5</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=down-left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=85,E_TEXTCTRL_Text=OH - HO,E_TEXTCTRL_Text_Speed=21</Effect>
-    <Effect>E_CHECKBOX_Ripple3D=1,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Polygon,E_SLIDER_RIPPLE_POINTS=4,E_SLIDER_Ripple_Rotation=45,E_SLIDER_Ripple_Thickness=4,E_TEXTCTRL_Ripple_Cycles=2</Effect>
-    <Effect>B_SLIDER_Rotations=10,B_SLIDER_ZoomQuality=2,B_VALUECURVE_Rotation=Active=TRUE|Id=ID_VALUECURVE_Rotation|Type=Sine|Min=0.00|Max=100.00|P2=10.00|P3=50.00|P4=25.00|WRAP=TRUE|RV=TRUE|,E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=28,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadeout=4.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=wiggle,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=E:\xlights\Sequences\Christmas\do_they_know\Images\sun-gif-transparent-20.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1,T_CHOICE_LayerMethod=2 is Unmask</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=FEED,E_TEXTCTRL_Text_Speed=15</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=30,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=THE,E_TEXTCTRL_Text_Speed=22</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=13</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=FEED,E_TEXTCTRL_Text_Speed=19</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=15</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=30,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=THE,E_TEXTCTRL_Text_Speed=28</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=17</Effect>
-    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=99</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=FEED,E_TEXTCTRL_Text_Speed=17</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=19</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=30,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=THE,E_TEXTCTRL_Text_Speed=30</Effect>
-    <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=left,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=E:\xlights\Sequences\Christmas\do_they_know\Images\world.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=15,E_SLIDER_Pictures_EndScale=2,E_SLIDER_Pictures_StartScale=2,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=.8,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=75,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=4,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=0,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=32,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=28,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=0,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0,T_SLIDER_EffectLayerMix=34,T_TEXTCTRL_Fadein=1.00</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=18.7</Effect>
-    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Polygon,E_SLIDER_RIPPLE_POINTS=4,E_SLIDER_Ripple_Rotation=45,E_SLIDER_Ripple_Thickness=4,E_TEXTCTRL_Ripple_Cycles=1</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.5</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=18.7,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Twist=-135,E_VALUECURVE_Pinwheel_Thickness=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Thickness|Type=Saw Tooth|Min=0.00|Max=100.00|P1=17.00|P2=40.00|P3=2.00|RV=TRUE|,T_CHOICE_In_Transition_Type=Circle Explode,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=.4,T_TEXTCTRL_Fadeout=.2</Effect>
-    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Twist=-135,E_VALUECURVE_Pinwheel_Thickness=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Thickness|Type=Saw Tooth|Min=0.00|Max=100.00|P1=17.00|P2=40.00|P3=2.00|RV=TRUE|,T_CHOICE_In_Transition_Type=Circle Explode,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=.4,T_TEXTCTRL_Fadeout=.2</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=0.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.50</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1.0,T_TEXTCTRL_Fadeout=0.5</Effect>
-    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=4,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=10</Effect>
-    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=30,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=30,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|</Effect>
-    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0</Effect>
-    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0</Effect>
-    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1</Effect>
+    <Effect>B_SLIDER_PivotPointX=100,B_SLIDER_PivotPointY=7,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,T_CHOICE_LayerMethod=2 is Mask,X_Effect_Locked=True</Effect>
+    <Effect>B_SLIDER_PivotPointX=100,B_SLIDER_PivotPointY=7,E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=Right,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0,T_CHOICE_LayerMethod=2 is Mask,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=close,E_SLIDER_Curtain_Swag=3,E_TEXTCTRL_Curtain_Speed=1.0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=10,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,T_TEXTCTRL_Fadein=2.00,T_TEXTCTRL_Fadeout=3.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Single Line,E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=9,E_SLIDER_Twinkle_Steps=30,X_Effect_Locked=True</Effect>
+    <Effect>B_CHECKBOX_OverlayBkg=1,B_CHOICE_BufferStyle=Per Preview,B_CHOICE_PerPreviewCamera=2D,B_CUSTOM_SubBuffer=-0.26x0.00x100.00x102.42,B_SLIDER_Blur=15,E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Options,E_SLIDER_Shockwave_Accel=10,E_SLIDER_Shockwave_CenterX=50,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=232,E_SLIDER_Shockwave_End_Width=231,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=16,T_TEXTCTRL_Fadein=.2,X_Effect_Locked=True</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_On_Cycles=8,T_CHOICE_LayerMethod=2 is Mask,X_Effect_Locked=True</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=0,E_TEXTCTRL_On_Cycles=0.0,T_CHOICE_LayerMethod=2 is Mask,T_TEXTCTRL_Fadeout=1.00,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=0,E_SLIDER_Fan_Blade_Width=5,E_SLIDER_Fan_CenterX=62,E_SLIDER_Fan_CenterY=61,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_Num_Blades=16,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=450,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_End_Radius=Active=TRUE|Id=ID_VALUECURVE_Fan_End_Radius|Type=Ramp|Min=0.00|Max=2500.00|P1=50.00|P2=2500.00|RV=TRUE|,T_TEXTCTRL_Fadeout=0.3,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=10,E_SLIDER_Snowflakes_Type=1,T_TEXTCTRL_Fadein=0.5,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=0,E_SLIDER_Fan_Blade_Width=51,E_SLIDER_Fan_CenterY=51,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=500,E_SLIDER_Fan_Num_Blades=12,E_SLIDER_Fan_Num_Elements=4,E_SLIDER_Fan_Revolutions=450,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_CenterX=Active=TRUE|Id=ID_VALUECURVE_Fan_CenterX|Type=Decaying Sine|Min=0.00|Max=100.00|P1=16.00|P2=100.00|P3=8.00|P4=50.00|RV=TRUE|,T_CHOICE_LayerMethod=Layered,T_CHOICE_Out_Transition_Type=Star,T_TEXTCTRL_Fadeout=2,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=100,E_SLIDER_Snowflakes_Speed=17,E_SLIDER_Snowflakes_Type=5,E_SLIDER_Snowflakes_WarmupFrames=0,T_TEXTCTRL_Fadein=0.5,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=1,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=0,E_SLIDER_Fan_Blade_Width=5,E_SLIDER_Fan_CenterX=62,E_SLIDER_Fan_CenterY=61,E_SLIDER_Fan_Duration=100,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_Num_Blades=15,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=360,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1,E_VALUECURVE_Fan_End_Radius=Active=TRUE|Id=ID_VALUECURVE_Fan_End_Radius|Type=Ramp|Min=0.00|Max=2500.00|P1=50.00|P2=2500.00|RV=TRUE|,T_TEXTCTRL_Fadeout=0.3,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=expand,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=21.8,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=10,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=3.00,T_TEXTCTRL_Fadeout=3.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=20,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=1,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=100,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=0,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=0,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=100,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=3,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=3,E_SLIDER_Marquee_Stagger=0,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Do They Know It's Christmas Time,E_TEXTCTRL_Text_Speed=10,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=88.1,E_TEXTCTRL_Text_Speed=10,X_Effect_Locked=True</Effect>
+    <Effect>X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Do They Know It's Christmas Time,E_TEXTCTRL_Text_Speed=10,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=88.1,E_TEXTCTRL_Text_Speed=10,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=34.9,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=48,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_End_Radius=72,E_SLIDER_Shockwave_End_Width=83,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=0,T_CHECKBOX_Canvas=1,T_TEXTCTRL_Fadeout=1,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Chase_3dFade1=1,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=From Middle,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=50,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=down,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Cycles=18.7,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=18.7,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=11.5,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>B_SLIDER_Rotations=10,B_SLIDER_ZoomQuality=2,B_VALUECURVE_Rotation=Active=TRUE|Id=ID_VALUECURVE_Rotation|Type=Sine|Min=0.00|Max=100.00|P2=10.00|P3=50.00|P4=25.00|WRAP=TRUE|RV=TRUE|,E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=28,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=4.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=75,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=4,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=0,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=32,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=28,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=0,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0,T_SLIDER_EffectLayerMix=34,T_TEXTCTRL_Fadein=1.00,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=2.1,T_TEXTCTRL_Fadein=1.00,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Curtain_Repeat=0,E_CHOICE_Curtain_Edge=center,E_CHOICE_Curtain_Effect=open then close,E_SLIDER_Curtain_Swag=1,E_TEXTCTRL_Curtain_Speed=3.2,T_CHOICE_Out_Transition_Type=Wipe,T_TEXTCTRL_Fadeout=3.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=10,E_SLIDER_Meteors_Length=25,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Falling=Falling,E_SLIDER_Snowflakes_Count=41,E_SLIDER_Snowflakes_Speed=5,E_SLIDER_Snowflakes_Type=2,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Spirals_3D=0,E_CHECKBOX_Spirals_Blend=0,E_CHECKBOX_Spirals_Grow=0,E_CHECKBOX_Spirals_Shrink=0,E_SLIDER_Spirals_Count=1,E_SLIDER_Spirals_Thickness=77,E_TEXTCTRL_Spirals_Movement=2.0,E_VALUECURVE_Spirals_Rotation=Active=TRUE|Id=ID_VALUECURVE_Spirals_Rotation|Type=Sine|Min=-300.00|Max=300.00|P1=25.00|P2=300.00|P3=10.00|RV=TRUE|,T_CHOICE_LayerMethod=Left-Right,T_TEXTCTRL_Fadein=0.5,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=down-left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=85,E_TEXTCTRL_Text=OH - HO,E_TEXTCTRL_Text_Speed=21,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=1,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Polygon,E_SLIDER_RIPPLE_POINTS=4,E_SLIDER_Ripple_Rotation=45,E_SLIDER_Ripple_Thickness=4,E_TEXTCTRL_Ripple_Cycles=2,X_Effect_Locked=True</Effect>
+    <Effect>B_SLIDER_Rotations=10,B_SLIDER_ZoomQuality=2,B_VALUECURVE_Rotation=Active=TRUE|Id=ID_VALUECURVE_Rotation|Type=Sine|Min=0.00|Max=100.00|P2=10.00|P3=50.00|P4=25.00|WRAP=TRUE|RV=TRUE|,E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=28,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1,T_CHOICE_Out_Transition_Type=Dissolve,T_TEXTCTRL_Fadeout=4.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=wiggle,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=E:\xlights\Sequences\Christmas\do_they_know\Images\sun-gif-transparent-20.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1,T_CHOICE_LayerMethod=2 is Unmask,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=FEED,E_TEXTCTRL_Text_Speed=15,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=30,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=THE,E_TEXTCTRL_Text_Speed=22,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=13,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=FEED,E_TEXTCTRL_Text_Speed=19,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=15,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=30,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=THE,E_TEXTCTRL_Text_Speed=28,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=17,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=99,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 14 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=FEED,E_TEXTCTRL_Text_Speed=17,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui' 20 windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=112,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=WORLD,E_TEXTCTRL_Text_Speed=19,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=up,E_CHOICE_Text_Effect=vert text down,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=30,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=THE,E_TEXTCTRL_Text_Speed=30,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_LoopGIF=0,E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHECKBOX_SuppressGIFBackground=1,E_CHOICE_Pictures_Direction=left,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=E:\xlights\Sequences\Christmas\do_they_know\Images\world.gif,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=15,E_SLIDER_Pictures_EndScale=2,E_SLIDER_Pictures_StartScale=2,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=.8,E_TEXTCTRL_Pictures_TransparentBlack=0,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Morph_End_Link=0,E_CHECKBOX_Morph_Start_Link=0,E_CHECKBOX_ShowHeadAtStart=0,E_NOTEBOOK_Morph=End,E_SLIDER_MorphAccel=0,E_SLIDER_MorphDuration=75,E_SLIDER_MorphEndLength=1,E_SLIDER_MorphStartLength=4,E_SLIDER_Morph_End_X1=0,E_SLIDER_Morph_End_X2=0,E_SLIDER_Morph_End_Y1=100,E_SLIDER_Morph_End_Y2=100,E_SLIDER_Morph_Repeat_Count=32,E_SLIDER_Morph_Repeat_Skip=1,E_SLIDER_Morph_Stagger=28,E_SLIDER_Morph_Start_X1=0,E_SLIDER_Morph_Start_X2=0,E_SLIDER_Morph_Start_Y1=0,E_SLIDER_Morph_Start_Y2=0,T_SLIDER_EffectLayerMix=34,T_TEXTCTRL_Fadein=1.00,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=18.7,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Ripple3D=0,E_CHOICE_Ripple_Movement=Explode,E_CHOICE_Ripple_Object_To_Draw=Polygon,E_SLIDER_RIPPLE_POINTS=4,E_SLIDER_Ripple_Rotation=45,E_SLIDER_Ripple_Thickness=4,E_TEXTCTRL_Ripple_Cycles=1,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-expand,E_SLIDER_Bars_BarCount=5,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=18.7,T_TEXTCTRL_Fadeout=0.5,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Twist=-135,E_VALUECURVE_Pinwheel_Thickness=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Thickness|Type=Saw Tooth|Min=0.00|Max=100.00|P1=17.00|P2=40.00|P3=2.00|RV=TRUE|,T_CHOICE_In_Transition_Type=Circle Explode,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=.4,T_TEXTCTRL_Fadeout=.2,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferTransform=Flip Horizontal,E_CHECKBOX_Pinwheel_Rotation=1,E_CHOICE_Pinwheel_3D=None,E_CHOICE_Pinwheel_Style=New Render Method,E_SLIDER_PinwheelXC=0,E_SLIDER_PinwheelYC=0,E_SLIDER_Pinwheel_ArmSize=100,E_SLIDER_Pinwheel_Arms=5,E_SLIDER_Pinwheel_Offset=0,E_SLIDER_Pinwheel_Speed=10,E_SLIDER_Pinwheel_Twist=-135,E_VALUECURVE_Pinwheel_Thickness=Active=TRUE|Id=ID_VALUECURVE_Pinwheel_Thickness|Type=Saw Tooth|Min=0.00|Max=100.00|P1=17.00|P2=40.00|P3=2.00|RV=TRUE|,T_CHOICE_In_Transition_Type=Circle Explode,T_CHOICE_Out_Transition_Type=Circle Explode,T_TEXTCTRL_Fadein=.4,T_TEXTCTRL_Fadeout=.2,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=0.50,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Preview,B_SLIDER_Blur=3,E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=6,E_SLIDER_Tree_Speed=9,T_TEXTCTRL_Fadein=1.0,T_TEXTCTRL_Fadeout=0.5,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=4,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=10,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=30,T_SLIDER_In_Transition_Adjust=50,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=15,E_SLIDER_Twinkle_Steps=30,T_TEXTCTRL_Fadein=1.00,T_TEXTCTRL_Fadeout=1.00,T_VALUECURVE_Out_Transition_Adjust=Active=TRUE|Id=ID_VALUECURVE_Out_Transition_Adjust|Type=Custom|Min=0.00|Max=100.00|RV=TRUE|Values=0.00:0.30;0.14:0.50;0.22:0.63;0.31:0.78;0.42:0.85;0.51:0.78;0.57:0.69;0.64:0.56;0.73:0.40;0.80:0.28;0.89:0.20;0.93:0.20;1.00:0.29|,X_Effect_Locked=True</Effect>
+    <Effect>B_CHOICE_BufferStyle=Default,E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Left,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=20,E_SLIDER_Number_Chases=1,E_SLIDER_Skips_Advance=0,E_SLIDER_Skips_BandSize=1,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=1.0,X_Effect_Locked=True</Effect>
   </EffectDB>
   <DataLayers>
-    <DataLayer lor_params="1" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="1" type="model" name="All" visible="1"/>
-    <Element collapsed="1" type="model" name="house" visible="1"/>
-    <Element collapsed="0" type="model" name="Roofline" visible="1"/>
-    <Element collapsed="0" type="model" name="Windows" visible="1"/>
     <Element collapsed="0" type="model" name="arches" visible="1"/>
     <Element collapsed="0" type="model" name="balls" visible="1"/>
-    <Element collapsed="0" type="model" name="Windows-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Windows-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrixs" visible="1"/>
+    <Element collapsed="0" type="model" name="House" visible="1"/>
+    <Element collapsed="0" type="model" name="Windows" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelights" visible="1"/>
+    <Element collapsed="0" type="model" name="All Vertical" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
+    <Element collapsed="1" type="model" name="Boscoyo_TUNE_TO_with_Matrix" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
     <Element collapsed="0" type="model" name="Eyes 5" visible="1"/>
     <Element collapsed="0" type="model" name="Eyes 4" visible="1"/>
     <Element collapsed="0" type="model" name="Eyes 3" visible="1"/>
@@ -171,282 +179,325 @@
     <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-5" visible="1"/>
     <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-4" visible="1"/>
     <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo IcosaSphere Small" visible="1"/>
-    <Element collapsed="0" type="model" name="closet" visible="1"/>
-    <Element collapsed="0" type="model" name="Garage and right top peak" visible="1"/>
-    <Element collapsed="0" type="model" name="Pepper Tree" visible="1"/>
     <Element collapsed="0" type="model" name="Boscoyo ChromaFlake 24 3 prong" visible="1"/>
-    <Element collapsed="0" type="model" name="Door Frame" visible="1"/>
     <Element collapsed="0" type="model" name="Pole Tree" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-9" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-1" visible="1"/>
     <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
-    <Element collapsed="0" type="model" name="dining left" visible="1"/>
-    <Element collapsed="0" type="model" name="dining center" visible="1"/>
-    <Element collapsed="0" type="model" name="dining right" visible="1"/>
-    <Element collapsed="0" type="model" name="office roof" visible="1"/>
-    <Element collapsed="0" type="model" name="top peak" visible="1"/>
-    <Element collapsed="0" type="model" name="lower right peak" visible="1"/>
-    <Element collapsed="0" type="model" name="office right" visible="1"/>
-    <Element collapsed="0" type="model" name="office left" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Guest" visible="1"/>
+    <Element collapsed="0" type="model" name="Office" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelight left" visible="1"/>
+    <Element collapsed="0" type="model" name="Sidelight right" visible="1"/>
     <Element collapsed="0" type="timing" name="Lyrics" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Bars" visible="1" views="" active="1"/>
     <Element collapsed="0" type="timing" name="Beats" visible="1" views="" active="0"/>
     <Element collapsed="0" type="timing" name="Note Onsets" visible="1" views="" active="0"/>
-    <Element collapsed="0" type="model" name="Eyes" visible="1"/>
-    <Element collapsed="0" type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3" visible="1"/>
   </DisplayElements>
   <ElementEffects>
-    <Element type="model" name="All">
-      <EffectLayer>
-        <Effect ref="0" name="Shockwave" startTime="2275" endTime="4325" palette="0"/>
-        <Effect ref="0" name="Shockwave" id="1" startTime="4375" endTime="6325" palette="1"/>
-        <Effect ref="0" name="Shockwave" id="2" startTime="6350" endTime="8525" palette="0"/>
-        <Effect ref="0" name="Shockwave" id="3" startTime="8525" endTime="9975" palette="1"/>
-        <Effect ref="1" name="Ripple" id="4" startTime="93750" endTime="96650" palette="2"/>
-        <Effect ref="2" name="Ripple" id="5" startTime="98100" endTime="101200" palette="2"/>
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="3" name="Snowflakes" startTime="93600" endTime="101200" palette="3"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="house">
-      <EffectLayer>
-        <Effect ref="4" name="Twinkle" startTime="9175" endTime="25675" palette="4"/>
-        <Effect ref="5" name="Shockwave" id="1" startTime="75800" endTime="79950" palette="5"/>
-        <Effect ref="5" name="Shockwave" id="2" startTime="79950" endTime="84200" palette="5"/>
-        <Effect ref="6" name="On" id="3" startTime="88350" endTime="89750" palette="6"/>
-        <Effect ref="7" name="On" id="4" startTime="89750" endTime="90800" palette="6"/>
-        <Effect ref="8" name="Fan" id="5" startTime="101000" endTime="118700" palette="7"/>
-        <Effect ref="9" name="Snowflakes" id="6" startTime="118700" endTime="124500" palette="8"/>
-        <Effect ref="10" name="Fan" id="7" startTime="127050" endTime="135300" palette="9"/>
-        <Effect ref="9" name="Snowflakes" id="8" startTime="135300" endTime="156300" palette="8"/>
-        <Effect ref="4" name="Twinkle" id="9" startTime="156300" endTime="232950" palette="4"/>
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="11" name="Fan" startTime="101000" endTime="118700" palette="7"/>
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="1" name="Ripple" startTime="106450" endTime="110050" palette="2"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Roofline">
-      <EffectLayer>
-        <Effect ref="12" name="VU Meter" startTime="25675" endTime="39800" palette="10"/>
-        <Effect ref="13" name="VU Meter" id="1" startTime="39800" endTime="118700" palette="11"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Windows">
-      <EffectLayer>
-        <Effect ref="12" name="VU Meter" startTime="25675" endTime="39275" palette="10"/>
-        <Effect ref="14" name="Bars" id="1" startTime="39275" endTime="75775" palette="12"/>
-        <Effect ref="15" name="Marquee" id="2" startTime="222900" endTime="233400" palette="13"/>
-      </EffectLayer>
-    </Element>
     <Element type="model" name="arches">
       <EffectLayer>
-        <Effect ref="16" name="Bars" startTime="9175" endTime="25700" palette="4"/>
-        <Effect ref="17" name="VU Meter" id="1" startTime="25700" endTime="39325" palette="14"/>
-        <Effect ref="18" name="SingleStrand" id="2" startTime="39350" endTime="40300" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="3" startTime="40300" endTime="41300" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="4" startTime="41300" endTime="42350" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="5" startTime="42350" endTime="43400" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="6" startTime="43400" endTime="44450" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="7" startTime="44450" endTime="45500" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="8" startTime="45500" endTime="46550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="9" startTime="46550" endTime="47550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="10" startTime="47550" endTime="48600" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="11" startTime="48600" endTime="49650" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="12" startTime="49650" endTime="50700" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="13" startTime="50700" endTime="51700" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="14" startTime="51700" endTime="52750" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="15" startTime="52750" endTime="53800" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="16" startTime="53800" endTime="54850" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="17" startTime="54850" endTime="55900" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="18" startTime="55900" endTime="56950" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="19" startTime="56950" endTime="57950" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="20" startTime="57950" endTime="59000" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="21" startTime="59000" endTime="60050" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="22" startTime="60050" endTime="61100" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="23" startTime="61100" endTime="62150" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="24" startTime="62150" endTime="63200" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="25" startTime="63200" endTime="64200" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="26" startTime="64200" endTime="65250" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="27" startTime="65250" endTime="66300" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="28" startTime="66300" endTime="67350" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="29" startTime="67350" endTime="68400" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="30" startTime="68400" endTime="69450" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="31" startTime="69450" endTime="70500" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="32" startTime="70500" endTime="71550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="33" startTime="71550" endTime="72550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="34" startTime="72550" endTime="73550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="35" startTime="73550" endTime="74650" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="36" startTime="74650" endTime="75650" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="37" startTime="75650" endTime="76700" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="38" startTime="76700" endTime="77750" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="39" startTime="77750" endTime="78800" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="40" startTime="78800" endTime="79850" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="41" startTime="79850" endTime="80900" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="42" startTime="80900" endTime="81950" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="43" startTime="81950" endTime="83000" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="44" startTime="83000" endTime="84000" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="45" startTime="84000" endTime="85050" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="46" startTime="85050" endTime="86100" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="47" startTime="86100" endTime="87150" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="48" startTime="87150" endTime="88200" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="49" startTime="88200" endTime="89200" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="50" startTime="89200" endTime="90250" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="51" startTime="90250" endTime="91300" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="52" startTime="91300" endTime="92350" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="53" startTime="92350" endTime="93400" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="54" startTime="93400" endTime="94450" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="55" startTime="94450" endTime="95500" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="56" startTime="95500" endTime="96500" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="57" startTime="96500" endTime="97550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="58" startTime="97550" endTime="98600" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="59" startTime="98600" endTime="99650" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="60" startTime="99650" endTime="100700" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="61" startTime="100700" endTime="101750" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="62" startTime="101750" endTime="102750" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="63" startTime="102750" endTime="103800" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="64" startTime="103800" endTime="104850" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="65" startTime="104850" endTime="105900" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="66" startTime="105900" endTime="106950" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="67" startTime="106950" endTime="107950" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="68" startTime="107950" endTime="109000" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="69" startTime="109000" endTime="110050" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="70" startTime="110050" endTime="111100" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="71" startTime="111100" endTime="112150" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="72" startTime="112150" endTime="113200" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="73" startTime="113200" endTime="114250" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="74" startTime="114250" endTime="115250" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="75" startTime="115250" endTime="116300" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="76" startTime="116300" endTime="117350" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="77" startTime="117350" endTime="118400" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="78" startTime="118400" endTime="119450" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="79" startTime="119450" endTime="120500" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="80" startTime="120500" endTime="121500" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="81" startTime="121500" endTime="122550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="82" startTime="122550" endTime="123600" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="83" startTime="123600" endTime="124650" palette="15"/>
-        <Effect ref="19" name="Ripple" id="84" startTime="124650" endTime="126350" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="85" startTime="127250" endTime="128300" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="86" startTime="129350" endTime="130400" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="87" startTime="131400" endTime="132450" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="88" startTime="133500" endTime="134550" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="89" startTime="135050" endTime="136650" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="90" startTime="137650" endTime="139250" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="91" startTime="147050" endTime="147550" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="92" startTime="147550" endTime="148050" palette="15"/>
-        <Effect ref="18" name="SingleStrand" id="93" startTime="148050" endTime="148600" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="94" startTime="148600" endTime="149650" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="95" startTime="150700" endTime="151750" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="96" startTime="152750" endTime="153800" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="97" startTime="154850" endTime="155900" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="98" startTime="156950" endTime="158000" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="99" startTime="159000" endTime="160050" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="100" startTime="161100" endTime="162150" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="101" startTime="163200" endTime="164200" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="102" startTime="165250" endTime="166300" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="103" startTime="167350" endTime="168400" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="104" startTime="169450" endTime="170500" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="105" startTime="171500" endTime="172550" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="106" startTime="173600" endTime="174650" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="107" startTime="175700" endTime="176750" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="108" startTime="177250" endTime="177800" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="109" startTime="177800" endTime="178300" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="110" startTime="178300" endTime="178850" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="111" startTime="178850" endTime="179350" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="112" startTime="179350" endTime="179900" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="113" startTime="179900" endTime="180400" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="114" startTime="180400" endTime="180950" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="115" startTime="180950" endTime="181450" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="116" startTime="181450" endTime="182500" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="117" startTime="183550" endTime="184550" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="118" startTime="185600" endTime="186100" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="119" startTime="186100" endTime="186650" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="120" startTime="186650" endTime="187150" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="121" startTime="187150" endTime="187700" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="122" startTime="187700" endTime="188200" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="123" startTime="188200" endTime="188750" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="124" startTime="188750" endTime="189250" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="125" startTime="189800" endTime="190800" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="126" startTime="191850" endTime="192900" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="127" startTime="193950" endTime="194450" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="128" startTime="194450" endTime="195000" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="129" startTime="195000" endTime="195500" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="130" startTime="195500" endTime="196000" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="131" startTime="196000" endTime="196550" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="132" startTime="196550" endTime="197050" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="133" startTime="197050" endTime="197600" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="134" startTime="198100" endTime="199100" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="135" startTime="200150" endTime="201200" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="136" startTime="202250" endTime="202800" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="137" startTime="202800" endTime="203300" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="138" startTime="203300" endTime="203800" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="139" startTime="203800" endTime="204350" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="140" startTime="204350" endTime="204850" palette="15"/>
-        <Effect ref="20" name="SingleStrand" id="141" startTime="204850" endTime="205400" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="142" startTime="205400" endTime="205900" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="143" startTime="206450" endTime="207500" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="144" startTime="208550" endTime="209550" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="145" startTime="210600" endTime="211150" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="146" startTime="211150" endTime="211650" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="147" startTime="211650" endTime="212150" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="148" startTime="212150" endTime="212650" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="149" startTime="212650" endTime="213200" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="150" startTime="213200" endTime="213700" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="151" startTime="213700" endTime="214250" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="152" startTime="215250" endTime="216300" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="153" startTime="216850" endTime="217850" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="154" startTime="218900" endTime="219450" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="155" startTime="219450" endTime="219950" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="156" startTime="219950" endTime="220500" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="157" startTime="220500" endTime="221000" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="158" startTime="221000" endTime="221550" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="159" startTime="221550" endTime="222050" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="160" startTime="222050" endTime="222550" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="161" startTime="223600" endTime="224650" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="162" startTime="225150" endTime="226200" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="163" startTime="227250" endTime="227750" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="164" startTime="227750" endTime="228300" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="165" startTime="228300" endTime="228800" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="166" startTime="228800" endTime="229300" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="167" startTime="229300" endTime="229800" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="168" startTime="229800" endTime="230350" palette="15"/>
-        <Effect ref="22" name="SingleStrand" id="169" startTime="230350" endTime="230850" palette="15"/>
-        <Effect ref="21" name="SingleStrand" id="170" startTime="231850" endTime="232900" palette="15"/>
+        <Effect ref="0" name="Bars" startTime="9175" endTime="25700" palette="0"/>
+        <Effect ref="1" name="VU Meter" id="1" startTime="25700" endTime="39325" palette="1"/>
+        <Effect ref="2" name="SingleStrand" id="2" startTime="39350" endTime="40300" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="3" startTime="40300" endTime="41300" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="4" startTime="41300" endTime="42350" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="5" startTime="42350" endTime="43400" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="6" startTime="43400" endTime="44450" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="7" startTime="44450" endTime="45500" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="8" startTime="45500" endTime="46550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="9" startTime="46550" endTime="47550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="10" startTime="47550" endTime="48600" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="11" startTime="48600" endTime="49650" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="12" startTime="49650" endTime="50700" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="13" startTime="50700" endTime="51700" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="14" startTime="51700" endTime="52750" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="15" startTime="52750" endTime="53800" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="16" startTime="53800" endTime="54850" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="17" startTime="54850" endTime="55900" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="18" startTime="55900" endTime="56950" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="19" startTime="56950" endTime="57950" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="20" startTime="57950" endTime="59000" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="21" startTime="59000" endTime="60050" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="22" startTime="60050" endTime="61100" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="23" startTime="61100" endTime="62150" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="24" startTime="62150" endTime="63200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="25" startTime="63200" endTime="64200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="26" startTime="64200" endTime="65250" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="27" startTime="65250" endTime="66300" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="28" startTime="66300" endTime="67350" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="29" startTime="67350" endTime="68400" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="30" startTime="68400" endTime="69450" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="31" startTime="69450" endTime="70500" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="32" startTime="70500" endTime="71550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="33" startTime="71550" endTime="72550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="34" startTime="72550" endTime="73550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="35" startTime="73550" endTime="74650" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="36" startTime="74650" endTime="75650" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="37" startTime="75650" endTime="76700" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="38" startTime="76700" endTime="77750" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="39" startTime="77750" endTime="78800" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="40" startTime="78800" endTime="79850" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="41" startTime="79850" endTime="80900" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="42" startTime="80900" endTime="81950" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="43" startTime="81950" endTime="83000" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="44" startTime="83000" endTime="84000" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="45" startTime="84000" endTime="85050" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="46" startTime="85050" endTime="86100" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="47" startTime="86100" endTime="87150" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="48" startTime="87150" endTime="88200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="49" startTime="88200" endTime="89200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="50" startTime="89200" endTime="90250" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="51" startTime="90250" endTime="91300" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="52" startTime="91300" endTime="92350" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="53" startTime="92350" endTime="93400" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="54" startTime="93400" endTime="94450" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="55" startTime="94450" endTime="95500" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="56" startTime="95500" endTime="96500" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="57" startTime="96500" endTime="97550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="58" startTime="97550" endTime="98600" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="59" startTime="98600" endTime="99650" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="60" startTime="99650" endTime="100700" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="61" startTime="100700" endTime="101750" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="62" startTime="101750" endTime="102750" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="63" startTime="102750" endTime="103800" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="64" startTime="103800" endTime="104850" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="65" startTime="104850" endTime="105900" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="66" startTime="105900" endTime="106950" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="67" startTime="106950" endTime="107950" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="68" startTime="107950" endTime="109000" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="69" startTime="109000" endTime="110050" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="70" startTime="110050" endTime="111100" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="71" startTime="111100" endTime="112150" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="72" startTime="112150" endTime="113200" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="73" startTime="113200" endTime="114250" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="74" startTime="114250" endTime="115250" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="75" startTime="115250" endTime="116300" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="76" startTime="116300" endTime="117350" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="77" startTime="117350" endTime="118400" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="78" startTime="118400" endTime="119450" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="79" startTime="119450" endTime="120500" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="80" startTime="120500" endTime="121500" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="81" startTime="121500" endTime="122550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="82" startTime="122550" endTime="123600" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="83" startTime="123600" endTime="124650" palette="2"/>
+        <Effect ref="3" name="Ripple" id="84" startTime="124650" endTime="126350" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="85" startTime="127250" endTime="128300" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="86" startTime="129350" endTime="130400" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="87" startTime="131400" endTime="132450" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="88" startTime="133500" endTime="134550" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="89" startTime="135050" endTime="136650" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="90" startTime="137650" endTime="139250" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="91" startTime="147050" endTime="147550" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="92" startTime="147550" endTime="148050" palette="2"/>
+        <Effect ref="2" name="SingleStrand" id="93" startTime="148050" endTime="148600" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="94" startTime="148600" endTime="149650" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="95" startTime="150700" endTime="151750" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="96" startTime="152750" endTime="153800" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="97" startTime="154850" endTime="155900" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="98" startTime="156950" endTime="158000" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="99" startTime="159000" endTime="160050" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="100" startTime="161100" endTime="162150" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="101" startTime="163200" endTime="164200" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="102" startTime="165250" endTime="166300" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="103" startTime="167350" endTime="168400" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="104" startTime="169450" endTime="170500" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="105" startTime="171500" endTime="172550" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="106" startTime="173600" endTime="174650" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="107" startTime="175700" endTime="176750" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="108" startTime="177250" endTime="177800" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="109" startTime="177800" endTime="178300" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="110" startTime="178300" endTime="178850" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="111" startTime="178850" endTime="179350" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="112" startTime="179350" endTime="179900" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="113" startTime="179900" endTime="180400" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="114" startTime="180400" endTime="180950" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="115" startTime="180950" endTime="181450" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="116" startTime="181450" endTime="182500" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="117" startTime="183550" endTime="184550" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="118" startTime="185600" endTime="186100" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="119" startTime="186100" endTime="186650" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="120" startTime="186650" endTime="187150" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="121" startTime="187150" endTime="187700" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="122" startTime="187700" endTime="188200" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="123" startTime="188200" endTime="188750" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="124" startTime="188750" endTime="189250" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="125" startTime="189800" endTime="190800" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="126" startTime="191850" endTime="192900" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="127" startTime="193950" endTime="194450" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="128" startTime="194450" endTime="195000" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="129" startTime="195000" endTime="195500" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="130" startTime="195500" endTime="196000" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="131" startTime="196000" endTime="196550" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="132" startTime="196550" endTime="197050" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="133" startTime="197050" endTime="197600" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="134" startTime="198100" endTime="199100" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="135" startTime="200150" endTime="201200" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="136" startTime="202250" endTime="202800" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="137" startTime="202800" endTime="203300" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="138" startTime="203300" endTime="203800" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="139" startTime="203800" endTime="204350" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="140" startTime="204350" endTime="204850" palette="2"/>
+        <Effect ref="4" name="SingleStrand" id="141" startTime="204850" endTime="205400" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="142" startTime="205400" endTime="205900" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="143" startTime="206450" endTime="207500" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="144" startTime="208550" endTime="209550" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="145" startTime="210600" endTime="211150" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="146" startTime="211150" endTime="211650" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="147" startTime="211650" endTime="212150" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="148" startTime="212150" endTime="212650" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="149" startTime="212650" endTime="213200" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="150" startTime="213200" endTime="213700" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="151" startTime="213700" endTime="214250" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="152" startTime="215250" endTime="216300" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="153" startTime="216850" endTime="217850" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="154" startTime="218900" endTime="219450" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="155" startTime="219450" endTime="219950" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="156" startTime="219950" endTime="220500" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="157" startTime="220500" endTime="221000" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="158" startTime="221000" endTime="221550" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="159" startTime="221550" endTime="222050" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="160" startTime="222050" endTime="222550" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="161" startTime="223600" endTime="224650" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="162" startTime="225150" endTime="226200" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="163" startTime="227250" endTime="227750" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="164" startTime="227750" endTime="228300" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="165" startTime="228300" endTime="228800" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="166" startTime="228800" endTime="229300" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="167" startTime="229300" endTime="229800" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="168" startTime="229800" endTime="230350" palette="2"/>
+        <Effect ref="6" name="SingleStrand" id="169" startTime="230350" endTime="230850" palette="2"/>
+        <Effect ref="5" name="SingleStrand" id="170" startTime="231850" endTime="232900" palette="2"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="balls">
       <EffectLayer>
-        <Effect ref="23" name="VU Meter" startTime="9175" endTime="25700" palette="4"/>
-        <Effect ref="24" name="Snowflakes" id="1" startTime="25700" endTime="39800" palette="8"/>
-        <Effect ref="25" name="VU Meter" id="2" startTime="39800" endTime="58200" palette="16"/>
-        <Effect ref="26" name="VU Meter" id="3" startTime="84550" endTime="118700" palette="16"/>
-        <Effect ref="27" name="VU Meter" id="4" startTime="142950" endTime="226400" palette="16"/>
+        <Effect ref="7" name="VU Meter" startTime="9175" endTime="25700" palette="0"/>
+        <Effect ref="8" name="Snowflakes" id="1" startTime="25700" endTime="39800" palette="3"/>
+        <Effect ref="9" name="VU Meter" id="2" startTime="39800" endTime="58200" palette="4"/>
+        <Effect ref="10" name="VU Meter" id="3" startTime="84550" endTime="118700" palette="4"/>
+        <Effect ref="11" name="VU Meter" id="4" startTime="142950" endTime="226400" palette="4"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Windows-2">
+    <Element type="model" name="Eyes">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Windows-3">
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="12" name="Shockwave" startTime="2275" endTime="4325" palette="5"/>
+        <Effect ref="12" name="Shockwave" id="1" startTime="4375" endTime="6325" palette="6"/>
+        <Effect ref="12" name="Shockwave" id="2" startTime="6350" endTime="8525" palette="5"/>
+        <Effect ref="13" name="Shockwave" id="3" startTime="8525" endTime="9175" palette="6"/>
+        <Effect ref="14" name="Ripple" id="4" startTime="93750" endTime="96650" palette="7"/>
+        <Effect ref="15" name="Ripple" id="5" startTime="98100" endTime="101200" palette="7"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="16" name="Snowflakes" startTime="93600" endTime="101200" palette="8"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrixs">
+      <EffectLayer>
+        <Effect ref="17" name="VU Meter" startTime="25700" endTime="39325" palette="9"/>
+        <Effect ref="18" name="Bars" id="1" startTime="39325" endTime="75775" palette="10"/>
+        <Effect ref="19" name="Bars" id="2" startTime="122000" endTime="122550" palette="11"/>
+        <Effect ref="19" name="Bars" id="3" startTime="123050" endTime="124500" palette="11"/>
+        <Effect ref="19" name="Bars" id="4" startTime="138700" endTime="139250" palette="11"/>
+        <Effect ref="20" name="Bars" id="5" startTime="139700" endTime="142950" palette="11"/>
+        <Effect ref="21" name="Curtain" id="6" startTime="220800" endTime="221400" palette="12"/>
+        <Effect ref="22" name="Curtain" id="7" startTime="221950" endTime="222300" palette="12"/>
+        <Effect ref="23" name="Marquee" id="8" startTime="222300" endTime="233800" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="House">
+      <EffectLayer>
+        <Effect ref="24" name="Twinkle" startTime="9175" endTime="25675" palette="0"/>
+        <Effect ref="25" name="Shockwave" id="1" startTime="75800" endTime="79950" palette="13"/>
+        <Effect ref="25" name="Shockwave" id="2" startTime="79950" endTime="84200" palette="13"/>
+        <Effect ref="26" name="On" id="3" startTime="88350" endTime="89750" palette="14"/>
+        <Effect ref="27" name="On" id="4" startTime="89750" endTime="90800" palette="14"/>
+        <Effect ref="28" name="Fan" id="5" startTime="101000" endTime="118700" palette="15"/>
+        <Effect ref="29" name="Snowflakes" id="6" startTime="118700" endTime="124500" palette="3"/>
+        <Effect ref="30" name="Fan" id="7" startTime="127050" endTime="135300" palette="16"/>
+        <Effect ref="31" name="Snowflakes" id="8" startTime="135300" endTime="156300" palette="3"/>
+        <Effect ref="24" name="Twinkle" id="9" startTime="156300" endTime="232950" palette="0"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="32" name="Fan" startTime="101000" endTime="118700" palette="15"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="14" name="Ripple" startTime="106450" endTime="110050" palette="7"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Windows">
+      <EffectLayer>
+        <Effect ref="17" name="VU Meter" startTime="25675" endTime="39275" palette="9"/>
+        <Effect ref="33" name="Bars" id="1" startTime="39275" endTime="75775" palette="10"/>
+        <Effect ref="34" name="Marquee" id="2" startTime="222900" endTime="233400" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Sidelights">
       <EffectLayer/>
+    </Element>
+    <Element type="model" name="All Vertical">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-3">
+      <EffectLayer>
+        <Effect ref="35" name="Morph" startTime="203600" endTime="204150" palette="12"/>
+        <Effect ref="36" name="Marquee" id="1" startTime="205650" endTime="206250" palette="12"/>
+        <Effect ref="35" name="Morph" id="2" startTime="211750" endTime="212300" palette="12"/>
+        <Effect ref="36" name="Marquee" id="3" startTime="213950" endTime="214550" palette="12"/>
+        <Effect ref="35" name="Morph" id="4" startTime="220250" endTime="220800" palette="12"/>
+        <Effect ref="36" name="Marquee" id="5" startTime="222300" endTime="222900" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix-2">
+      <EffectLayer>
+        <Effect ref="35" name="Morph" startTime="203050" endTime="203600" palette="12"/>
+        <Effect ref="36" name="Marquee" id="1" startTime="205650" endTime="206250" palette="12"/>
+        <Effect ref="35" name="Morph" id="2" startTime="211200" endTime="211750" palette="12"/>
+        <Effect ref="36" name="Marquee" id="3" startTime="213950" endTime="214550" palette="12"/>
+        <Effect ref="35" name="Morph" id="4" startTime="219700" endTime="220250" palette="12"/>
+        <Effect ref="36" name="Marquee" id="5" startTime="222300" endTime="222900" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="35" name="Morph" startTime="202500" endTime="203050" palette="17"/>
+        <Effect ref="36" name="Marquee" id="1" startTime="205650" endTime="206250" palette="12"/>
+        <Effect ref="35" name="Morph" id="2" startTime="210650" endTime="211200" palette="17"/>
+        <Effect ref="36" name="Marquee" id="3" startTime="213950" endTime="214550" palette="12"/>
+        <Effect ref="35" name="Morph" id="4" startTime="219150" endTime="219700" palette="17"/>
+        <Effect ref="36" name="Marquee" id="5" startTime="222300" endTime="222900" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo IcosaSphere Small">
+      <EffectLayer>
+        <Effect ref="19" name="Bars" startTime="119150" endTime="119700" palette="18"/>
+        <Effect ref="19" name="Bars" id="1" startTime="120700" endTime="121350" palette="11"/>
+        <Effect ref="19" name="Bars" id="2" startTime="135850" endTime="136350" palette="18"/>
+        <Effect ref="19" name="Bars" id="3" startTime="137450" endTime="138050" palette="11"/>
+      </EffectLayer>
     </Element>
     <Element type="model" name="Boscoyo_TUNE_TO_with_Matrix">
-      <EffectLayer/>
+      <EffectLayer>
+        <Effect ref="37" name="Text" startTime="100" endTime="9750" palette="19"/>
+        <Effect ref="38" name="Text" id="1" startTime="9750" endTime="233250" palette="19"/>
+      </EffectLayer>
       <SubModelEffectLayer name="TUNE TO">
-        <Effect ref="28" name="On" selected="1" startTime="9900" endTime="233250" palette="17"/>
+        <Effect ref="39" name="On" selected="1" startTime="9900" endTime="233250" palette="19"/>
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Matrix">
-        <Effect ref="29" name="Text" startTime="100" endTime="9750" palette="17"/>
-        <Effect ref="30" name="Text" id="1" startTime="9750" endTime="233250" palette="17"/>
+        <Effect ref="40" name="Text" startTime="100" endTime="9750" palette="19"/>
+        <Effect ref="41" name="Text" id="1" startTime="9750" endTime="233250" palette="19"/>
       </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Eyes 5">
       <EffectLayer/>
@@ -465,371 +516,279 @@
     </Element>
     <Element type="model" name="Boscoyo IcosaSphere Small-2">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="119700" endTime="120250" palette="18"/>
-        <Effect ref="31" name="Bars" id="1" startTime="121350" endTime="122000" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="136350" endTime="136900" palette="18"/>
-        <Effect ref="31" name="Bars" id="3" startTime="138050" endTime="138750" palette="19"/>
+        <Effect ref="19" name="Bars" startTime="119700" endTime="120250" palette="18"/>
+        <Effect ref="19" name="Bars" id="1" startTime="121350" endTime="122000" palette="11"/>
+        <Effect ref="19" name="Bars" id="2" startTime="136350" endTime="136900" palette="18"/>
+        <Effect ref="19" name="Bars" id="3" startTime="138050" endTime="138750" palette="11"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Boscoyo IcosaSphere Small-5">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="119700" endTime="120250" palette="18"/>
-        <Effect ref="31" name="Bars" id="1" startTime="121350" endTime="122000" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="136350" endTime="136850" palette="18"/>
-        <Effect ref="31" name="Bars" id="3" startTime="138050" endTime="138750" palette="19"/>
+        <Effect ref="19" name="Bars" startTime="119700" endTime="120250" palette="18"/>
+        <Effect ref="19" name="Bars" id="1" startTime="121350" endTime="122000" palette="11"/>
+        <Effect ref="19" name="Bars" id="2" startTime="136350" endTime="136850" palette="18"/>
+        <Effect ref="19" name="Bars" id="3" startTime="138050" endTime="138750" palette="11"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Boscoyo IcosaSphere Small-4">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="120250" endTime="120700" palette="18"/>
-        <Effect ref="31" name="Bars" id="1" startTime="121350" endTime="122000" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="136900" endTime="137450" palette="18"/>
-        <Effect ref="31" name="Bars" id="3" startTime="138050" endTime="138750" palette="19"/>
+        <Effect ref="19" name="Bars" startTime="120250" endTime="120700" palette="18"/>
+        <Effect ref="19" name="Bars" id="1" startTime="121350" endTime="122000" palette="11"/>
+        <Effect ref="19" name="Bars" id="2" startTime="136900" endTime="137450" palette="18"/>
+        <Effect ref="19" name="Bars" id="3" startTime="138050" endTime="138750" palette="11"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Boscoyo IcosaSphere Small-3">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="120250" endTime="120700" palette="18"/>
-        <Effect ref="31" name="Bars" id="1" startTime="121350" endTime="122000" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="136900" endTime="137450" palette="18"/>
-        <Effect ref="31" name="Bars" id="3" startTime="138050" endTime="138750" palette="19"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Boscoyo IcosaSphere Small">
-      <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="119150" endTime="119700" palette="18"/>
-        <Effect ref="31" name="Bars" id="1" startTime="120700" endTime="121350" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="135850" endTime="136350" palette="18"/>
-        <Effect ref="31" name="Bars" id="3" startTime="137450" endTime="138050" palette="19"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="closet">
-      <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="122000" endTime="122550" palette="19"/>
-        <Effect ref="31" name="Bars" id="1" startTime="123050" endTime="124500" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="138700" endTime="139250" palette="19"/>
-        <Effect ref="32" name="Bars" id="3" startTime="139700" endTime="142950" palette="19"/>
-        <Effect ref="33" name="Curtain" id="4" startTime="220800" endTime="221400" palette="13"/>
-        <Effect ref="34" name="Curtain" id="5" startTime="221950" endTime="222300" palette="13"/>
-        <Effect ref="35" name="Marquee" id="6" startTime="222300" endTime="233800" palette="13"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Garage and right top peak">
-      <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="122550" endTime="123050" palette="19"/>
-        <Effect ref="31" name="Bars" id="1" startTime="123050" endTime="124500" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="139250" endTime="139700" palette="19"/>
-        <Effect ref="36" name="Bars" id="3" startTime="139700" endTime="142950" palette="19"/>
-        <Effect ref="33" name="Curtain" id="4" startTime="221400" endTime="221950" palette="13"/>
-        <Effect ref="34" name="Curtain" id="5" startTime="221950" endTime="222300" palette="13"/>
-        <Effect ref="35" name="Marquee" id="6" startTime="222300" endTime="233800" palette="13"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Pepper Tree">
-      <EffectLayer>
-        <Effect ref="23" name="VU Meter" startTime="9200" endTime="25700" palette="4"/>
+        <Effect ref="19" name="Bars" startTime="120250" endTime="120700" palette="18"/>
+        <Effect ref="19" name="Bars" id="1" startTime="121350" endTime="122000" palette="11"/>
+        <Effect ref="19" name="Bars" id="2" startTime="136900" endTime="137450" palette="18"/>
+        <Effect ref="19" name="Bars" id="3" startTime="138050" endTime="138750" palette="11"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Boscoyo ChromaFlake 24 3 prong">
       <EffectLayer>
-        <Effect ref="37" name="SingleStrand" startTime="39350" endTime="75800" palette="20"/>
-        <Effect ref="38" name="Shockwave" id="1" startTime="76275" endTime="77250" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="2" startTime="77250" endTime="79275" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="3" startTime="79275" endTime="81375" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="4" startTime="81400" endTime="83500" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="5" startTime="83500" endTime="85600" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="6" startTime="85600" endTime="87700" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="7" startTime="87700" endTime="89725" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="8" startTime="89750" endTime="91850" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="9" startTime="91850" endTime="93900" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="10" startTime="93900" endTime="96000" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="11" startTime="96000" endTime="98100" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="12" startTime="98100" endTime="100125" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="13" startTime="100125" endTime="102225" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="14" startTime="102250" endTime="104350" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="15" startTime="104350" endTime="106450" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="16" startTime="106450" endTime="108525" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="17" startTime="108525" endTime="110550" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="18" startTime="110550" endTime="112725" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="19" startTime="112725" endTime="114825" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="20" startTime="114825" endTime="116825" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="21" startTime="116825" endTime="118900" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="22" startTime="118900" endTime="121025" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="23" startTime="121025" endTime="123100" palette="21"/>
-        <Effect ref="39" name="SingleStrand" id="24" startTime="123100" endTime="124500" palette="20"/>
-        <Effect ref="39" name="SingleStrand" id="25" startTime="139725" endTime="142975" palette="20"/>
-        <Effect ref="38" name="Shockwave" id="26" startTime="156300" endTime="158400" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="27" startTime="158650" endTime="160750" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="28" startTime="164550" endTime="166650" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="29" startTime="166900" endTime="168800" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="30" startTime="172800" endTime="174900" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="31" startTime="174900" endTime="177000" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="32" startTime="177000" endTime="179100" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="33" startTime="179100" endTime="181300" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="34" startTime="181300" endTime="183250" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="35" startTime="183250" endTime="185350" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="36" startTime="185350" endTime="187450" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="37" startTime="187450" endTime="189600" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="38" startTime="193650" endTime="195750" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="39" startTime="195750" endTime="197900" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="40" startTime="198000" endTime="200100" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="41" startTime="200100" endTime="201850" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="42" startTime="201900" endTime="204000" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="43" startTime="204000" endTime="206250" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="44" startTime="206550" endTime="208000" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="45" startTime="208000" endTime="209750" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="46" startTime="210250" endTime="212350" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="47" startTime="212350" endTime="214550" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="48" startTime="218550" endTime="220650" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="49" startTime="220650" endTime="222900" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="50" startTime="226950" endTime="229150" palette="21"/>
-        <Effect ref="38" name="Shockwave" id="51" startTime="229150" endTime="231450" palette="21"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Door Frame">
-      <EffectLayer>
-        <Effect ref="12" name="VU Meter" startTime="25700" endTime="39325" palette="10"/>
-        <Effect ref="31" name="Bars" id="1" startTime="122000" endTime="122550" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="123050" endTime="124500" palette="19"/>
-        <Effect ref="31" name="Bars" id="3" startTime="138700" endTime="139250" palette="19"/>
-        <Effect ref="32" name="Bars" id="4" startTime="139700" endTime="142950" palette="19"/>
-        <Effect ref="33" name="Curtain" id="5" startTime="220800" endTime="221400" palette="13"/>
-        <Effect ref="34" name="Curtain" id="6" startTime="221950" endTime="222300" palette="13"/>
-        <Effect ref="35" name="Marquee" id="7" startTime="222300" endTime="233800" palette="13"/>
+        <Effect ref="42" name="SingleStrand" startTime="39350" endTime="75800" palette="20"/>
+        <Effect ref="43" name="Shockwave" id="1" startTime="76275" endTime="77250" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="2" startTime="77250" endTime="79275" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="3" startTime="79275" endTime="81375" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="4" startTime="81400" endTime="83500" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="5" startTime="83500" endTime="85600" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="6" startTime="85600" endTime="87700" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="7" startTime="87700" endTime="89725" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="8" startTime="89750" endTime="91850" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="9" startTime="91850" endTime="93900" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="10" startTime="93900" endTime="96000" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="11" startTime="96000" endTime="98100" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="12" startTime="98100" endTime="100125" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="13" startTime="100125" endTime="102225" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="14" startTime="102250" endTime="104350" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="15" startTime="104350" endTime="106450" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="16" startTime="106450" endTime="108525" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="17" startTime="108525" endTime="110550" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="18" startTime="110550" endTime="112725" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="19" startTime="112725" endTime="114825" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="20" startTime="114825" endTime="116825" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="21" startTime="116825" endTime="118900" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="22" startTime="118900" endTime="121025" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="23" startTime="121025" endTime="123100" palette="21"/>
+        <Effect ref="44" name="SingleStrand" id="24" startTime="123100" endTime="124500" palette="20"/>
+        <Effect ref="44" name="SingleStrand" id="25" startTime="139725" endTime="142975" palette="20"/>
+        <Effect ref="43" name="Shockwave" id="26" startTime="156300" endTime="158400" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="27" startTime="158650" endTime="160750" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="28" startTime="164550" endTime="166650" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="29" startTime="166900" endTime="168800" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="30" startTime="172800" endTime="174900" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="31" startTime="174900" endTime="177000" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="32" startTime="177000" endTime="179100" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="33" startTime="179100" endTime="181300" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="34" startTime="181300" endTime="183250" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="35" startTime="183250" endTime="185350" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="36" startTime="185350" endTime="187450" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="37" startTime="187450" endTime="189600" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="38" startTime="193650" endTime="195750" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="39" startTime="195750" endTime="197900" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="40" startTime="198000" endTime="200100" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="41" startTime="200100" endTime="201850" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="42" startTime="201900" endTime="204000" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="43" startTime="204000" endTime="206250" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="44" startTime="206550" endTime="208000" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="45" startTime="208000" endTime="209750" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="46" startTime="210250" endTime="212350" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="47" startTime="212350" endTime="214550" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="48" startTime="218550" endTime="220650" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="49" startTime="220650" endTime="222900" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="50" startTime="226950" endTime="229150" palette="21"/>
+        <Effect ref="43" name="Shockwave" id="51" startTime="229150" endTime="231450" palette="21"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Pole Tree">
       <EffectLayer>
-        <Effect ref="40" name="Bars" startTime="51200" endTime="58200" palette="22"/>
-        <Effect ref="41" name="Bars" id="1" startTime="58650" endTime="61600" palette="23"/>
-        <Effect ref="42" name="Bars" id="2" startTime="61600" endTime="63650" palette="23"/>
-        <Effect ref="43" name="Strobe" id="3" startTime="67450" endTime="72050" palette="0"/>
-        <Effect ref="44" name="Morph" id="4" startTime="72100" endTime="76150" palette="24"/>
-        <Effect ref="45" name="Curtain" id="5" startTime="76250" endTime="78700" palette="25"/>
-        <Effect ref="46" name="Curtain" id="6" startTime="78700" endTime="84550" palette="25"/>
-        <Effect ref="47" name="Meteors" id="7" startTime="84600" endTime="91550" palette="26"/>
-        <Effect ref="48" name="Snowflakes" id="8" startTime="94250" endTime="100250" palette="3"/>
-        <Effect ref="49" name="Spirals" id="9" startTime="101850" endTime="108050" palette="27"/>
-        <Effect ref="50" name="Text" id="10" startTime="108050" endTime="109750" palette="28"/>
-        <Effect ref="51" name="Ripple" id="11" startTime="111250" endTime="113750" palette="29"/>
-        <Effect ref="52" name="Strobe" id="12" startTime="114150" endTime="117650" palette="0"/>
-        <Effect ref="50" name="Text" id="13" startTime="124750" endTime="126450" palette="28"/>
-        <Effect ref="53" name="Pictures" id="14" startTime="132700" endTime="135000" palette="28"/>
-        <Effect ref="54" name="Plasma" id="15" startTime="147550" endTime="148600" palette="30"/>
-        <Effect ref="54" name="Plasma" id="16" startTime="148600" endTime="149650" palette="31"/>
-        <Effect ref="54" name="Plasma" id="17" startTime="149650" endTime="150700" palette="30"/>
-        <Effect ref="54" name="Plasma" id="18" startTime="150700" endTime="151750" palette="31"/>
-        <Effect ref="54" name="Plasma" id="19" startTime="151750" endTime="152750" palette="30"/>
-        <Effect ref="54" name="Plasma" id="20" startTime="152750" endTime="153800" palette="31"/>
-        <Effect ref="54" name="Plasma" id="21" startTime="153800" endTime="154850" palette="30"/>
-        <Effect ref="54" name="Plasma" id="22" startTime="154850" endTime="155900" palette="31"/>
-        <Effect ref="55" name="Text" id="23" startTime="155900" endTime="157150" palette="32"/>
-        <Effect ref="56" name="Text" id="24" startTime="157150" endTime="158300" palette="33"/>
-        <Effect ref="57" name="Text" id="25" startTime="158300" endTime="160850" palette="34"/>
-        <Effect ref="54" name="Plasma" id="26" startTime="160950" endTime="162150" palette="30"/>
-        <Effect ref="54" name="Plasma" id="27" startTime="162300" endTime="164450" palette="31"/>
-        <Effect ref="58" name="Text" id="28" startTime="164550" endTime="165500" palette="32"/>
-        <Effect ref="56" name="Text" id="29" startTime="165500" endTime="166550" palette="33"/>
-        <Effect ref="59" name="Text" id="30" startTime="166550" endTime="168800" palette="34"/>
-        <Effect ref="54" name="Plasma" id="31" startTime="168950" endTime="170300" palette="30"/>
-        <Effect ref="54" name="Plasma" id="32" startTime="170500" endTime="172500" palette="31"/>
-        <Effect ref="58" name="Text" id="33" startTime="172900" endTime="173850" palette="32"/>
-        <Effect ref="60" name="Text" id="34" startTime="173850" endTime="175100" palette="33"/>
-        <Effect ref="61" name="Text" id="35" startTime="175100" endTime="177000" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="36" startTime="177000" endTime="181250" palette="35"/>
-        <Effect ref="58" name="Text" id="37" startTime="181300" endTime="182150" palette="32"/>
-        <Effect ref="60" name="Text" id="38" startTime="182150" endTime="183300" palette="33"/>
-        <Effect ref="61" name="Text" id="39" startTime="183300" endTime="185350" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="40" startTime="185350" endTime="189600" palette="35"/>
-        <Effect ref="63" name="Text" id="41" startTime="189600" endTime="190700" palette="32"/>
-        <Effect ref="60" name="Text" id="42" startTime="190700" endTime="191500" palette="33"/>
-        <Effect ref="59" name="Text" id="43" startTime="191500" endTime="193650" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="44" startTime="193650" endTime="197900" palette="35"/>
-        <Effect ref="58" name="Text" id="45" startTime="197900" endTime="198950" palette="32"/>
-        <Effect ref="60" name="Text" id="46" startTime="198950" endTime="199950" palette="33"/>
-        <Effect ref="61" name="Text" id="47" startTime="199950" endTime="201900" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="48" startTime="201900" endTime="206250" palette="35"/>
-        <Effect ref="58" name="Text" id="49" startTime="206250" endTime="207250" palette="32"/>
-        <Effect ref="60" name="Text" id="50" startTime="207250" endTime="208350" palette="33"/>
-        <Effect ref="64" name="Text" id="51" startTime="208350" endTime="210050" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="52" startTime="210050" endTime="214550" palette="35"/>
-        <Effect ref="63" name="Text" id="53" startTime="214550" endTime="215600" palette="32"/>
-        <Effect ref="65" name="Text" id="54" startTime="215600" endTime="216600" palette="33"/>
-        <Effect ref="61" name="Text" id="55" startTime="216600" endTime="218550" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="56" startTime="218550" endTime="222900" palette="35"/>
-        <Effect ref="63" name="Text" id="57" startTime="222900" endTime="223950" palette="32"/>
-        <Effect ref="60" name="Text" id="58" startTime="223950" endTime="224950" palette="33"/>
-        <Effect ref="61" name="Text" id="59" startTime="224950" endTime="226950" palette="34"/>
-        <Effect ref="62" name="Twinkle" id="60" startTime="226950" endTime="231450" palette="35"/>
+        <Effect ref="45" name="Bars" startTime="51200" endTime="58200" palette="22"/>
+        <Effect ref="46" name="Bars" id="1" startTime="58650" endTime="61600" palette="23"/>
+        <Effect ref="47" name="Bars" id="2" startTime="61600" endTime="63650" palette="23"/>
+        <Effect ref="48" name="Strobe" id="3" startTime="67450" endTime="72050" palette="5"/>
+        <Effect ref="49" name="Morph" id="4" startTime="72100" endTime="76150" palette="24"/>
+        <Effect ref="50" name="Curtain" id="5" startTime="76250" endTime="78700" palette="25"/>
+        <Effect ref="51" name="Curtain" id="6" startTime="78700" endTime="84550" palette="25"/>
+        <Effect ref="52" name="Meteors" id="7" startTime="84600" endTime="91550" palette="26"/>
+        <Effect ref="53" name="Snowflakes" id="8" startTime="94250" endTime="100250" palette="8"/>
+        <Effect ref="54" name="Spirals" id="9" startTime="101850" endTime="108050" palette="27"/>
+        <Effect ref="55" name="Text" id="10" startTime="108050" endTime="109750" palette="28"/>
+        <Effect ref="56" name="Ripple" id="11" startTime="111250" endTime="113750" palette="29"/>
+        <Effect ref="57" name="Strobe" id="12" startTime="114150" endTime="117650" palette="5"/>
+        <Effect ref="55" name="Text" id="13" startTime="124750" endTime="126450" palette="28"/>
+        <Effect ref="58" name="Pictures" id="14" startTime="132700" endTime="135000" palette="28"/>
+        <Effect ref="59" name="Plasma" id="15" startTime="147550" endTime="148600" palette="30"/>
+        <Effect ref="59" name="Plasma" id="16" startTime="148600" endTime="149650" palette="31"/>
+        <Effect ref="59" name="Plasma" id="17" startTime="149650" endTime="150700" palette="30"/>
+        <Effect ref="59" name="Plasma" id="18" startTime="150700" endTime="151750" palette="31"/>
+        <Effect ref="59" name="Plasma" id="19" startTime="151750" endTime="152750" palette="30"/>
+        <Effect ref="59" name="Plasma" id="20" startTime="152750" endTime="153800" palette="31"/>
+        <Effect ref="59" name="Plasma" id="21" startTime="153800" endTime="154850" palette="30"/>
+        <Effect ref="59" name="Plasma" id="22" startTime="154850" endTime="155900" palette="31"/>
+        <Effect ref="60" name="Text" id="23" startTime="155900" endTime="157150" palette="32"/>
+        <Effect ref="61" name="Text" id="24" startTime="157150" endTime="158300" palette="33"/>
+        <Effect ref="62" name="Text" id="25" startTime="158300" endTime="160850" palette="34"/>
+        <Effect ref="59" name="Plasma" id="26" startTime="160950" endTime="162150" palette="30"/>
+        <Effect ref="59" name="Plasma" id="27" startTime="162300" endTime="164450" palette="31"/>
+        <Effect ref="63" name="Text" id="28" startTime="164550" endTime="165500" palette="32"/>
+        <Effect ref="61" name="Text" id="29" startTime="165500" endTime="166550" palette="33"/>
+        <Effect ref="64" name="Text" id="30" startTime="166550" endTime="168800" palette="34"/>
+        <Effect ref="59" name="Plasma" id="31" startTime="168950" endTime="170300" palette="30"/>
+        <Effect ref="59" name="Plasma" id="32" startTime="170500" endTime="172500" palette="31"/>
+        <Effect ref="63" name="Text" id="33" startTime="172900" endTime="173850" palette="32"/>
+        <Effect ref="65" name="Text" id="34" startTime="173850" endTime="175100" palette="33"/>
+        <Effect ref="66" name="Text" id="35" startTime="175100" endTime="177000" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="36" startTime="177000" endTime="181250" palette="35"/>
+        <Effect ref="63" name="Text" id="37" startTime="181300" endTime="182150" palette="32"/>
+        <Effect ref="65" name="Text" id="38" startTime="182150" endTime="183300" palette="33"/>
+        <Effect ref="66" name="Text" id="39" startTime="183300" endTime="185350" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="40" startTime="185350" endTime="189600" palette="35"/>
+        <Effect ref="68" name="Text" id="41" startTime="189600" endTime="190700" palette="32"/>
+        <Effect ref="65" name="Text" id="42" startTime="190700" endTime="191500" palette="33"/>
+        <Effect ref="64" name="Text" id="43" startTime="191500" endTime="193650" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="44" startTime="193650" endTime="197900" palette="35"/>
+        <Effect ref="63" name="Text" id="45" startTime="197900" endTime="198950" palette="32"/>
+        <Effect ref="65" name="Text" id="46" startTime="198950" endTime="199950" palette="33"/>
+        <Effect ref="66" name="Text" id="47" startTime="199950" endTime="201900" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="48" startTime="201900" endTime="206250" palette="35"/>
+        <Effect ref="63" name="Text" id="49" startTime="206250" endTime="207250" palette="32"/>
+        <Effect ref="65" name="Text" id="50" startTime="207250" endTime="208350" palette="33"/>
+        <Effect ref="69" name="Text" id="51" startTime="208350" endTime="210050" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="52" startTime="210050" endTime="214550" palette="35"/>
+        <Effect ref="68" name="Text" id="53" startTime="214550" endTime="215600" palette="32"/>
+        <Effect ref="70" name="Text" id="54" startTime="215600" endTime="216600" palette="33"/>
+        <Effect ref="66" name="Text" id="55" startTime="216600" endTime="218550" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="56" startTime="218550" endTime="222900" palette="35"/>
+        <Effect ref="68" name="Text" id="57" startTime="222900" endTime="223950" palette="32"/>
+        <Effect ref="65" name="Text" id="58" startTime="223950" endTime="224950" palette="33"/>
+        <Effect ref="66" name="Text" id="59" startTime="224950" endTime="226950" palette="34"/>
+        <Effect ref="67" name="Twinkle" id="60" startTime="226950" endTime="231450" palette="35"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="66" name="Pictures" id="1" startTime="25700" endTime="34200" palette="0"/>
-        <Effect ref="44" name="Morph" id="2" startTime="63300" endTime="67350" palette="24"/>
-        <Effect ref="67" name="Morph" id="3" startTime="72200" endTime="76400" palette="36"/>
-        <Effect ref="68" name="Bars" id="4" startTime="91550" endTime="100250" palette="23"/>
-        <Effect ref="69" name="Ripple" id="5" startTime="110500" endTime="113750" palette="37"/>
-        <Effect ref="70" name="Tree" id="6" startTime="120250" endTime="124500" palette="38"/>
-        <Effect ref="71" name="Bars" id="7" startTime="126800" endTime="135300" palette="23"/>
-        <Effect ref="70" name="Tree" id="8" startTime="135700" endTime="142950" palette="38"/>
-        <Effect ref="72" name="Pinwheel" id="9" startTime="147550" endTime="148600" palette="39"/>
-        <Effect ref="73" name="Pinwheel" id="10" startTime="148600" endTime="149650" palette="39"/>
-        <Effect ref="72" name="Pinwheel" id="11" startTime="149650" endTime="150700" palette="39"/>
-        <Effect ref="73" name="Pinwheel" id="12" startTime="150700" endTime="151750" palette="39"/>
-        <Effect ref="72" name="Pinwheel" id="13" startTime="151750" endTime="152750" palette="39"/>
-        <Effect ref="73" name="Pinwheel" id="14" startTime="152750" endTime="153800" palette="39"/>
-        <Effect ref="72" name="Pinwheel" id="15" startTime="153800" endTime="154850" palette="39"/>
-        <Effect ref="73" name="Pinwheel" id="16" startTime="154850" endTime="155900" palette="39"/>
-        <Effect ref="72" name="Pinwheel" id="17" startTime="160950" endTime="162150" palette="39"/>
-        <Effect ref="73" name="Pinwheel" id="18" startTime="162300" endTime="164450" palette="39"/>
-        <Effect ref="72" name="Pinwheel" id="19" startTime="168950" endTime="170300" palette="39"/>
-        <Effect ref="73" name="Pinwheel" id="20" startTime="170500" endTime="172500" palette="39"/>
-        <Effect ref="74" name="Tree" id="21" startTime="177000" endTime="181250" palette="40"/>
-        <Effect ref="74" name="Tree" id="22" startTime="185350" endTime="189600" palette="40"/>
-        <Effect ref="70" name="Tree" id="23" startTime="193650" endTime="197900" palette="40"/>
-        <Effect ref="75" name="Tree" id="24" startTime="201900" endTime="206250" palette="40"/>
-        <Effect ref="74" name="Tree" id="25" startTime="210050" endTime="214550" palette="40"/>
-        <Effect ref="70" name="Tree" id="26" startTime="218550" endTime="222900" palette="40"/>
-        <Effect ref="76" name="Tree" id="27" startTime="226950" endTime="231450" palette="40"/>
+        <Effect ref="71" name="Pictures" startTime="25700" endTime="34200" palette="5"/>
+        <Effect ref="49" name="Morph" id="1" startTime="63300" endTime="67350" palette="24"/>
+        <Effect ref="72" name="Morph" id="2" startTime="72200" endTime="76400" palette="36"/>
+        <Effect ref="73" name="Bars" id="3" startTime="91550" endTime="100250" palette="23"/>
+        <Effect ref="74" name="Ripple" id="4" startTime="110500" endTime="113750" palette="37"/>
+        <Effect ref="75" name="Tree" id="5" startTime="120250" endTime="124500" palette="38"/>
+        <Effect ref="76" name="Bars" id="6" startTime="126800" endTime="135300" palette="23"/>
+        <Effect ref="75" name="Tree" id="7" startTime="135700" endTime="142950" palette="38"/>
+        <Effect ref="77" name="Pinwheel" id="8" startTime="147550" endTime="148600" palette="39"/>
+        <Effect ref="78" name="Pinwheel" id="9" startTime="148600" endTime="149650" palette="39"/>
+        <Effect ref="77" name="Pinwheel" id="10" startTime="149650" endTime="150700" palette="39"/>
+        <Effect ref="78" name="Pinwheel" id="11" startTime="150700" endTime="151750" palette="39"/>
+        <Effect ref="77" name="Pinwheel" id="12" startTime="151750" endTime="152750" palette="39"/>
+        <Effect ref="78" name="Pinwheel" id="13" startTime="152750" endTime="153800" palette="39"/>
+        <Effect ref="77" name="Pinwheel" id="14" startTime="153800" endTime="154850" palette="39"/>
+        <Effect ref="78" name="Pinwheel" id="15" startTime="154850" endTime="155900" palette="39"/>
+        <Effect ref="77" name="Pinwheel" id="16" startTime="160950" endTime="162150" palette="39"/>
+        <Effect ref="78" name="Pinwheel" id="17" startTime="162300" endTime="164450" palette="39"/>
+        <Effect ref="77" name="Pinwheel" id="18" startTime="168950" endTime="170300" palette="39"/>
+        <Effect ref="78" name="Pinwheel" id="19" startTime="170500" endTime="172500" palette="39"/>
+        <Effect ref="79" name="Tree" id="20" startTime="177000" endTime="181250" palette="40"/>
+        <Effect ref="79" name="Tree" id="21" startTime="185350" endTime="189600" palette="40"/>
+        <Effect ref="75" name="Tree" id="22" startTime="193650" endTime="197900" palette="40"/>
+        <Effect ref="80" name="Tree" id="23" startTime="201900" endTime="206250" palette="40"/>
+        <Effect ref="79" name="Tree" id="24" startTime="210050" endTime="214550" palette="40"/>
+        <Effect ref="75" name="Tree" id="25" startTime="218550" endTime="222900" palette="40"/>
+        <Effect ref="81" name="Tree" id="26" startTime="226950" endTime="231450" palette="40"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="77" name="Bars" startTime="2100" endTime="51200" palette="10"/>
-        <Effect ref="67" name="Morph" id="1" startTime="63400" endTime="67600" palette="36"/>
-        <Effect ref="78" name="Twinkle" id="2" startTime="72100" endTime="76400" palette="41"/>
-        <Effect ref="51" name="Ripple" id="3" startTime="109800" endTime="113750" palette="42"/>
+        <Effect ref="82" name="Bars" startTime="2100" endTime="51200" palette="9"/>
+        <Effect ref="72" name="Morph" id="1" startTime="63400" endTime="67600" palette="36"/>
+        <Effect ref="83" name="Twinkle" id="2" startTime="72100" endTime="76400" palette="41"/>
+        <Effect ref="56" name="Ripple" id="3" startTime="109800" endTime="113750" palette="42"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="79" name="Twinkle" startTime="63300" endTime="67600" palette="41"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-9">
-      <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="145450" endTime="147050" palette="15"/>
+        <Effect ref="84" name="Twinkle" startTime="63300" endTime="67600" palette="41"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Arches-8">
+    <Element type="model" name="Arches-1">
       <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="145450" endTime="147050" palette="15"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-7">
-      <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="145450" endTime="147050" palette="15"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-6">
-      <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="144450" endTime="145450" palette="15"/>
-        <Effect ref="80" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="15"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-5">
-      <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="143400" endTime="144450" palette="15"/>
-        <Effect ref="80" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="15"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-4">
-      <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="142350" endTime="143400" palette="15"/>
-        <Effect ref="80" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="15"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Arches-3">
-      <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="141300" endTime="142350" palette="15"/>
-        <Effect ref="80" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="15"/>
+        <Effect ref="85" name="SingleStrand" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Arches-2">
       <EffectLayer>
-        <Effect ref="80" name="SingleStrand" startTime="140250" endTime="141300" palette="15"/>
-        <Effect ref="80" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="15"/>
-      </EffectLayer>
-      <Strand index="0">
-        <Effect ref="80" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="15"/>
-      </Strand>
-    </Element>
-    <Element type="model" name="dining left">
-      <EffectLayer>
-        <Effect ref="81" name="Morph" startTime="202500" endTime="203050" palette="43"/>
-        <Effect ref="82" name="Marquee" id="1" startTime="205650" endTime="206250" palette="13"/>
-        <Effect ref="81" name="Morph" id="2" startTime="210650" endTime="211200" palette="43"/>
-        <Effect ref="82" name="Marquee" id="3" startTime="213950" endTime="214550" palette="13"/>
-        <Effect ref="81" name="Morph" id="4" startTime="219150" endTime="219700" palette="43"/>
-        <Effect ref="82" name="Marquee" id="5" startTime="222300" endTime="222900" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="140250" endTime="141300" palette="2"/>
+        <Effect ref="85" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="dining center">
+    <Element type="model" name="Arches-3">
       <EffectLayer>
-        <Effect ref="81" name="Morph" startTime="203050" endTime="203600" palette="13"/>
-        <Effect ref="82" name="Marquee" id="1" startTime="205650" endTime="206250" palette="13"/>
-        <Effect ref="81" name="Morph" id="2" startTime="211200" endTime="211750" palette="13"/>
-        <Effect ref="82" name="Marquee" id="3" startTime="213950" endTime="214550" palette="13"/>
-        <Effect ref="81" name="Morph" id="4" startTime="219700" endTime="220250" palette="13"/>
-        <Effect ref="82" name="Marquee" id="5" startTime="222300" endTime="222900" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="141300" endTime="142350" palette="2"/>
+        <Effect ref="85" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="dining right">
+    <Element type="model" name="Arches-4">
       <EffectLayer>
-        <Effect ref="81" name="Morph" startTime="203600" endTime="204150" palette="13"/>
-        <Effect ref="82" name="Marquee" id="1" startTime="205650" endTime="206250" palette="13"/>
-        <Effect ref="81" name="Morph" id="2" startTime="211750" endTime="212300" palette="13"/>
-        <Effect ref="82" name="Marquee" id="3" startTime="213950" endTime="214550" palette="13"/>
-        <Effect ref="81" name="Morph" id="4" startTime="220250" endTime="220800" palette="13"/>
-        <Effect ref="82" name="Marquee" id="5" startTime="222300" endTime="222900" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="142350" endTime="143400" palette="2"/>
+        <Effect ref="85" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="office roof">
+    <Element type="model" name="Arches-5">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="122550" endTime="123050" palette="19"/>
-        <Effect ref="31" name="Bars" id="1" startTime="123050" endTime="124500" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="139250" endTime="139700" palette="19"/>
-        <Effect ref="36" name="Bars" id="3" startTime="139700" endTime="142950" palette="19"/>
-        <Effect ref="33" name="Curtain" id="4" startTime="221400" endTime="221950" palette="13"/>
-        <Effect ref="34" name="Curtain" id="5" startTime="221950" endTime="222300" palette="13"/>
-        <Effect ref="35" name="Marquee" id="6" startTime="222300" endTime="233800" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="143400" endTime="144450" palette="2"/>
+        <Effect ref="85" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="top peak">
+    <Element type="model" name="Arches-6">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="122000" endTime="122550" palette="19"/>
-        <Effect ref="31" name="Bars" id="1" startTime="123050" endTime="124500" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="138700" endTime="139250" palette="19"/>
-        <Effect ref="32" name="Bars" id="3" startTime="139700" endTime="142950" palette="19"/>
-        <Effect ref="33" name="Curtain" id="4" startTime="220800" endTime="221400" palette="13"/>
-        <Effect ref="34" name="Curtain" id="5" startTime="221950" endTime="222300" palette="13"/>
-        <Effect ref="35" name="Marquee" id="6" startTime="222300" endTime="233800" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="144450" endTime="145450" palette="2"/>
+        <Effect ref="85" name="SingleStrand" id="1" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="lower right peak">
+    <Element type="model" name="Arches-7">
       <EffectLayer>
-        <Effect ref="31" name="Bars" startTime="122550" endTime="123050" palette="19"/>
-        <Effect ref="31" name="Bars" id="1" startTime="123050" endTime="124500" palette="19"/>
-        <Effect ref="31" name="Bars" id="2" startTime="139250" endTime="139700" palette="19"/>
-        <Effect ref="36" name="Bars" id="3" startTime="139700" endTime="142950" palette="19"/>
-        <Effect ref="33" name="Curtain" id="4" startTime="221400" endTime="221950" palette="13"/>
-        <Effect ref="34" name="Curtain" id="5" startTime="221950" endTime="222300" palette="13"/>
-        <Effect ref="35" name="Marquee" id="6" startTime="222300" endTime="233800" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="office right">
+    <Element type="model" name="Arches-8">
       <EffectLayer>
-        <Effect ref="81" name="Morph" startTime="201900" endTime="202500" palette="43"/>
-        <Effect ref="82" name="Marquee" id="1" startTime="205650" endTime="206250" palette="13"/>
-        <Effect ref="81" name="Morph" id="2" startTime="210050" endTime="210650" palette="43"/>
-        <Effect ref="82" name="Marquee" id="3" startTime="213950" endTime="214550" palette="13"/>
-        <Effect ref="81" name="Morph" id="4" startTime="218550" endTime="219150" palette="43"/>
-        <Effect ref="82" name="Marquee" id="5" startTime="222300" endTime="222900" palette="13"/>
+        <Effect ref="85" name="SingleStrand" startTime="145450" endTime="147050" palette="2"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="office left">
+    <Element type="model" name="Guest">
       <EffectLayer>
-        <Effect ref="81" name="Morph" startTime="201900" endTime="202500" palette="43"/>
-        <Effect ref="82" name="Marquee" id="1" startTime="205650" endTime="206250" palette="13"/>
-        <Effect ref="81" name="Morph" id="2" startTime="210050" endTime="210650" palette="43"/>
-        <Effect ref="82" name="Marquee" id="3" startTime="213950" endTime="214550" palette="13"/>
-        <Effect ref="81" name="Morph" id="4" startTime="218550" endTime="219150" palette="43"/>
-        <Effect ref="82" name="Marquee" id="5" startTime="222300" endTime="222900" palette="13"/>
+        <Effect ref="19" name="Bars" startTime="122000" endTime="122550" palette="11"/>
+        <Effect ref="19" name="Bars" id="1" startTime="123050" endTime="124500" palette="11"/>
+        <Effect ref="19" name="Bars" id="2" startTime="138700" endTime="139250" palette="11"/>
+        <Effect ref="20" name="Bars" id="3" startTime="139700" endTime="142950" palette="11"/>
+        <Effect ref="21" name="Curtain" id="4" startTime="220800" endTime="221400" palette="12"/>
+        <Effect ref="22" name="Curtain" id="5" startTime="221950" endTime="222300" palette="12"/>
+        <Effect ref="23" name="Marquee" id="6" startTime="222300" endTime="233800" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Office">
+      <EffectLayer>
+        <Effect ref="35" name="Morph" startTime="201900" endTime="202500" palette="17"/>
+        <Effect ref="36" name="Marquee" id="1" startTime="205650" endTime="206250" palette="12"/>
+        <Effect ref="35" name="Morph" id="2" startTime="210050" endTime="210650" palette="17"/>
+        <Effect ref="36" name="Marquee" id="3" startTime="213950" endTime="214550" palette="12"/>
+        <Effect ref="35" name="Morph" id="4" startTime="218550" endTime="219150" palette="17"/>
+        <Effect ref="36" name="Marquee" id="5" startTime="222300" endTime="222900" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Sidelight left">
+      <EffectLayer>
+        <Effect ref="35" name="Morph" startTime="201900" endTime="202500" palette="17"/>
+        <Effect ref="36" name="Marquee" id="1" startTime="205650" endTime="206250" palette="12"/>
+        <Effect ref="35" name="Morph" id="2" startTime="210050" endTime="210650" palette="17"/>
+        <Effect ref="36" name="Marquee" id="3" startTime="213950" endTime="214550" palette="12"/>
+        <Effect ref="35" name="Morph" id="4" startTime="218550" endTime="219150" palette="17"/>
+        <Effect ref="36" name="Marquee" id="5" startTime="222300" endTime="222900" palette="12"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Sidelight right">
+      <EffectLayer>
+        <Effect ref="35" name="Morph" startTime="202500" endTime="203050" palette="17"/>
+        <Effect ref="36" name="Marquee" id="1" startTime="205650" endTime="206250" palette="12"/>
+        <Effect ref="35" name="Morph" id="2" startTime="210650" endTime="211200" palette="17"/>
+        <Effect ref="36" name="Marquee" id="3" startTime="213950" endTime="214550" palette="12"/>
+        <Effect ref="35" name="Morph" id="4" startTime="219150" endTime="219700" palette="17"/>
+        <Effect ref="36" name="Marquee" id="5" startTime="222300" endTime="222900" palette="12"/>
       </EffectLayer>
     </Element>
     <Element type="timing" name="Lyrics">
@@ -2620,7 +2579,6 @@
         <Effect label="" startTime="44950" endTime="45250"></Effect>
         <Effect label="" startTime="45250" endTime="45350"></Effect>
         <Effect label="" startTime="45350" endTime="45500"></Effect>
-        <Effect label="" startTime="45500" endTime="45500"></Effect>
         <Effect label="" startTime="45500" endTime="45750"></Effect>
         <Effect label="" startTime="45750" endTime="46050"></Effect>
         <Effect label="" startTime="46050" endTime="46250"></Effect>
@@ -3728,14 +3686,7 @@
         <Effect label="" startTime="220600" endTime="220700"></Effect>
         <Effect label="" startTime="220700" endTime="225650"></Effect>
         <Effect label="" startTime="225650" endTime="226250"></Effect>
-        <Effect label="" startTime="226250" endTime="226250"></Effect>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Eyes">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
-      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
