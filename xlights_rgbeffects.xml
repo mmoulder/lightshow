@@ -78,31 +78,31 @@
       <ControllerConnection brightness="100" Protocol="ws2811" Port="5"/>
     </model>
     <model StringType="RGB Nodes" Antialias="1" PixelSize="2" Transparency="0" parm1="1" TreeSpiralRotations="0.000000" parm3="16" TreeRotation="0.000000" DisplayAs="Tree 180" TreePerspective="0.200000" Dir="L" StartSide="T" parm2="560" name="Pole Tree" LayoutGroup="Default" Controller="k8-pb-4" WorldPosX="18.8024" WorldPosY="319.1986" WorldPosZ="276.7655" ScaleX="1.2606" ScaleY="0.9833" ScaleZ="1.2606" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="!k8-pb-4:1777">
-      <ControllerConnection Protocol="ws2811" Port="3"/>
+      <ControllerConnection Protocol="ws2811" Port="8"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-8" Controller="k8-pb-4" ModelChain="&gt;Arches-7" WorldPosX="563.5148" WorldPosY="245.8995" WorldPosZ="209.0186" X2="42.099243" Y2="0.323990" Z2="0.000000" RotateX="0.00000000" Height="1.109532" Angle="0" versionNumber="5" StartChannel="!k8-pb-4:1555">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="5" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-7" Controller="k8-pb-4" ModelChain="&gt;Arches-6" WorldPosX="526.3689" WorldPosY="246.1136" WorldPosZ="209.0186" X2="38.514130" Y2="-1.328033" Z2="0.000000" RotateX="0.00000000" Height="1.306458" Angle="0" versionNumber="5" StartChannel="!k8-pb-4:1333">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Port="5" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-6" Controller="k8-pb-4" ModelChain="&gt;Arches-5" WorldPosX="487.3277" WorldPosY="243.3475" WorldPosZ="209.0186" X2="38.514648" Y2="1.328110" Z2="0.000000" RotateX="0.00000000" Height="1.275017" Angle="2" versionNumber="5" StartChannel="!k8-pb-4:1111">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Port="5" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-5" Controller="k8-pb-4" ModelChain="&gt;Arches-4" WorldPosX="436.9670" WorldPosY="241.7504" WorldPosZ="209.0186" X2="49.252533" Y2="0.960693" Z2="0.000000" RotateX="0.00000000" Height="1.181952" Angle="3" versionNumber="5" StartChannel="!k8-pb-4:889">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-5" Controller="k8-pb-4" WorldPosX="436.9670" WorldPosY="241.7504" WorldPosZ="209.0186" X2="49.252533" Y2="0.960693" Z2="0.000000" RotateX="0.00000000" Height="1.181952" Angle="3" versionNumber="5" StartChannel="!k8-pb-4:889">
+      <ControllerConnection Protocol="ws2811" Port="5"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-4" Controller="k8-pb-4" ModelChain="&gt;Arches-3" WorldPosX="391.3268" WorldPosY="243.1335" WorldPosZ="209.0186" X2="45.640152" Y2="-1.383118" Z2="0.000000" RotateX="0.00000000" Height="1.083461" Angle="1" versionNumber="5" StartChannel="!k8-pb-4:667">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Port="3" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-3" Controller="k8-pb-4" ModelChain="&gt;Arches-2" WorldPosX="343.7029" WorldPosY="243.7517" WorldPosZ="209.0186" X2="44.930252" Y2="0.528244" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="!k8-pb-4:445">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Port="3" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-2" Controller="k8-pb-4" ModelChain="&gt;Arches-1" WorldPosX="288.6793" WorldPosY="241.2313" WorldPosZ="209.0186" X2="54.765686" Y2="0.974228" Z2="0.000000" RotateX="0.00000000" Height="0.973377" Angle="-2" versionNumber="5" StartChannel="!k8-pb-4:223">
-      <ControllerConnection Port="1" Protocol="ws2811"/>
+      <ControllerConnection Port="3" Protocol="ws2811"/>
     </model>
     <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" parm2="74" LayoutGroup="Default" name="Arches-1" Controller="k8-pb-4" WorldPosX="237.0269" WorldPosY="241.3710" WorldPosZ="209.0186" X2="50.178566" Y2="-0.473740" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="!k8-pb-4:1">
-      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <ControllerConnection Protocol="ws2811" Port="3"/>
     </model>
   </models>
   <view_objects>
@@ -135,9 +135,9 @@
     <storedLayoutGroup value="Default"/>
     <Display2DCenter0 value="0"/>
     <scaleImage value="1"/>
+    <backgroundImage value="F:\git\lightshow\pictures\new house.jpeg"/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
-    <backgroundImage value="F:\git\lightshow\pictures\new house.jpeg"/>
   </settings>
   <colors>
     <DisabledEffect Red="255" Green="255" Blue="0"/>

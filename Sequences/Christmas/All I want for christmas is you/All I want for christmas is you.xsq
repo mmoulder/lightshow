@@ -64,7 +64,7 @@
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=All I WANT FOR CHRSITMAS IS YOU,E_TEXTCTRL_Text_Speed=19,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=89.1,E_TEXTCTRL_Text_Speed=0,X_Effect_Locked=True</Effect>
     <Effect>X_Effect_Locked=True</Effect>
-    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=88.1,E_TEXTCTRL_Text_Speed=0,X_Effect_Locked=True</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=10-12x12 Bold,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font='segoe ui',E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=88.1,E_TEXTCTRL_Text_Speed=0,X_Effect_Locked=True</Effect>
     <Effect>B_CHOICE_BufferStyle=Single Line,E_CHOICE_VUMeter_TimingTrack=Beats,E_CHOICE_VUMeter_Type=Timing Event Pulse,E_SLIDER_VUMeter_Bars=29,X_Effect_Locked=True</Effect>
     <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=67,E_SLIDER_Snowflakes_Speed=1,E_SLIDER_Snowflakes_Type=0,X_Effect_Locked=True</Effect>
     <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=170,E_SLIDER_Strobe_Duration=9,E_SLIDER_Strobe_Type=1,X_Effect_Locked=True</Effect>
@@ -263,7 +263,7 @@
       </SubModelEffectLayer>
       <SubModelEffectLayer name="Matrix">
         <Effect ref="26" name="Text" startTime="0" endTime="6600" palette="9"/>
-        <Effect ref="29" name="Text" selected="1" id="1" startTime="6600" endTime="240150" palette="9"/>
+        <Effect ref="29" name="Text" id="1" startTime="6600" endTime="240150" palette="9"/>
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Boscoyo_HiRes_Singing_Happy_Pumpkin_No3">
